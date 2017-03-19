@@ -10,7 +10,7 @@
         "sharing": "Mui :: Teilen",
         "transfer": "Mui :: Transferieren",
         "user": "Mui :: Allgemein",
-        "validate": "Email bestätign",
+        "validate": "Email-Adresse bestätign",
         "refresh": "Erneuern",
         "profile": "Profil",
         "mail_sent": "Eine Email wurde an Dich gesendet, bitte überprüfe Deinen Posteingang und Deine Spams. Falls Du nach 5 Minuten nichts erhalten hast, versuche es noch mal:",
@@ -49,7 +49,7 @@
         "foldername": "Ordnername",
         "questiond": "Willst Du diesen Ordner entfernen?",
         "questionf": "Willst Du diese Datei entfernen?",
-        "questionrm": "Willst Du diese Ordner/Dateien entfernen??",
+        "questionrm": "Willst Du diese Ordner/Dateien entfernen?",
         "trash_0": "Zeige Gelöschtes",
         "trash_1": "Verlasse Gelöschtes",
         "path": "Pfad",
@@ -58,8 +58,8 @@
         "size": "Size",
         "file": "Datei",
         "folder": "Ordner",
-		    "element": "Element",
-		    "PlurialElement": "Elemente"
+	"element": "Element",
+	"PlurialElement": "Elemente"
     },
 
     "Register": {
@@ -85,7 +85,7 @@
         "bruteforceErr0": "",
         "bruteforceErr1": "Warnung: nach einer großen Anzahl Anfragen von Dir, hast Du nur noch 3 Versuche",
         "bruteforceErr2": "Du hast das Maximum an Anfragen erreicht.",
-        "subject": "Muonium - Account Verifikation",
+        "subject": "Muonium - Accountverifizierung",
         "message": "Willkommen bei Muonium !<br />Um Deinen Account zu verifizieren, klicke auf diesen Link: <a href='https://photon.muonium.ch/neutron/Validate/Key/[id_user]/[key]'>https://photon.muonium.ch/neutron/Validate/Key/[id_user]/[key]</a><br />Mit freundlichen Grüßen,<br />das Muonium Team<br /><br />Diese Email wurde automatisch generiert, bitte antworte nicht darauf."
     },
 
@@ -95,18 +95,18 @@
         "bruteforceErr0": "Ungültige Email-Adresse oder ungültiges Passwort",
         "bruteforceErr1": "Warnung: nach einer großen Anzahl Anfragen von Dir, hast Du nur noch 3 Versuche",
         "bruteforceErr2": "Du hast das Maximum an Anfragen erreicht.",
-        "doubleAuthMessage": "Hi, Dein Authentifikationscode ist [key]<br />Mit freundlichen Grüßen,<br />Diese Email wurde automatisch generiert, bitte antworte nicht darauf.",
+        "doubleAuthMessage": "Hi, Dein Authentifizierungscode ist [key]<br />Mit freundlichen Grüßen,<br />Diese Email wurde automatisch generiert, bitte antworte nicht darauf.",
         "codeMail": "Code per Email empfangen",
         "expired": "Der Code ist abgelaufen, bitte wieder einloggen",
         "invalidCode": "Der eingegebene Code ist ungültig",
         "username": "Email oder Login",
 		"badPassphrase": "Fehler: falsche Passphrase",
-        "doubleAuth": "Eine Email mit einem Authentifikationscode wurde an Dich gesendet. Kopiere diesen Code in das Feld unten. <br />Falls Du nach 5 Minuten von jetzt an nichts erhalten hast und die Email nicht im Spamordner ist, klicke bitte auf diesen <a href='https://photon.muonium.ch/neutron/Logout'>Link</a>, um einen neuen Verbuíndungsversuch durchzuführen."
+        "doubleAuth": "Eine Email mit einem Authentifizierungscode wurde an Dich gesendet. Kopiere diesen Code in das Feld unten. <br />Falls Du nach 5 Minuten von jetzt an nichts erhalten hast und die Email nicht im Spamordner ist, klicke bitte auf diesen <a href='https://photon.muonium.ch/neutron/Logout'>Link</a>, um einen neuen Verbíndungsversuch durchzuführen."
     },
 
     "Validate": {
-        "message": "Fehler: Der Verifikationscode ist falsch, bitte logge Dich ein, um eine neue Verifikationsemail abzusenden",
-        "wait": "Bitte warte eine Minute, bevor Du eine neue Verifikationsemail abschickst",
+        "message": "Fehler: Der Verifizierungscode ist falsch, bitte logge Dich ein, um eine neue Verifizierungsemail abzusenden",
+        "wait": "Bitte warte eine Minute, bevor Du eine neue Verifizierungsemail abschickst",
         "sendmess": "Bitte klicke auf den Link in der Email um Deinen Account zu aktievieren",
         "sendmail": "Neue Email senden"
     },
@@ -116,67 +116,67 @@
         "changepwd": "Mein Passwort ändern",
         "changepp": "Meine Passphrase ändern",
         "newlogin": "Neuer Benutzername",
-        "oldpwd": "Old password",
-        "newpwd": "New password",
-        "oldpp": "Old passphrase",
-        "newpp": "New passphrase",
-        "updateErr": "Unable to update your profile",
-        "updateOk": "Your profile has been successfully updated",
-        "loginExists": "This username is already taken",
-        "badOldPass": "Your old password does not match",
-        "badOldPassphrase": "Your old passphrase does not match",
-        "getpwd": "Unable to get your password",
-        "getpp": "Unable to get your passphrase",
-        "doubleAuth": "Double authentification",
-        "changemail" : "Change Email",
-        "mailFormat": "Mail format is incorrect.",
-        "emptymail": "Please, fill this field",
-        "accountDeletionConfirm": "Do you really want to delete your account ?",
-        "accountDeletionOk": "Your account was successfully deleted!",
-        "deleteAccount": "Delete account"
+        "oldpwd": "Altes Passwort",
+        "newpwd": "Neues Passwort",
+        "oldpp": "Alte Passphrase",
+        "newpp": "Neue Passphrase",
+        "updateErr": "Konnte Dein Profil nicht aktualisieren",
+        "updateOk": "Dein Profil wurde erfolgreich aktualisiert",
+        "loginExists": "Dieser Benutzername ist bereits",
+        "badOldPass": "Dein altes Passwort passt nicht",
+        "badOldPassphrase": "Deine alte Passphrase passt nicht",
+        "getpwd": "Konnte Dein Passwort nicht holen",
+        "getpp": "Konnte Deine Passphrase nicht holen",
+        "doubleAuth": "Doppelte Authentifizierung",
+        "changemail" : "Email-Adresse ändern",
+        "mailFormat": "Format der Email-Adresse ist nicht korrekt.",
+        "emptymail": "Bitte fülle dieses Feld aus",
+        "accountDeletionConfirm": "Willst Du Deinen Account wirklich löschen?",
+        "accountDeletionOk": "Dein Account wurde erfolgreich gelöscht!",
+        "deleteAccount": "Account löschen"
     },
 
     "LostPass": {
-        "updateErr": "Unable to update your account information",
-        "updateOk": "Your account information have been successfully updated",
-        "errmessage": "Error : The validation key is wrong or it expired, please <a href='LostPass'>make a new request</a> and retype your username or email.",
-        "user": "Your email or your username",
-        "subject": "Muonium - Forgot your password",
-        "message": "Hi,<br />To update your password or passphrase, please follow this link : <a href='https://photon.muonium.ch/neutron/LostPass/Key/[id_user]/[key]'>https://photon.muonium.ch/neutron/LostPass/Key/[id_user]/[key]</a><br />Best regards,<br />Muonium Team.<br /><br />This email was automatically generated, please do not answer.",
-        "reset": "Warning ! If you change your passphrase, your account will be resetted and you will loose all your data !"
+        "updateErr": "Konnte Deine Accountinformationen nicht aktualisieren",
+        "updateOk": "Deine Accountinformationen wurden erfolgreich aktualisiert",
+        "errmessage": "Fehler: Der Verifizierungscode ist falsch oder abgelaufen, bitte <a href='LostPass'>mache eine neue Anfrage</a> und gib wieder Deinen Benutzernamen oder Deine Email-Adresse ein.",
+        "user": "Deine Email-Adresse oder Dein Benutzername",
+        "subject": "Muonium - Passwort vergessen",
+        "message": "Hi,<br />Um Dein Passwort oder Deine Passphrase zu aktualisieren, klicke bitte auf folgenden Link: <a href='https://photon.muonium.ch/neutron/LostPass/Key/[id_user]/[key]'>https://photon.muonium.ch/neutron/LostPass/Key/[id_user]/[key]</a><br />Mit freundlichen Grüßen,<br />das Muonium Team.<br /><br />Diese Email wurde automatisch generiert, bitte antworte nicht darauf.",
+        "reset": "Achtung! Wenn Du Deine Passphrase änderst, wird Dein Account zurückgesetzt und Du verlierst alle Deine Daten!"
     },
 
     "RightClick": {
-        "dl": "Download",
-        "rm": "Delete",
-        "star": "Star",
-        "cut": "Cut",
-        "copy": "Copy",
-        "paste": "Paste",
-        "mvLocate": "Move to...",
-        "mvItem": "Rename",
-        "vDetails": "View details",
-        "open": "Open",
-        "nFolder": "New folder...",
-        "upFiles": "Upload files...",
-        "logOut": "Log out",
-        "trash": "Trash",
-        "restore": "Restore"
+        "dl": "Herunterladen",
+        "rm": "Löschen",
+        "star": "Stern",
+        "cut": "Ausschneiden",
+        "copy": "Kopieren",
+        "paste": "Einfügen",
+        "mvLocate": "Verschieben nach...",
+        "mvItem": "Umbenennen",
+        "vDetails": "Details zeigen",
+        "open": "Öffnen",
+        "nFolder": "Neuer Ordner...",
+        "upFiles": "Dateien hochladen...",
+        "logOut": "Ausloggen",
+        "trash": "Gelöschtes",
+        "restore": "Wiederherstellen"
     },
 
     "Bug": {
-        "os": "Operating system",
-        "other": "Other (specify in the message)",
+        "os": "Betriebssystem",
+        "other": "Andere (in der Mitteliung spezifizieren)",
         "browser": "Webbrowser",
         "browserVersion": "Browserversion",
         "message": "Mitteilung",
-        "messageLength": "The message must be at least 50 characters",
-        "form": "Error in the form",
-        "sent": "Your message has been sent successfully. We will respond as soon as possible by email"
+        "messageLength": "Die Mitteilung muss mindestens 50 Zeichen enthalten",
+        "form": "Fehler im Formular",
+        "sent": "Deine Mitteilung wurde erfolgreich abgesendet. Wir werden so schnell wie möglich per Email darauf antworten"
     },
 
 	"cek": {
-		"updateErr": "Fehler: cek kann nicht geupdatet werden",
+		"updateErr": "Fehler: cek kann nicht aktualisiert werden",
 		"empty": "Fehler: cek ist leer"
 	}
 }
