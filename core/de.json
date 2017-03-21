@@ -176,7 +176,7 @@
     },
 
 	"cek": {
-		"updateErr": "Fehler: cek kann nicht aktualisiert werden",
-		"empty": "Fehler: cek ist leer"
+		"updateErr": "Fehler: Content-Encryption Key kann nicht aktualisiert werden",
+		"empty": "Fehler: Content-Encryption Key ist leer"
 	}
 }
