@@ -14,7 +14,7 @@
 
 	"home": {
 		"secureStorageSolution": "SICHERE SPEICHERLÖSUNG",
-		"features": "FEATURES",
+		"features": "EIGENSCHAFTEN",
 		"securedConnections": "Verschlüsselte Verbindung",
 		"securedConnectionsTxt": "Alle Deine Verbidungen mit Muonium sind mit der TLS 1.2 Technologie verschlüsselt",
 		"endToEndEncryption": "Ende-zu-Ende-Verschlüsselung",
