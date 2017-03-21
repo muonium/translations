@@ -1,0 +1,99 @@
+{
+    "global": {
+		"home": "Verschlüssele Deine Daten",
+		"about": "Über",
+		"adventure": "Leistung",
+		"security": "Sicherheit",
+		"blog": "Blog",
+		"donate": "Spenden",
+		"help": "Hilfe",
+		"login": "Login",
+		"register": "Registrieren",
+		"close": "Schließen"
+	},
+
+	"home": {
+		"secureStorageSolution": "SICHERE SPEICHERLÖSUNG",
+		"securedConnections": "Verschlüsselte Verbindung",
+		"securedConnectionsTxt": "Alle Deine Verbidungen mit Muonium sind mit der TLS 1.2 Technologie verschlüsselt",
+		"endToEndEncryption": "Ende-zu-Ende-Verschlüsselung",
+		"endToEndEncryptionTxt": "Alle Deine Daten werden in Deinem Browser verschlüsselt, so kannst nur Du sie einsehen",
+		"protection": "Schutz",
+		"protectionTxt": "Deine Daten sind gegen Spionage geschützt und nur Dein Passwort erlaubt Dir, Deine Daten einzusehen",
+		"free": "Kostenlos",
+		"freeTxt": "Privatspäre im Internet ist ein fundamentales Recht. Deine Spenden unterhalten die Server, das Team und unsere Konferenzen",
+		"openSource": "Open Source",
+		"openSourceTxt": "Muonium benutzt Open-Source-Verschlüsselungsbibliotheken, getestet von der Freie-Software-Gemeinschaft",
+		"anonymity": "Anonymität",
+		"anonymityTxt": "Muonium benötigt keine und sammelt keine persönlichen Informationen, Du bleibst anonym",
+		"modernity": "Modernität",
+		"modernityTxt": "Die Benutzeroberfläche ist inituitiv und modern, somit kannst Du Deine Daten schnell und einfach erreichen",
+		"accessibility": "Zugänglichkeit",
+		"accessibilityTxt": "Erreiche alle Deine Daten ganz einfach online, überall und jederzeit"
+	},
+
+	"about": {
+		"ourPolicy": "Unsere Richtlinien",
+		"policy": "Privatspäre im Internet ist ein Recht. Wieso sollten wir etwas hinnehmen, was wir in unserem alltäglichem Leben (offline) niemals akzeptieren würden? Für viele Jahre haben uns private Unternehmen wie Google, Facebook, etc. genauso wie staatliche Geheimdienste ausspioniert, um jeden Tag Informationen über uns im Internet zu sammeln. Allerdings sind wir in der Lage, diese Massenspionage zu kontern, indem wir Kryptographie benutzen; allerding erlauben uns zu wenige Projekte, uns ordentlich zu beschützen. Aber heute sind wir glücklich, eine sichere Alternative für unsere Emails zu haben: <span>ProtonMail</span>, welches Ende-zu-Ende-Verschlüsselung erlaubt. Du kannst auch <span>Ring.cx</span> oder <span>Tox.chat</span> beutzen, um deine Unterhaltungen zu verschlüsseln.<br />Davon inspiriert haben wir die Entwicklung von <span>Muonium</span> gestartet, um eine sichere Alternative für das Aufbewahren Deiner Dokumente online zu schaffen. Unsere Richtlinien stehen dafür ein, Deine Daten mit ende-zu-ende zu verschlüsseln, und nur Dich den wahren Besitzer Deiner Daten zu machen.",
+		"ourTeam": "Unser Team",
+		"PaulRole": "Mitbegründer & System- und Netzwerkadministrator",
+		"PaulLife": "Paul mag viele Wissenschaften und IT. Er verwaltet die Infrastrukur, das Dateispeichersystem, die Server, and das Muonium Team. Privatspäre im Internet ist ein sehr wichtiges Thema für ihn. Nicht zu vergessen, dass er sich sehr für Mangas, Animes, Dramen, Japan und die Open-Source-Community interessiert.",
+		"DylanRole": "Mitbegründer & Frontend- and Backendentwickler",
+		"DylanLife": "Dylan entwickelt das Backend und hilft Paul, das Muoniumprojekt zu verwalten. Er behandelt auch die Programmierungstechniken für die Webanwendung. Leidenschaftlich für IT und mit einem 'higher technician diploma in computing', studiert er derzeit die Entwicklung von Webanwendungen auf professionellem Nivaeu.",
+		"GioRole": "Mitbegründer & Technischer Supportservice",
+		"GioLife": "Giovanni hilft Benutzern und ab und zu Unternehmen. Er interessiert sich leidenschaftlich für Web-Technologien, Hardware und Android. Er mag Anime und Serien.",
+		"AyaRole": "Backendentwicklerin",
+		"AyaLife": "Aya ist eine Ingenieurin für Electronics & Communication, deren Leidenschaft Programmierung ist. Sie hat ein Diplom in Open Source Web Development und arbeitet als Backendentwicklerin bei Muonium. Außerdem ist sie eine Buchautorin bei Lap Lambert Academic Publishing. Ihre Hobbys sind Musik und Tennis.",
+		"BasmaRole": "Softwareentwicklerin",
+		"BasmaLife": "Basma ist eine Softwareingenieurin mit 6 Jahren Erfahrung in der Software- und Entwicklungsindustrie. Sie arbeitet an der Muoniumdesktopanwendung. Ihre Leidenschaften sind Entwicklung und Bücherlesen.",
+		"SalehRole": "Frontend- und Backendentwicklerin",
+		"SalehLife": "Saleh ist ein Web Developer mit 4 Jahren Erfahrung, er arbeitet mit Basma an der Desktopanwendung.",
+		"KarramRole": "Designer",
+		"KarramLife": "Mohamed kommt aus Aswan, Ägypten. Er ist verantwortlich für das Design von ganz Muonium. Mohamed interessiert sich für visuelle Kommunikation, Branding, Corporate Identity, Ambigram und Sacred Geometry."
+	},
+
+	"adventure": {
+		"phase": "Phase",
+		"mouseDescription": "Maus über eine Blase, um Informationen anzuzeigen",
+		"phase1": "In dieser ersten Phase soll eine komplette Website namens 'Features' für die Projektpräsentation im Allgemeinen, Entwickler und zusätzliche Informationen über die Sicherheit erstellt werden.<br /><br /> Voraussichtliches Startdatum: <b>Ende Januar 2016</ b>",
+		"phase2": "Die zweite Phase beinhaltet die Entwicklung der Managementschnittstelle für Deine Dateien. Die Schnittstelle enthält nur die grundlegenden Funktionen (diese Verschlüsselung wird natürlich als erstes implementiert werden). Nach der Fertigstellung wird die geschlossene Beta gestartet. Sie wird etwa fünfzig Personen enthalten.<br /><br /> Voraussichtliches Startdatum: <b>Dezember 2016</ b>",
+		"phase3": "Die dritte Phase beinhaltet den Kauf unserer eigenen Server und die offene Beta mit zusätzlichen Features (zusätzlich zu den Grundfunktionen). Unsere Server werden etwa 1.000 bis 2.000 Personen unterstützen.<br /><br /> Voraussichtliches Startdatum: <b>Ungewiss</ b>",
+		"phase4": "Die vierte Phase ist die Freigabe einer völlig stabilen Version der Benutzeroberfläche (vermutlich mit Leistungsverbesserungen, Vereinfachungen bestimmter Features, etc.). Der Start der ersten stabilen Version wird mit einem Kauf von mehreren Servern mit hoher Speicherkapazität kommen.<br /><br /> Voraussichtliches Startdatum: <b>Ungewiss</ b>",
+		"phase5": "In der fünften und letzten Phase werden wir vor allem weitere Projekte unter dem Namen <b>Kantum Technologies</ b> und die Finanzierung neuer Server starten. Die Benutzeroberfläche wird durch eine strenge Analyse gehen, um die Benutzererfahrung deutlich zu verbessern.<br /><br /> Voraussichtliches Startdatum: <b>Ungewiss</ b>"
+	},
+
+	"donate": {
+		"serverFinancing": "Teilnahme an Serverfinanzierungen",
+		"teamFinancing": "Teilnahme an Teamfinanzierungen",
+		"conferenceFinancing": "Teilnahme an Konferenzenfinanzierungen",
+		"why": "Warum?",
+		"whyDonate": "Warum spenden?",
+		"whyDonateTxt": "Unser Team besteht aus Studenten, streng genommen nicht Fachleuten. Also werden wir nicht von irgendeinem Job bezahlt. Wenn wir Geld brauchen, müssen wir unsere Zeit der Arbeit widmen, und haben weniger Zeit, an Muonium oder an unseren Studien zu arbeiten.<br />Durch Ihre Spenden schaffen wir es, ein Gleichgewicht zu finden und müssen nicht unbedingt zusätzlich arbeiten, um uns selber zu unterstützen; so können wir uns noch mehr der Entwicklung von Muonium widmen."
+	},
+
+	"help": {
+		"losePwd": "Ich habe mein Passwort verloren, wie kann ich es wiederherstellen?",
+		"losePwdAns": "Wenn es Dein Identifikationspasswort ist, dann klicke auf 'Passwort vergessen?' auf der Anmeldeseite. Ihr Passwort wird zurückgesetzt und eine E-Mail wird mit einem temporären Passwort gesendet.<br />Wenn dies allerdings Dein Entschlüsselungspasswort ist, ist es unmöglich für uns, ein neues zu stzen und Du musst damit rechnen, dass alle Deine Dateien verloren sind.",
+		"whoCanAccessMyFiles": "Wer kann auf meine Dateien zugreifen?",
+		"whoCanAccessMyFilesAns": "Nur Du kannst auf Deine Dateien zugreifen. Ohne technische Begriffe: Du benötigst einen Schlüssel (die 'Passphrase'), um Deine Dateien zu verschlüsseln und zu entschlüsseln. So kann niemand, nicht einmal wir, auf deine Dateien zugreifen.",
+		"howEncrypted": "Wie sind meine Dateien verschlüsselt?",
+		"howEncryptedAns": "Deine Dateien werden dank <a href='http://bitwiseshiftleft.github.io/sjcl/'>SJCL</a> in Deinem Browser mit Deinem persönlichen Schlüssel ende-zu-ende-verschlüsselt und werden auch in Deinem Browser entschlüsselt. So sind Daten, die gesendet werden, bereits verschlüsselt und niemand anderes außer Du kannst sie entschlüsseln.",
+		"howFunded": "Wie wird Muonium finanziert? Erhaltet Ihr Hilfe von Unternehmen?",
+		"howFundedAns": "Nein, die Muoniumrichtlinien lassen nicht zu, zu einer Firma zu gehören (außer zu unserer),um nicht Hilfe von großen Unternehmen zu erhalten, damit wir unsere Datenschutzrichtlinie, etc. nicht zu gefährden... So wird Muonium nur durch Ihre Spenden finanziert. Du kannst eine Tour im <a href='Donate'>'Spenden'-Abschnitt</a> machen, wenn Du interessiert bist.",
+		"helpTerrorism": "Versucht Ihr, Terroristen oder bösen Organisationen zu helfen?",
+		"helpTerrorismAns": "Nein, wir befürworten die Privatsphäre; sicherlich helfen wir, indem wir der Welt eine bessere Privatsphäre geben, unwissentlich Terrorismus. Aber wir sind in der gleichen Situation wie <a href='https://protonmail.com/blog/privacy-encryption-and-terrorism/'>ProtonMail</a>. In jedem Fall, auch wenn wir Muonium nicht entwickeln würden, würden Terroristen und andere Personen oder Gruppen von Personen ihre Daten verschlüsseln.",
+		"anotherQuestion": "Weitere Fragen?",
+		"anotherQuestionAns": "Unsere FAQ wird aktualisiert, sobald wir neue Fragen erhalten. Du erreichst uns unter: <b>muonium [AT] protonmail [PUNKT] ch</ b>"
+	},
+
+	"security": {
+		"communicationsEncryption": "Kommunikationsverschlüsselung",
+		"communicationsEncryptionTxt": "Muonium verwendet die <a href='https://de.wikipedia.org/wiki/Transport_Layer_Security#Versionen'>TLS 1.2</a>-Technologie mit einem Zertifikat, das von <a href='https://letsencrypt.org/'>Let's Encrypt</a> generiert wird, um die Kommunikation zwischen Ihren Geräten und Servern zu sichern. Mit dieser Technologie werden die Informationen, die Sie senden (Ihr Benutzername, Passwort, etc.) und erhalten (persönliche Informationen, etc.) mit einem Algorithmus namens <a href='https://de.wikipedia.org/wiki/Advanced_Encryption_Standard'>AES-256</a> verschlüselt, welcher eine Verschlüsselung durch <b>AES-256Bits </ b>erlaubt.<br/>Auch wenn deine Kommunikationen abgefangen wird, können sie dadurch nicht entschlüsselt werden, und man kann die Dateien, die zwischen Dir und den Servern verschickt werden, nichtstehlen.",
+		"filesEncryption": "Datenverschlüsselung",
+		"filesEncryptionTxt": "Wir verwenden eine Ende-zu-Ende-Verschlüsselung. Dies bedeutet, dass, was auch immer der Status ist (Upload, Speicherung, Download), Deine Datei immer noch verschlüsselt ist. Das heißt, wenn jemand die Kommunikation abfängt, wird der Angreifer Ihre Dateien nie lesen. Der verwendete Verschlüsselungsalgorithmus ist <b>AES</ b> mit <a href='http://bitwiseshiftleft.github.io/sjcl/'>SJCL</a> (was eine vollständige Open-Source-Implementierung von AES ist), welches eine <b>256-Bit-Verschlüsselung erlaubt (entspricht mehr als RSA-2048)</ b>. Bei der Erstellung eines Kontos definiert der Benutzer eine persönliche Passphrase (es ist ein Passwort), um seine Dateien zu verschlüsseln und zu entschlüsseln. Mit diesem Prinzip können wir Ihre Dateien nicht entschlüsseln. Wenn Sie sich anmelden, wird Ihre Passphrase in Ihrem Browser gespeichert, um die Verschlüsselung und Entschlüsselung lokal zu ermöglichen. Dies hält die Datei auf jeder Ebene verschlüsselt (Client, Internet, Server).",
+		"EELaws": "Unter den europäischen und estnischen Gesetzen",
+		"EELawsTxt": "Die europäischen und estnischen Kryptographiegesetze sind nicht restriktiv, deshalb wird Muonium in Estland betrieben. Dies erlaubt uns, <b>die Verschlüsselungsschlüssel zu verschlüsseln</ b>, also verschlüsseln wir Deinen Verschlüsselungsschlüssel (dein Verschlüsselungsschlüssel wird verwendet, um deine Dateien zu verschlüsseln) mit Deinem geheimen Passwort (auch als 'Passphrase' bezeichnet)<b>bevor dem Senden an die Server</ b>. Folglich <b>bleibst Du der einzige Besitzer Deines Verschlüsselungsschlüssels und nur Du kannst auf Deine Dateien zugreifen</ b>. Auch dein geheimes Passwort wird niemals an die Server gesendet. Nur du weißt es.",
+		"tripleAuth": "Dreifachauthentifizierung",
+		"tripleAuthTxt": "Nur Du kannst auf Deine Dateien zugreifen. Aus diesem Grund haben wir ein <b>Authentifizierungssystem mit 3 Stufen</ b> entwickelt. Das Prinzip ist ganz einfach: Du gibst <b> Dein Login/Deine Email-Adresse und Dein Passwort</ b> ein und schickst sie ab, das ist die erste Sicherheitsstufe. Sobald Du angemeldet bist, musst Du <b>Deine Passphrase</ b> eingeben, um Deinen Schlüssel entschlüsseln zu können, was Dir dann die Entschlüsselung Deiner Dateien erlaubt, das entspricht der zweiten Stufe. Aber wir haben gedacht, dass eine zusätzliche Stufe mehr Sicherheit bietet. Nach deiner Passphrase, <b>wird eine Email mit einem Code verschickt</ b> und Du musst den empfangenen Code auf der Seite eingeben, um ganz angemeldet zu werden. All dies kann ein wenig lang sein, aber stärkt die Sicherheit Deines Accounts.<br />Dieses System ist inspiriert von der <a href='https://en.wikipedia.org/wiki/Multi-factor_authentication'>Zweifachauthentifizierung</a> von einigen Seiten wie Google Mail oder Facebook."
+	}
+}
