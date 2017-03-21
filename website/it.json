@@ -14,6 +14,7 @@
 
 	"home": {
 		"secureStorageSolution": "SOLUZIONE DI STORAGE SICURO",
+		"features": "FEATURES",
 		"securedConnections": "Connessioni sicure",
 		"securedConnectionsTxt": "Tutte le tue connessioni a Muonium sono rese sicure dalla tecnologia TLS 1.2",
 		"endToEndEncryption": "Crittografia End-to-end",
