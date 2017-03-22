@@ -58,8 +58,8 @@
         "size": "Size",
         "file": "Datei",
         "folder": "Ordner",
-	"element": "Element",
-	"PlurialElement": "Elemente"
+        "element": "Element",
+        "PlurialElement": "Elemente"
     },
 
     "Register": {
@@ -100,7 +100,7 @@
         "expired": "Der Code ist abgelaufen, bitte wieder einloggen",
         "invalidCode": "Der eingegebene Code ist ungültig",
         "username": "Email oder Login",
-		"badPassphrase": "Fehler: falsche Passphrase",
+        "badPassphrase": "Fehler: falsche Passphrase",
         "doubleAuth": "Eine Email mit einem Authentifizierungscode wurde an Dich gesendet. Kopiere diesen Code in das Feld unten. <br>Falls Du nach 5 Minuten von jetzt an nichts erhalten hast und die Email nicht im Spamordner ist, klicke bitte auf diesen <a href='https://photon.muonium.ch/neutron/Logout'>Link</a>, um einen neuen Verbíndungsversuch durchzuführen."
     },
 
@@ -175,8 +175,8 @@
         "sent": "Deine Mitteilung wurde erfolgreich abgesendet. Wir werden so schnell wie möglich per Email darauf antworten"
     },
 
-	"cek": {
-		"updateErr": "Fehler: Content-Encryption Key kann nicht aktualisiert werden",
-		"empty": "Fehler: Content-Encryption Key ist leer"
-	}
+    "cek": {
+        "updateErr": "Fehler: Content-Encryption Key kann nicht aktualisiert werden",
+        "empty": "Fehler: Content-Encryption Key ist leer"
+    }
 }
