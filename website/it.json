@@ -1,100 +1,100 @@
 {
-	"global": {
-		"home": "Cripta i tuoi files",
-		"about": "Informazioni",
-		"adventure": "Traguardi",
-		"security": "Sicurezza",
-		"blog": "Blog",
-		"donate": "Donazione",
-		"help": "Help",
-		"login": "Login",
-		"register": "Registrati",
-		"close": "Chiudi"
-	},
+    "global": {
+        "home": "Cripta i tuoi files",
+        "about": "Informazioni",
+        "adventure": "Traguardi",
+        "security": "Sicurezza",
+        "blog": "Blog",
+        "donate": "Donazione",
+        "help": "Help",
+        "login": "Login",
+        "register": "Registrati",
+        "close": "Chiudi"
+    },
 
-	"home": {
-		"secureStorageSolution": "SOLUZIONE DI STORAGE SICURO",
-		"features": "FEATURES",
-		"securedConnections": "Connessioni sicure",
-		"securedConnectionsTxt": "Tutte le tue connessioni a Muonium sono rese sicure dalla tecnologia TLS 1.2",
-		"endToEndEncryption": "Crittografia End-to-end",
-		"endToEndEncryptionTxt": "Tutti i tuoi files sono criptati sul tuo browser, così solo tu puoi consultarli",
-		"protection": "Protezione",
-		"protectionTxt": "I tuoi files sono protetti contro lo spionaggio e solo la tua password consente l'accesso ai files",
-		"free": "Gratis",
-		"freeTxt": "La privacy su internet è un diritto fondamentale. La tua donazione sovvenziona i server, lo staff e le nostre conferenze",
-		"openSource": "OpenSource",
-		"openSourceTxt": "Muonium usa librerie crittocrafiche open source, testate dalla community del free software",
-		"anonymity": "Anonimato",
-		"anonymityTxt": "Muonium non richiede e non raccoglie alcuna informazione personale: tu resti anonimo",
-		"modernity": "Modernità",
-		"modernityTxt": "L'interfaccia è moderna e intuitiva e ti permette di accedere ai tuoi files in modo facile e veloce",
-		"accessibility": "Accessibilità",
-		"accessibilityTxt": "Accedi facilmente a tutti i tuoi files online, ovunque tu sia e quando vuoi"
-	},
+    "home": {
+        "secureStorageSolution": "SOLUZIONE DI STORAGE SICURO",
+        "features": "FEATURES",
+        "securedConnections": "Connessioni sicure",
+        "securedConnectionsTxt": "Tutte le tue connessioni a Muonium sono rese sicure dalla tecnologia TLS 1.2",
+        "endToEndEncryption": "Crittografia End-to-end",
+        "endToEndEncryptionTxt": "Tutti i tuoi files sono criptati sul tuo browser, così solo tu puoi consultarli",
+        "protection": "Protezione",
+        "protectionTxt": "I tuoi files sono protetti contro lo spionaggio e solo la tua password consente l'accesso ai files",
+        "free": "Gratis",
+        "freeTxt": "La privacy su internet è un diritto fondamentale. La tua donazione sovvenziona i server, lo staff e le nostre conferenze",
+        "openSource": "OpenSource",
+        "openSourceTxt": "Muonium usa librerie crittocrafiche open source, testate dalla community del free software",
+        "anonymity": "Anonimato",
+        "anonymityTxt": "Muonium non richiede e non raccoglie alcuna informazione personale: tu resti anonimo",
+        "modernity": "Modernità",
+        "modernityTxt": "L'interfaccia è moderna e intuitiva e ti permette di accedere ai tuoi files in modo facile e veloce",
+        "accessibility": "Accessibilità",
+        "accessibilityTxt": "Accedi facilmente a tutti i tuoi files online, ovunque tu sia e quando vuoi"
+    },
 
-	"about": {
-		"ourPolicy": "La nostra policy",
-		"ourTeam": "IL nostro team",
-		"policy": "La privacy su internet è un diritto. Perchè dovremmo accettare ciò che non accetteremmo nella nostra vita quotidiana (offline)? Da molti anni, aziende private come Google, Facebook, etc... e persino agenzie governative ci spiano per raccogliere ogni giorno informazioni su di noi. Fortunatamente possiamo contrastare questo spionaggio di massa grazie alla crittografia, ma purtroppo soltanto pochi progetti ci consentono di proteggerci adeguatamente. Per fortuna oggi abbiamo una sicura alternativa per le nostre mail: <span>ProtonMail</span>, che consente una crittografia end-to-end. Inoltre, puoi utilizzare <span>Ring.cx</span> oppure <span>Tox.chat</span> per criptare le tue conversazioni.<br />In questa prospettiva abbiamo lanciato lo sviluppo di <span>Muonium</span>, per offrire un'alternativa per l'archiviazione sicura dei tuoi documenti online. La nostra policy ci impone di crittografare end-to-end i tuoi files, rendendoti l'unico, autentico proprietario.",
-		"PaulRole": "Co-founder & Systems and network admin",
-		"PaulLife": "Paul è amante della scienza e dell'IT. Gestisce l'infrastruttura, i sistemi di data storage, the servers, and, the Muonium team. Privacy on Internet is a subject very important to him. Not forgetting that he takes a lot of interest in mangas, animes, dramas, Japan, and the open source community.",
-		"DylanRole": "Co-founder & Back-end developer",
-		"DylanLife": "Dylan sviluppa il back-end, and coadiuva Paul nella gestione del progetto Muonium. Inoltre si occupa delle tecniche di programmazione per la web application. Appassionato di IT, con un diploma informatico, sta attualmente studiando lo sviluppo di web application development nell'ambito di un degree professionale.",
-		"GioRole": "Technical support service",
-		"GioLife": "Giovanni è appassionato di tecnologie web, hardware e Android. Adora gli anime e le serie tv.",
-		"AyaRole": "Back-end developer",
-		"AyaLife": "Aya is an Eletronics & Communication Engineer whose passion is programming. She has Diploma in Open Source Web Development and works as back-end developer at Muonium. Also, she is a book author in Lap Lambert Academic Publishing. Her hobbies are music and tennis.",
-		"BasmaRole": "Software developer",
-		"BasmaLife": "Basma is a software Engineer with 6 years experience in the software and development industry. She works on the Muonium desktop application. Her passion is developing and reading books.",
-		"SalehRole": "Front-end and Back-end developer",
-		"SalehLife": "Saleh is Web Developer with 4 years experience , he is working on desktop application with Basma.",
-		"KarramRole": "Designer",
-		"KarramLife": "Mohamed comes from Aswan, Egypt. He's responsible of the whole Muonium's design. Mohamed is interested in visual communication, branding, corporate identity, ambigram and Sacred Geometry."
-	},
+    "about": {
+        "ourPolicy": "La nostra policy",
+        "ourTeam": "IL nostro team",
+        "policy": "La privacy su internet è un diritto. Perchè dovremmo accettare ciò che non accetteremmo nella nostra vita quotidiana (offline)? Da molti anni, aziende private come Google, Facebook, etc... e persino agenzie governative ci spiano per raccogliere ogni giorno informazioni su di noi. Fortunatamente possiamo contrastare questo spionaggio di massa grazie alla crittografia, ma purtroppo soltanto pochi progetti ci consentono di proteggerci adeguatamente. Per fortuna oggi abbiamo una sicura alternativa per le nostre mail: <span>ProtonMail</span>, che consente una crittografia end-to-end. Inoltre, puoi utilizzare <span>Ring.cx</span> oppure <span>Tox.chat</span> per criptare le tue conversazioni.<br>In questa prospettiva abbiamo lanciato lo sviluppo di <span>Muonium</span>, per offrire un'alternativa per l'archiviazione sicura dei tuoi documenti online. La nostra policy ci impone di crittografare end-to-end i tuoi files, rendendoti l'unico, autentico proprietario.",
+        "PaulRole": "Co-founder & Systems and network admin",
+        "PaulLife": "Paul è amante della scienza e dell'IT. Gestisce l'infrastruttura, i sistemi di data storage, the servers, and, the Muonium team. Privacy on Internet is a subject very important to him. Not forgetting that he takes a lot of interest in mangas, animes, dramas, Japan, and the open source community.",
+        "DylanRole": "Co-founder & Back-end developer",
+        "DylanLife": "Dylan sviluppa il back-end, and coadiuva Paul nella gestione del progetto Muonium. Inoltre si occupa delle tecniche di programmazione per la web application. Appassionato di IT, con un diploma informatico, sta attualmente studiando lo sviluppo di web application development nell'ambito di un degree professionale.",
+        "GioRole": "Technical support service",
+        "GioLife": "Giovanni è appassionato di tecnologie web, hardware e Android. Adora gli anime e le serie tv.",
+        "AyaRole": "Back-end developer",
+        "AyaLife": "Aya is an Eletronics & Communication Engineer whose passion is programming. She has Diploma in Open Source Web Development and works as back-end developer at Muonium. Also, she is a book author in Lap Lambert Academic Publishing. Her hobbies are music and tennis.",
+        "BasmaRole": "Software developer",
+        "BasmaLife": "Basma is a software Engineer with 6 years experience in the software and development industry. She works on the Muonium desktop application. Her passion is developing and reading books.",
+        "SalehRole": "Front-end and Back-end developer",
+        "SalehLife": "Saleh is Web Developer with 4 years experience , he is working on desktop application with Basma.",
+        "KarramRole": "Designer",
+        "KarramLife": "Mohamed comes from Aswan, Egypt. He's responsible of the whole Muonium's design. Mohamed is interested in visual communication, branding, corporate identity, ambigram and Sacred Geometry."
+    },
 
-	"adventure": {
-		"phase": "Fase",
-		"mouseDescription": "Seleziona una bolla per visualizzare le informazioni",
-		"phase1": "La prima fase consiste nel creare un sito completo di features per la presentazione del progetto in generale, degli sviluppatori e di informazioni riguardanti la sicurezza.<br /><br />Data di lancio prevista: <b>Fine gennaio 2016</b>",
-		"phase2": "La seconda fase riguarda lo sviluppo dell'interfaccia di gestione dei tuoi files. L'interfaccia includerà le features di base (la crittografia sarà ovviamente il primo aspetto sviluppato). Una volta terminato lo sviluppo, sarà rilasciata la versione beta limitata. Includerà circa 50 persone.<br /><br />Data di lancio prevista: <b>Dicembre 2016</b>",
-		"phase3": "La terza fase involve l'acquisto dei nostri server e beat pubbliche aperte con features aggiuntive (oltre alle caratteristiche di base). I nostri server supporteranno da 1,000 a 2,000 persone circa.<br /><br />Data di lancio prevista: <b>Incerta</b>",
-		"phase4": "La quarta fase è la release di una versione completamente stabile dell'interfaccia (probabilmente con miglioramente di performance, semplificazioni di certe features, ecc ...). Il lancio della prima stable version avverrà in corrispondenza dell'acquisto di svariati server ad alta capacità di storage.<br /><br />Data di lancio prevista: <b>Incerta</b>",
-		"phase5": "La quinta fase, quella finale, lancerà altri progetti sotto il nome <b>Kantum Technologies</b> e il finanziamento di nuovi server. L'interfaccia sarà sottoposta a severe analisi per migliorare drasticamente la user experience.<br /><br />Data di lancio prevista: <b>Incerta</b>"
-	},
+    "adventure": {
+        "phase": "Fase",
+        "mouseDescription": "Seleziona una bolla per visualizzare le informazioni",
+        "phase1": "La prima fase consiste nel creare un sito completo di features per la presentazione del progetto in generale, degli sviluppatori e di informazioni riguardanti la sicurezza.<br><br >Data di lancio prevista: <b>Fine gennaio 2016</b>",
+        "phase2": "La seconda fase riguarda lo sviluppo dell'interfaccia di gestione dei tuoi files. L'interfaccia includerà le features di base (la crittografia sarà ovviamente il primo aspetto sviluppato). Una volta terminato lo sviluppo, sarà rilasciata la versione beta limitata. Includerà circa 50 persone.<br><br>Data di lancio prevista: <b>Dicembre 2016</b>",
+        "phase3": "La terza fase involve l'acquisto dei nostri server e beat pubbliche aperte con features aggiuntive (oltre alle caratteristiche di base). I nostri server supporteranno da 1,000 a 2,000 persone circa.<br><br>Data di lancio prevista: <b>Incerta</b>",
+        "phase4": "La quarta fase è la release di una versione completamente stabile dell'interfaccia (probabilmente con miglioramente di performance, semplificazioni di certe features, ecc ...). Il lancio della prima stable version avverrà in corrispondenza dell'acquisto di svariati server ad alta capacità di storage.<br><br>Data di lancio prevista: <b>Incerta</b>",
+        "phase5": "La quinta fase, quella finale, lancerà altri progetti sotto il nome <b>Kantum Technologies</b> e il finanziamento di nuovi server. L'interfaccia sarà sottoposta a severe analisi per migliorare drasticamente la user experience.<br><br>Data di lancio prevista: <b>Incerta</b>"
+    },
 
-	"donate": {
-		"serverFinancing": "Partecipa al finanziamento dei server",
-		"teamFinancing": "Participa al finanziamento del team",
-		"conferenceFinancing": "Participa al finanziamento delle conferenze",
-		"why": "Perchè?",
-		"whyDonate": "Perchè donare?",
-		"whyDonateTxt": "Il nostro team è composto da studenti, non ufficialmente professionisti. Quindi, non siamo pagati per il nostro lavoro. Se abbiamo bisogno di denaro, dobbiamo trovare qualche impiego, che significa togliere tempo al lavoro su Muonium o ai nostri studi. <br />Se grazie alle vostre donazioni riuscissimo a raggiungere una parità di bilancio senza essere necessariamente costretti a dedicarci ad altri lavori per mantenerci, allora potremmo dedicarci totalmente allo sviluppo di Muonium."
-	},
+    "donate": {
+        "serverFinancing": "Partecipa al finanziamento dei server",
+        "teamFinancing": "Participa al finanziamento del team",
+        "conferenceFinancing": "Participa al finanziamento delle conferenze",
+        "why": "Perchè?",
+        "whyDonate": "Perchè donare?",
+        "whyDonateTxt": "Il nostro team è composto da studenti, non ufficialmente professionisti. Quindi, non siamo pagati per il nostro lavoro. Se abbiamo bisogno di denaro, dobbiamo trovare qualche impiego, che significa togliere tempo al lavoro su Muonium o ai nostri studi. <br>Se grazie alle vostre donazioni riuscissimo a raggiungere una parità di bilancio senza essere necessariamente costretti a dedicarci ad altri lavori per mantenerci, allora potremmo dedicarci totalmente allo sviluppo di Muonium."
+    },
 
-	"help": {
-		"losePwd": "Ho perso la mia password, come posso recuperarla?",
-		"losePwdAns": "Se si tratta della tua password identificativa, Allora clicca su \"Password dimenticata?\" nella pagina di login. La tua password sarà resettata e riceverai una mail con una password temporanea.<br />Se invece si tratta della tua password di decriptazione, per noi è impossibile impostarne una nuova e potresti aver perso i tuoi files.",
-		"whoCanAccessMyFiles": "Chi può accedere ai miei files?",
-		"whoCanAccessMyFilesAns": "Solo tu puoi accedere ai tuoi files. Senza troppi tecnicismi, ti serve una chiave (la \"frase di sicurezza\") per criptare e decriptare i tuoi files. Perciò nessuno, nemmeno noi, può accedere ai tuoi files, a parte te.",
-		"howEncrypted": "Come sono crittografati i miei files?",
-		"howEncryptedAns": "I tuoi files sono crittografati end-to-end grazie a <a href='http://bitwiseshiftleft.github.io/sjcl/'>SJCL</a> a livello del tuo browser utilizzando la tua chiave personale, decriptata sempre nel browser. Di conseguenza, i dati inviati sono già crittografati e nessuno tranne te può decifrarli.",
-		"howFunded": "Come è finanziato Muonium ? Ricevete sovvenzioni da qualche azienda?",
-		"howFundedAns": "No, la policy di Muonium è di non appartenere ad alcuna azienda (a parte la nostra), di non ricevere aiuto dalle big companies, per non mettere a rischio la nostra privacy policy, ecc... Quindi, Muonium è finanziato solo attraverso le tue donazioni. Se sei interessato puoi visitare la <a href='Donate'>sezione 'Donazioni'</a>.",
-		"helpTerrorism": "State cercando di aiutare i terroristi o altre organizzazioni malavitose?",
-		"helpTerrorismAns": "No: difendiamo la privacy, e aiutando il mondo ad avere una privacy migliore, involontariamente aiutiamo il terrorismo. Ma siamo nella stessa situazione di <a href='https://protonmail.com/blog/privacy-encryption-and-terrorism/'>ProtonMail</a>. In ogni caso, anche se noi non sviluppassimo Muonium, i terroristi e ogni altra persona o gruppo di persone cripterebbero comunque i loro dati.",
-		"anotherQuestion": "Altre domande?",
-		"anotherQuestionAns": "Le nostre FAQ verranno aggiornate con le nuove domande che riceveremo. Puoi contattarci a: <b>muonium [AT] protonmail [DOT] ch"
-	},
+    "help": {
+        "losePwd": "Ho perso la mia password, come posso recuperarla?",
+        "losePwdAns": "Se si tratta della tua password identificativa, Allora clicca su \"Password dimenticata?\" nella pagina di login. La tua password sarà resettata e riceverai una mail con una password temporanea.<br>Se invece si tratta della tua password di decriptazione, per noi è impossibile impostarne una nuova e potresti aver perso i tuoi files.",
+        "whoCanAccessMyFiles": "Chi può accedere ai miei files?",
+        "whoCanAccessMyFilesAns": "Solo tu puoi accedere ai tuoi files. Senza troppi tecnicismi, ti serve una chiave (la \"frase di sicurezza\") per criptare e decriptare i tuoi files. Perciò nessuno, nemmeno noi, può accedere ai tuoi files, a parte te.",
+        "howEncrypted": "Come sono crittografati i miei files?",
+        "howEncryptedAns": "I tuoi files sono crittografati end-to-end grazie a <a href='http://bitwiseshiftleft.github.io/sjcl/'>SJCL</a> a livello del tuo browser utilizzando la tua chiave personale, decriptata sempre nel browser. Di conseguenza, i dati inviati sono già crittografati e nessuno tranne te può decifrarli.",
+        "howFunded": "Come è finanziato Muonium ? Ricevete sovvenzioni da qualche azienda?",
+        "howFundedAns": "No, la policy di Muonium è di non appartenere ad alcuna azienda (a parte la nostra), di non ricevere aiuto dalle big companies, per non mettere a rischio la nostra privacy policy, ecc... Quindi, Muonium è finanziato solo attraverso le tue donazioni. Se sei interessato puoi visitare la <a href='Donate'>sezione 'Donazioni'</a>.",
+        "helpTerrorism": "State cercando di aiutare i terroristi o altre organizzazioni malavitose?",
+        "helpTerrorismAns": "No: difendiamo la privacy, e aiutando il mondo ad avere una privacy migliore, involontariamente aiutiamo il terrorismo. Ma siamo nella stessa situazione di <a href='https://protonmail.com/blog/privacy-encryption-and-terrorism/'>ProtonMail</a>. In ogni caso, anche se noi non sviluppassimo Muonium, i terroristi e ogni altra persona o gruppo di persone cripterebbero comunque i loro dati.",
+        "anotherQuestion": "Altre domande?",
+        "anotherQuestionAns": "Le nostre FAQ verranno aggiornate con le nuove domande che riceveremo. Puoi contattarci a: <b>muonium [AT] protonmail [DOT] ch"
+    },
 
-	"security": {
-		"communicationsEncryption": "Crittografia comunicazioni",
-		"communicationsEncryptionTxt": "Muonium usa una tecnologia <a href='https://en.wikipedia.org/wiki/Transport_Layer_Security#TLS_1.2'>TLS 1.2</a> con un certificato generato da <a href='https://letsencrypt.org/'>Let's Encrypt</a> per assicurare la comunicazione tra i tuoi devices e i server. Grazie a questa tecnologia, le informazioni che invii (il tuo username, password, ecc...) e ricevi (informazioni personali, ecc...) sono crittografate utilizzando un algoritmo chiamato <a href='https://en.wikipedia.org/wiki/Advanced_Encryption_Standard'>AES-256</a> che consente una crittografia <b>AES - 256 bits</b>.<br />Perciò, anche se le tue comunicazioni venissero intercettate, non possono essere decifrate e nessuno potrebbe sottrarre le informazioni in transito tra te e i server.",
-		"filesEncryption": "Crittografia files",
-		"filesEncryptionTxt": "Utilizziamo la crittografia end-to-end. QUesto significa che in ogni fase (upload, storage, download), i tuoi files saranno sempre criptati. Quindi, se qualcuno dovesse intercettare le tue comunicazioni, non potrà leggere i tuoi files. L'algoritmo crittografico utilizzato è <b>AES</b> con <a href='http://bitwiseshiftleft.github.io/sjcl/'>SJCL</a> (che è una implementazione completa e open source di AES) che consente una <b>crittografia a 256 bit (equivalente RSA 2048)</b>. Quando si crea un account, l'utente definisce una frase personale (si tratta di una password) per criptare e decodificare i suoi files. Grazie a questo principio, non possiamo decriptare i tuoi filese. Quando effettui il login, la tua frase di sicurezza è salvata nel tuo browser per attivare localmente la crittografia e decodifica. Questo metodo mantiene i files crittografatia ad ogni livello (client, Internet, server).",
-		"EELaws": "Under the European and Estonian laws",
-		"EELawsTxt": "European and Estonian cryptography laws aren't restrictive, that's why Muonium will be deployed in Estonia. Those allow us to <b>encrypt the encryption keys</b>, then we encrypt your encryption key (your encryption key is used to encrypt your files) with your secrete password (also called \"passphrase\") <b>before sending it to the servers</b>. Consequently, <b>you remain the only one owner of your encryption key, and then, only you can access your files</b>. Also, your secrete password will never be sent to the servers. Only you know it.",
-		"tripleAuth": "Tripla autenticazione",
-		"tripleAuthTxt": "Solo tu puoi accedere ai tuoi files. Ecco perchè abbiamo sviluppato un <b>sistema di autenticazione a 3 livelli</b>. Il principio è piuttosto semplice: inserisci <b>la tua login/mail e la tua password</b>, e questo è il primo livello di sicurezza. Dopo esserti loggato, devi inserire la tua <b>frase di sicurezza</b> per poter decriptare la tua chiave, che consente la decodifica dei files; questo corrisponde al secondo livello. Ma abbiamo pensato ad un altro livello per aggiungere maggiore sicurezza. Dopo l'inserimento della tua frase di sicurezza, <b>ti verrà inviato un codice via mail</b>: devi inserire il codice ricevuto per essere completamente loggato. Tutto ciò può sembrare troppo complesso, ma rafforza la sicurezza del tuo account.<br />Questo sistema è ispirato alla <a href='https://en.wikipedia.org/wiki/Multi-factor_authentication'>doppia autenticazione</a> creata da alcuni siti come Gmail o Facebook."
-	}
+    "security": {
+        "communicationsEncryption": "Crittografia comunicazioni",
+        "communicationsEncryptionTxt": "Muonium usa una tecnologia <a href='https://en.wikipedia.org/wiki/Transport_Layer_Security#TLS_1.2'>TLS 1.2</a> con un certificato generato da <a href='https://letsencrypt.org/'>Let's Encrypt</a> per assicurare la comunicazione tra i tuoi devices e i server. Grazie a questa tecnologia, le informazioni che invii (il tuo username, password, ecc...) e ricevi (informazioni personali, ecc...) sono crittografate utilizzando un algoritmo chiamato <a href='https://en.wikipedia.org/wiki/Advanced_Encryption_Standard'>AES-256</a> che consente una crittografia <b>AES - 256 bits</b>.<br>Perciò, anche se le tue comunicazioni venissero intercettate, non possono essere decifrate e nessuno potrebbe sottrarre le informazioni in transito tra te e i server.",
+        "filesEncryption": "Crittografia files",
+        "filesEncryptionTxt": "Utilizziamo la crittografia end-to-end. QUesto significa che in ogni fase (upload, storage, download), i tuoi files saranno sempre criptati. Quindi, se qualcuno dovesse intercettare le tue comunicazioni, non potrà leggere i tuoi files. L'algoritmo crittografico utilizzato è <b>AES</b> con <a href='http://bitwiseshiftleft.github.io/sjcl/'>SJCL</a> (che è una implementazione completa e open source di AES) che consente una <b>crittografia a 256 bit (equivalente RSA 2048)</b>. Quando si crea un account, l'utente definisce una frase personale (si tratta di una password) per criptare e decodificare i suoi files. Grazie a questo principio, non possiamo decriptare i tuoi filese. Quando effettui il login, la tua frase di sicurezza è salvata nel tuo browser per attivare localmente la crittografia e decodifica. Questo metodo mantiene i files crittografatia ad ogni livello (client, Internet, server).",
+        "EELaws": "Under the European and Estonian laws",
+        "EELawsTxt": "European and Estonian cryptography laws aren't restrictive, that's why Muonium will be deployed in Estonia. Those allow us to <b>encrypt the encryption keys</b>, then we encrypt your encryption key (your encryption key is used to encrypt your files) with your secrete password (also called \"passphrase\") <b>before sending it to the servers</b>. Consequently, <b>you remain the only one owner of your encryption key, and then, only you can access your files</b>. Also, your secrete password will never be sent to the servers. Only you know it.",
+        "tripleAuth": "Tripla autenticazione",
+        "tripleAuthTxt": "Solo tu puoi accedere ai tuoi files. Ecco perchè abbiamo sviluppato un <b>sistema di autenticazione a 3 livelli</b>. Il principio è piuttosto semplice: inserisci <b>la tua login/mail e la tua password</b>, e questo è il primo livello di sicurezza. Dopo esserti loggato, devi inserire la tua <b>frase di sicurezza</b> per poter decriptare la tua chiave, che consente la decodifica dei files; questo corrisponde al secondo livello. Ma abbiamo pensato ad un altro livello per aggiungere maggiore sicurezza. Dopo l'inserimento della tua frase di sicurezza, <b>ti verrà inviato un codice via mail</b>: devi inserire il codice ricevuto per essere completamente loggato. Tutto ciò può sembrare troppo complesso, ma rafforza la sicurezza del tuo account.<br>Questo sistema è ispirato alla <a href='https://en.wikipedia.org/wiki/Multi-factor_authentication'>doppia autenticazione</a> creata da alcuni siti come Gmail o Facebook."
+    }
 }
