@@ -24,7 +24,7 @@
         "free": "Gratuit",
         "freeTxt": "La vie privée sur Internet est un droit. Ce sont vos dons qui permettent de financer les serveurs, l'équipe ainsi que nos conférences",
         "openSource": "OpenSource",
-        "openSourceTxt": "Muonium utilise des librairies de chiffrements opensources, testées par la communauté du Libre",
+        "openSourceTxt": "Muonium est totalement opensource, vous pouvez vérifier le code source sur <a href=\"https://github.com/muonium\">GitHub</a>",
         "anonymity": "Anonymat",
         "anonymityTxt": "Muonium ne requiert et ne collecte aucune information personnelle, vous restez anonyme",
         "modernity": "Modernité",

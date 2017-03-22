@@ -24,7 +24,7 @@
         "free": "Kostenlos",
         "freeTxt": "Privatspäre im Internet ist ein fundamentales Recht. Deine Spenden unterhalten die Server, das Team und unsere Konferenzen",
         "openSource": "Open Source",
-        "openSourceTxt": "Muonium benutzt Open-Source-Verschlüsselungsbibliotheken, getestet von der Freie-Software-Gemeinschaft",
+        "openSourceTxt": "Muonium ist vollständig Opensource-Software. Du kannst wann immer Du willst den Code auf <a href=\"https://github.com/muonium\">GitHub</a> sehen, prüfen und verbessern",
         "anonymity": "Anonymität",
         "anonymityTxt": "Muonium benötigt keine und sammelt keine persönlichen Informationen, Du bleibst anonym",
         "modernity": "Modernität",
@@ -33,7 +33,7 @@
         "accessibilityTxt": "Erreiche alle Deine Daten ganz einfach online, überall und jederzeit"
     },
 
-    "about": {
+  "about": {
         "ourPolicy": "Unsere Richtlinien",
         "policy": "Privatspäre im Internet ist ein Recht. Wieso sollten wir etwas hinnehmen, was wir in unserem alltäglichem Leben (offline) niemals akzeptieren würden? Für viele Jahre haben uns private Unternehmen wie Google, Facebook, etc. genauso wie staatliche Geheimdienste ausspioniert, um jeden Tag Informationen über uns im Internet zu sammeln. Allerdings sind wir in der Lage, diese Massenspionage zu kontern, indem wir Kryptographie benutzen; allerding erlauben uns zu wenige Projekte, uns ordentlich zu beschützen. Aber heute sind wir glücklich, eine sichere Alternative für unsere Emails zu haben: <span>ProtonMail</span>, welches Ende-zu-Ende-Verschlüsselung erlaubt. Du kannst auch <span>Ring.cx</span> oder <span>Tox.chat</span> beutzen, um deine Unterhaltungen zu verschlüsseln.<br>Davon inspiriert haben wir die Entwicklung von <span>Muonium</span> gestartet, um eine sichere Alternative für das Aufbewahren Deiner Dokumente online zu schaffen. Unsere Richtlinien stehen dafür ein, Deine Daten mit ende-zu-ende zu verschlüsseln, und nur Dich den wahren Besitzer Deiner Daten zu machen.",
         "ourTeam": "Unser Team",
