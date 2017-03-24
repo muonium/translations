@@ -75,7 +75,7 @@
 
 "help": {
         "losePwd": "J'ai perdu mon mot de passe, comment le récupérer ?",
-        "losePwdAns": "S'il s'agit de votre mot de passe d'identification, vous avez un lien sur la page de connexion \"Mot de passe oublié ?\". Votre mot de passe sera réinitialisé et un mail vous sera envoyé avec un mot de passe temporaire.<br>En revanche, si c'est votre mot de passe de déchiffrement, il nous est impossible d'en redéfinir un et il faut considérer que tous vos fichiers sont perdus.",
+        "losePwdAns": "S'il s'agit de votre mot de passe d'identification, vous avez un lien sur la page de connexion \"Mot de passe oublié ?\". Votre mot de passe sera réinitialisé et un mail vous sera envoyé avec un lien de réinitialisation de votre mot de passe.<br>En revanche, s'il s'agit de votre mot de passe de déchiffrement (\"passphrase\"), il nous est impossible d'en redéfinir un et il faut considérer que tous vos fichiers sont perdus.",
         "whoCanAccessMyFiles": "Qui peut accéder à mes fichiers ?",
         "whoCanAccessMyFilesAns": "Seul vous pouvez accéder à vos fichiers. Sans rentrer dans les termes techniques. Vous avez besoin d'une clé (la \"passphrase\") pour chiffrer et déchiffrer vos fichiers. Ainsi, personne, même pas nous, ne peut accéder à vos fichiers à part vous.",
         "howEncrypted": "Comment sont chiffrés mes fichiers ?",
