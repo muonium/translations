@@ -75,7 +75,7 @@
 
     "help": {
         "losePwd": "I lost my password, how can I recover it ?",
-        "losePwdAns": "If this is your identification password, then click on \"Forgot password?\" on the login page. Your password will be reset and an email will be sent with a temporary password.<br>However, if this is your decryption password, it's impossible for us to redefine one and you must consider that all your files are lost.",
+        "losePwdAns": "If this is your identification password, then click on \"Forgot password?\" on the login page. Your password will be reset and an email will be sent with reset password link.<br>However, if this is your decryption password, it's impossible for us to redefine one and you must consider that all your files are lost.",
         "whoCanAccessMyFiles": "Who can access my files ?",
         "whoCanAccessMyFilesAns": "Only you can access your files. Without technical terms, you need a key (the \"passphrase\") to encrypt and decrypt your files. Thus, nobody, not even we, can access your files, you apart.",
         "howEncrypted": "How my files are encrypted ?",

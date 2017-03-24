@@ -74,7 +74,7 @@
 
     "help": {
         "losePwd": "Ich habe mein Passwort verloren, wie kann ich es wiederherstellen?",
-        "losePwdAns": "Wenn es Dein Identifikationspasswort ist, dann klicke auf 'Passwort vergessen?' auf der Anmeldeseite. Ihr Passwort wird zurückgesetzt und eine E-Mail wird mit einem temporären Passwort gesendet.<br>Wenn dies allerdings Dein Entschlüsselungspasswort ist, ist es unmöglich für uns, ein neues zu stzen und Du musst damit rechnen, dass alle Deine Dateien verloren sind.",
+        "losePwdAns": "If this is your identification password, then click on \"Forgot password?\" on the login page. Your password will be reset and an email will be sent with reset password link.<br>However, if this is your decryption password, it's impossible for us to redefine one and you must consider that all your files are lost.",
         "whoCanAccessMyFiles": "Wer kann auf meine Dateien zugreifen?",
         "whoCanAccessMyFilesAns": "Nur Du kannst auf Deine Dateien zugreifen. Ohne technische Begriffe: Du benötigst einen Schlüssel (die 'Passphrase'), um Deine Dateien zu verschlüsseln und zu entschlüsseln. So kann niemand, nicht einmal wir, auf deine Dateien zugreifen.",
         "howEncrypted": "Wie sind meine Dateien verschlüsselt?",
