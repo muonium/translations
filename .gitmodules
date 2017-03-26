@@ -1,0 +1,6 @@
+[submodule "website-translations"]
+	path = website-translations
+	url = git@github.com:muonium/website-translations.git
+[submodule "core-translations"]
+	path = core-translations
+	url = git@github.com:muonium/core-translations.git
