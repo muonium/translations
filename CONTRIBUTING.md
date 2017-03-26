@@ -7,6 +7,16 @@ want to translate in Spanish.
 
 So, I copy fr.json in es.json, and I start to translate.
 
+### ISO
+The ISO used is shortest ISO 639.
+
+For example:
+
+French: fr
+English: en
+American: en-US
+Estonian: et (not ee)
+Arabic: ar
 
 ### Framework
 
