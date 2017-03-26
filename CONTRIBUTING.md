@@ -31,7 +31,7 @@ Here, we see that "global" is the "category", it is used in the code to identify
 
 "Encrypt your files" is the translation text, it's what you need to translate. (You can overwrite)
 
-## Code Style
+### Code Style
 
 Please use following style: Intend mode `Spaces` and Intend size `4`. If you have done this (you can adjust that at the top of the file right of `Edit file`) you can use tabs, they automatically will turn into four spaces.
 
