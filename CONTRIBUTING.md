@@ -11,7 +11,7 @@ So, I copy fr.json in es.json, and I start to translate.
 ### Framework
 
 ```json
-    "global": {
+"global": {
     "home": "Encrypt your files",
     "about": "About",
     "adventure": "Achievement",
