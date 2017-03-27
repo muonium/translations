@@ -33,7 +33,7 @@ Here, we see that "global" is the "category", it is used in the code to identify
 
 ### Code Style
 
-Please use following style: Intend mode `Spaces` and Intend size `4`. If you have done this (you can adjust that at the top of the file right of `Edit file`) you can use tabs, they automatically will turn into four spaces.
+Please use following style: Intend mode `Spaces` and Intend size `4` in the Github web editor. If you have done this (you can adjust that at the top of the file next to `Edit file`) you can use tabs, they automatically will turn into four spaces.
 
 ### Mistakes
 
