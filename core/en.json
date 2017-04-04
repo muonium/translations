@@ -58,8 +58,8 @@
         "size": "Size",
         "file": "File",
         "folder": "Folder",
-		"element": "Element",
-		"PlurialElement": "Elements",
+        "element": "Element",
+        "PlurialElement": "Elements",
         "replaceFile": "The file [filename] exists, do you want to replace it ?",
         "replaceCompleteFile": "The file [filename] exists and is not completed, what do you want to do ?",
         "quotaExceeded": "Quota exceeded !",
@@ -96,7 +96,7 @@
         "bruteforceErr1": "Warning: following a large number of requests from you, you have only 3 attempts still",
         "bruteforceErr2": "You reached the maximum allowed number of requests.",
         "subject": "Muonium - Account validation",
-        "message": "Welcome to Muonium !<br />To validate your account, follow this link : <a href='https://photon.muonium.ch/neutron/Validate/Key/[id_user]/[key]'>https://photon.muonium.ch/neutron/Validate/Key/[id_user]/[key]</a><br />Best regards,<br />Muonium Team<br /><br />This email was automatically generated, please do not answer."
+        "message": "Welcome to Muonium !<br>To validate your account, follow this link : <a href='https://photon.muonium.ch/neutron/Validate/Key/[id_user]/[key]'>https://photon.muonium.ch/neutron/Validate/Key/[id_user]/[key]</a><br>Best regards,<br>Muonium Team<br><br>This email was automatically generated, please do not answer."
     },
 
     "Login": {
@@ -105,13 +105,13 @@
         "bruteforceErr0": "Invalid email address or password",
         "bruteforceErr1": "Warning: following a large number of requests from you, you have only 3 attempts still",
         "bruteforceErr2": "You reached the maximum allowed number of requests.",
-        "doubleAuthMessage": "Hi, your authentication code is [key]<br />Best regards,<br />Muonium Team<br /><br />This email was automatically generated, please do not answer.",
+        "doubleAuthMessage": "Hi, your authentication code is [key]<br>Best regards,<br>Muonium Team<br><br>This email was automatically generated, please do not answer.",
         "codeMail": "Code received by email",
         "expired": "The code is expired, please login again",
         "invalidCode": "The code entered is invalid",
         "username": "Email or login",
-		"badPassphrase": "Error: bad passphrase",
-        "doubleAuth": "A mail with an authentication code was sent to you. Copy this code in the field above.<br />If you received nothing from now until 5 mn and the mail is not in the Spam folder, please follow this <a href='https://photon.muonium.ch/neutron/Logout'>link</a> to perform a new connection attempt."
+        "badPassphrase": "Error: bad passphrase",
+        "doubleAuth": "A mail with an authentication code was sent to you. Copy this code in the field above.<br>If you received nothing from now until 5 mn and the mail is not in the Spam folder, please follow this <a href='https://photon.muonium.ch/neutron/Logout'>link</a> to perform a new connection attempt."
     },
 
     "Validate": {
@@ -152,7 +152,7 @@
         "errmessage": "Error : The validation key is wrong or it expired, please <a href='LostPass'>make a new request</a> and retype your username or email.",
         "user": "Your email or your username",
         "subject": "Muonium - Forgot your password",
-        "message": "Hi,<br />To update your password or passphrase, please follow this link : <a href='https://photon.muonium.ch/neutron/LostPass/Key/[id_user]/[key]'>https://photon.muonium.ch/neutron/LostPass/Key/[id_user]/[key]</a><br />Best regards,<br />Muonium Team.<br /><br />This email was automatically generated, please do not answer.",
+        "message": "Hi,<br>To update your password or passphrase, please follow this link : <a href='https://photon.muonium.ch/neutron/LostPass/Key/[id_user]/[key]'>https://photon.muonium.ch/neutron/LostPass/Key/[id_user]/[key]</a><br>Best regards,<br>Muonium Team.<br><br>This email was automatically generated, please do not answer.",
         "reset": "Warning ! If you change your passphrase, your account will be resetted and you will loose all your data !"
     },
 
@@ -186,7 +186,7 @@
     },
 
 	"cek": {
-		"updateErr": "Error: cannot update the content encryption key",
-		"empty": "Error: The content encryption key is empty"
+        "updateErr": "Error: cannot update the content encryption key",
+        "empty": "Error: The content encryption key is empty"
 	}
 }
