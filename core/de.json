@@ -24,7 +24,12 @@
         "help": "Hilfe",
         "settings": "Einstellungen",
         "profile": "Profil",
-        "logout": "Logout"
+        "logout": "Logout",
+        "upload": "Upload",
+        "smallIcons": "Small icons",
+        "largeIcons": "Large icons",
+        "multiSelection": "Multi-selection",
+        "selectAll": "Select all"
     },
 
     "Toolbar": {
@@ -40,7 +45,8 @@
         "default": "Ein Fehler ist aufgetreten",
         "form": "Fehler im Formular",
         "pp": "Das Ändern der Passphrase ist gerade nicht verfügbar",
-        "bannedSession": "Du hast das Maximum an Anfragen erreicht"
+        "bannedSession": "Du hast das Maximum an Anfragen erreicht",
+        "dl": "The file downloading feature is not available in your browser."
     },
 
     "User": {
@@ -58,8 +64,8 @@
         "size": "Size",
         "file": "Datei",
         "folder": "Ordner",
-        "element": "Element",
-        "PlurialElement": "Elemente",
+	    "element": "Element",
+	    "PlurialElement": "Elemente",
         "replaceFile": "The file [filename] exists, do you want to replace it ?",
         "replaceCompleteFile": "The file [filename] exists and is not completed, what do you want to do ?",
         "quotaExceeded": "Quota exceeded !",
@@ -69,7 +75,14 @@
         "yesAll": "Yes for all",
         "noAll": "No for all",
         "complete": "Complete",
-        "replace": "Replace"
+        "replace": "Replace",
+        "details": "Details",
+        "folderSelected": "folder(s) selected",
+        "fileSelected": "file(s) selected",
+        "notCompleted": "Not completed",
+        "nothing": "Nothing...",
+        "uploading": "Uploading",
+        "downloading": "Downloading"
     },
 
     "Register": {
@@ -96,7 +109,7 @@
         "bruteforceErr1": "Warnung: nach einer großen Anzahl Anfragen von Dir, hast Du nur noch 3 Versuche",
         "bruteforceErr2": "Du hast das Maximum an Anfragen erreicht.",
         "subject": "Muonium - Accountverifizierung",
-        "message": "Willkommen bei Muonium !<br>Um Deinen Account zu verifizieren, klicke auf diesen Link: <a href='https://photon.muonium.ch/neutron/Validate/Key/[id_user]/[key]'>https://photon.muonium.ch/neutron/Validate/Key/[id_user]/[key]</a><br>Mit freundlichen Grüßen,<br>das Muonium Team<br><br>Diese Email wurde automatisch generiert, bitte antworte nicht darauf."
+        "message": "Willkommen bei Muonium !<br />Um Deinen Account zu verifizieren, klicke auf diesen Link: <a href='https://photon.muonium.ch/neutron/Validate/Key/[id_user]/[key]'>https://photon.muonium.ch/neutron/Validate/Key/[id_user]/[key]</a><br />Mit freundlichen Grüßen,<br />das Muonium Team<br /><br />Diese Email wurde automatisch generiert, bitte antworte nicht darauf."
     },
 
     "Login": {
@@ -105,13 +118,13 @@
         "bruteforceErr0": "Ungültige Email-Adresse oder ungültiges Passwort",
         "bruteforceErr1": "Warnung: nach einer großen Anzahl Anfragen von Dir, hast Du nur noch 3 Versuche",
         "bruteforceErr2": "Du hast das Maximum an Anfragen erreicht.",
-        "doubleAuthMessage": "Hi, Dein Authentifizierungscode ist [key]<br>Mit freundlichen Grüßen,<br>Diese Email wurde automatisch generiert, bitte antworte nicht darauf.",
+        "doubleAuthMessage": "Hi, Dein Authentifizierungscode ist [key]<br />Mit freundlichen Grüßen,<br />Diese Email wurde automatisch generiert, bitte antworte nicht darauf.",
         "codeMail": "Code per Email empfangen",
         "expired": "Der Code ist abgelaufen, bitte wieder einloggen",
         "invalidCode": "Der eingegebene Code ist ungültig",
         "username": "Email oder Login",
-        "badPassphrase": "Fehler: falsche Passphrase",
-        "doubleAuth": "Eine Email mit einem Authentifizierungscode wurde an Dich gesendet. Kopiere diesen Code in das Feld unten. <br>Falls Du nach 5 Minuten von jetzt an nichts erhalten hast und die Email nicht im Spamordner ist, klicke bitte auf diesen <a href='https://photon.muonium.ch/neutron/Logout'>Link</a>, um einen neuen Verbíndungsversuch durchzuführen."
+		"badPassphrase": "Fehler: falsche Passphrase",
+        "doubleAuth": "Eine Email mit einem Authentifizierungscode wurde an Dich gesendet. Kopiere diesen Code in das Feld unten. <br />Falls Du nach 5 Minuten von jetzt an nichts erhalten hast und die Email nicht im Spamordner ist, klicke bitte auf diesen <a href='https://photon.muonium.ch/neutron/Logout'>Link</a>, um einen neuen Verbíndungsversuch durchzuführen."
     },
 
     "Validate": {
@@ -152,7 +165,7 @@
         "errmessage": "Fehler: Der Verifizierungscode ist falsch oder abgelaufen, bitte <a href='LostPass'>mache eine neue Anfrage</a> und gib wieder Deinen Benutzernamen oder Deine Email-Adresse ein.",
         "user": "Deine Email-Adresse oder Dein Benutzername",
         "subject": "Muonium - Passwort vergessen",
-        "message": "Hi,<br>Um Dein Passwort oder Deine Passphrase zu aktualisieren, klicke bitte auf folgenden Link: <a href='https://photon.muonium.ch/neutron/LostPass/Key/[id_user]/[key]'>https://photon.muonium.ch/neutron/LostPass/Key/[id_user]/[key]</a><br>Mit freundlichen Grüßen,<br>das Muonium Team.<br><br>Diese Email wurde automatisch generiert, bitte antworte nicht darauf.",
+        "message": "Hi,<br />Um Dein Passwort oder Deine Passphrase zu aktualisieren, klicke bitte auf folgenden Link: <a href='https://photon.muonium.ch/neutron/LostPass/Key/[id_user]/[key]'>https://photon.muonium.ch/neutron/LostPass/Key/[id_user]/[key]</a><br />Mit freundlichen Grüßen,<br />das Muonium Team.<br /><br />Diese Email wurde automatisch generiert, bitte antworte nicht darauf.",
         "reset": "Achtung! Wenn Du Deine Passphrase änderst, wird Dein Account zurückgesetzt und Du verlierst alle Deine Daten!"
     },
 
@@ -185,8 +198,36 @@
         "sent": "Deine Mitteilung wurde erfolgreich abgesendet. Wir werden so schnell wie möglich per Email darauf antworten"
     },
 
-    "cek": {
-        "updateErr": "Fehler: Content-Encryption Key kann nicht aktualisiert werden",
-        "empty": "Fehler: Content-Encryption Key ist leer"
+	"cek": {
+		"updateErr": "Fehler: Content-Encryption Key kann nicht aktualisiert werden",
+		"empty": "Fehler: Content-Encryption Key ist leer"
+	},
+
+    "Help": {
+        "shortcuts": [
+            "<strong>Desktop version</strong><ul>",
+            "<li>Left click on a file/folder : Select a file/folder - View details</li>",
+            "<li>Left click somewhere else : Remove selection</li>",
+            "<li>Ctrl + Left click : Select multiple files</li>",
+            "<li>Right click : Show actions</li>",
+            "<li>Arrow up : Select previous file</li>",
+            "<li>Arrow down : Select next file</li>",
+            "<li>Ctrl + Arrow up : Add previous file to selection</li>",
+            "<li>Ctrl + Arrow down : Add next file to selection</li>",
+            "<li>Ctrl + A : Select all</li>",
+            "<li>Ctrl + C : Copy</li>",
+            "<li>Ctrl + D : Logout</li>",
+            "<li>Ctrl + I : Invert selection</li>",
+            "<li>Ctrl + R : Move to trash</li>",
+            "<li>Ctrl + S : Save selection</li>",
+            "<li>Ctrl + V : Paste</li>",
+            "<li>Ctrl + X : Cut</li>",
+            "<li>Backspace : Go to parent folder</li>",
+            "<li>Delete : Delete selection</li>",
+            "<li>Esc : Hide actions box</li>",
+            "<li>Enter (on a file) : Download</li>",
+            "<li>Enter (on a folder) : Open folder</li>",
+            "<li>F1 : Help</li></ul>"
+        ]
     }
 }
