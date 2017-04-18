@@ -15,7 +15,7 @@
         "profile": "Profilo",
         "mail_sent": "Ti è stata inviata una mail, per favore controlla la tua casella di posta e lo spam. Se dopo 5 minuti non hai ricevuto nulla, riprova:",
         "submit": "Invia",
-        "bug": "Invia un bug report",
+        "bug": "Bug report",
         "loading": "Caricamento..."
     },
 
@@ -24,7 +24,12 @@
         "help": "Aiuto",
         "settings": "Impostazioni",
         "profile": "Profilo",
-        "logout": "Logout"
+        "logout": "Logout",
+        "upload": "Upload",
+        "smallIcons": "Small icons",
+        "largeIcons": "Large icons",
+        "multiSelection": "Multi-selection",
+        "selectAll": "Select all"
     },
 
     "Toolbar": {
@@ -40,7 +45,8 @@
         "default": "É stato riscontrato un errore",
         "form": "Errore nel form",
         "pp": "La modifica della frase di sicurezza al momento non è disponibile",
-        "bannedSession": "Hai raggiunto il numero massimo di richieste consentite"
+        "bannedSession": "Hai raggiunto il numero massimo di richieste consentite",
+        "dl": "The file downloading feature is not available in your browser."
     },
 
     "User": {
@@ -58,8 +64,8 @@
         "size": "Size",
         "file": "File",
         "folder": "Folder",
-        "element": "Element",
-        "PlurialElement": "Elements",
+		"element": "Element",
+		"PlurialElement": "Elements",
         "replaceFile": "The file [filename] exists, do you want to replace it ?",
         "replaceCompleteFile": "The file [filename] exists and is not completed, what do you want to do ?",
         "quotaExceeded": "Quota exceeded !",
@@ -69,7 +75,14 @@
         "yesAll": "Sì per tutti",
         "noAll": "No per tutti",
         "complete": "Complete",
-        "replace": "Replace"
+        "replace": "Replace",
+        "details": "Details",
+        "folderSelected": "folder(s) selected",
+        "fileSelected": "file(s) selected",
+        "notCompleted": "Not completed",
+        "nothing": "Nothing...",
+        "uploading": "Uploading",
+        "downloading": "Downloading"
     },
 
     "Register": {
@@ -110,7 +123,7 @@
         "expired": "Il codice è scaduto, ti preghiamo di effettuare nuovamente il login",
         "invalidCode": "Il codice inserito non è valido",
         "username": "Email o login",
-        "badPassphrase": "Error: bad passphrase",
+		"badPassphrase": "Error: bad passphrase",
         "doubleAuth": "Ti è stata inviata una mail con un codice identificativo. Copia il codice nel campo qui sopra.<br />Se non ricevi nulla entro 5 minuti e la mail non è presente nella tua cartella di spam, <a href='https://photon.muonium.ch/core/Logout'>clicca qui</a> per effettuare un nuovo tentativo di connessione."
     },
 
@@ -143,7 +156,8 @@
         "emptymail": "Please, fill this field",
         "accountDeletionConfirm": "Do you really want to delete your account ?",
         "accountDeletionOk": "Your account was successfully deleted!",
-        "deleteAccount": "Delete account"
+        "deleteAccount": "Delete account",
+        "details": "Do you want to show details when a file/folder is selected ?"
     },
 
     "LostPass": {
@@ -185,8 +199,36 @@
         "sent": "Il tuo messaggio è stato inviato con successo. Ti risponderemo via mail il prima possibile."
     },
 
-    "cek": {
+	"cek": {
         "updateErr": "Error: cannot update the content encryption key",
         "empty": "Error: the content encryption key is empty"
+	},
+
+    "Help": {
+        "shortcuts": [
+            "<strong>Desktop version</strong><ul>",
+            "<li>Left click on a file/folder : Select a file/folder - View details</li>",
+            "<li>Left click somewhere else : Remove selection</li>",
+            "<li>Ctrl + Left click : Select multiple files</li>",
+            "<li>Right click : Show actions</li>",
+            "<li>Arrow up : Select previous file</li>",
+            "<li>Arrow down : Select next file</li>",
+            "<li>Ctrl + Arrow up : Add previous file to selection</li>",
+            "<li>Ctrl + Arrow down : Add next file to selection</li>",
+            "<li>Ctrl + A : Select all</li>",
+            "<li>Ctrl + C : Copy</li>",
+            "<li>Ctrl + D : Logout</li>",
+            "<li>Ctrl + I : Invert selection</li>",
+            "<li>Ctrl + R : Move to trash</li>",
+            "<li>Ctrl + S : Save selection</li>",
+            "<li>Ctrl + V : Paste</li>",
+            "<li>Ctrl + X : Cut</li>",
+            "<li>Backspace : Go to parent folder</li>",
+            "<li>Delete : Delete selection</li>",
+            "<li>Esc : Hide actions box</li>",
+            "<li>Enter (on a file) : Download</li>",
+            "<li>Enter (on a folder) : Open folder</li>",
+            "<li>F1 : Help</li></ul>"
+        ]
     }
 }
