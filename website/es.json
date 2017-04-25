@@ -9,7 +9,8 @@
         "help": "Ayuda",
         "login": "Iniciar Sesión",
         "register": "Registrarse",
-        "close": "Cerrar"
+        "close": "Cerrar",
+        "vote": "Vote"
     },
 
     "home": {

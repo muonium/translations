@@ -9,7 +9,8 @@
         "help": "Help",
         "login": "Login",
         "register": "Register",
-        "close": "Close"
+        "close": "Close",
+        "vote": "Vote"
     },
 
     "home": {
