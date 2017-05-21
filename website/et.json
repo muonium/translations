@@ -10,12 +10,12 @@
         "login": "Sisene",
         "register": "Registreeri",
         "close": "Sulge",
-        "vote": "Vote"
+        "vote": "Hääleta"
     },
 
     "home": {
         "secureStorageSolution": "SECURE STORAGE SOLUTION",
-        "features": "FEATURES",
+        "features": "FUNKTSIONAALSUS",
         "securedConnections": "Turvatud ühendused",
         "securedConnectionsTxt": "Kõik sinu ühendused Muoniumiga on kaitstud TLS 1.2 technology programmiga",
         "endToEndEncryption": "End-to-end encryption",
@@ -23,15 +23,15 @@
         "protection": "Kaitse",
         "protectionTxt": "Sinu failid on kaitsud spionaaži eest, seega ainult sinu parool võimaldab ligipääsu sinu failidele",
         "free": "Tasuta",
-        "freeTxt": "Interneti privaatsus on fundamentaalne õigus. Sinu annetused rahastavad servereid, tiimi ja meie nõupidamisi7konverentse",
+        "freeTxt": "Interneti privaatsus on fundamentaalne õigus. Sinu annetused rahastavad meie servereid, tiimi ja nõupidamisi/konverentse",
         "openSource": "Avatud lähtekood",
-        "openSourceTxt": "Muonium on täielikult avatud lähtekoodiga. Sa saad vaadata ükskõik millal soovid meie kohta lehel <a href=\"https://github.com/muonium\">GitHub</a>",
+        "openSourceTxt": "Muonium on täielikult avatud lähtekoodiga. Sa saad vaadata ükskõik, millal soovid meie kohta leheküljel <a href=\"https://github.com/muonium\">GitHub</a>",
         "anonymity": "Anonüümsus",
         "anonymityTxt": "Muonium ei nõua ja ei kogu isiklikku informatsiooni, sa jääd anonüümseks",
         "modernity": "Kaasaegne",
         "modernityTxt": "Kasutajaliides on intuitiivne ja modernne, tagab juurdepääsu sinu failidele kiirelt ja lihtsalt",
         "accessibility": "Kättesaadavus",
-        "accessibilityTxt": "Failid on lihtsasti kättesaadavad online'is, igal pool ja igal ajal"
+        "accessibilityTxt": "Failid on lihtsasti kättesaadavad online'is: igal pool ja ajal"
     },
 
     "about": {
