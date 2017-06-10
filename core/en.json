@@ -89,7 +89,6 @@
         "login": "Username",
         "password": "Password",
         "confirm": "Confirm",
-
         "passphrase": "Secret password",
         "doubleAuth": "Do you want to enable dual authentication ?",
         "alreadyregistered": "Already registered?",
@@ -98,8 +97,8 @@
         "mailExists": "Your email address is already saved in our database. Unable to create using this account.",
         "loginExists": "Your username is already saved in our database. Unable to create using this account.",
         "badPassConfirm": "Both passwords are different.",
-        "badsecrete passwordConfirm": "Both secret password are different.",
-        "passEqualsecrete password": "The password and the secrete password must be different.",
+        "badPassphraseConfirm": "Both secret password are different.",
+        "passEqualPassphrase": "The password and the secrete password must be different.",
         "form": "All fields must be filled.",
         "passLength": "The password or the secret password must be at least 6 chars.",
         "loginFormat": "Username format is incorrect (between 2 and 20 alphanumeric characters, -_. allowed).",
