@@ -97,7 +97,7 @@
         "mailExists": "Your email address is already saved in our database. Unable to create using this account.",
         "loginExists": "Your username is already saved in our database. Unable to create using this account.",
         "badPassConfirm": "Both passwords are different.",
-        "badPassphraseConfirm": "Both secret password are different.",
+        "badPassphraseConfirm": "Both secret passwords are different.",
         "passEqualPassphrase": "The password and the secrete password must be different.",
         "form": "All fields must be filled.",
         "passLength": "The password or the secret password must be at least 6 chars.",
