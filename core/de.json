@@ -198,10 +198,10 @@
         "sent": "Deine Mitteilung wurde erfolgreich abgesendet. Wir werden so schnell wie möglich per Email darauf antworten"
     },
 
-	"cek": {
-		"updateErr": "Fehler: Content-Encryption Key kann nicht aktualisiert werden",
-		"empty": "Fehler: Content-Encryption Key ist leer"
-	},
+    "cek": {
+        "updateErr": "Fehler: Content-Encryption Key kann nicht aktualisiert werden",
+        "empty": "Fehler: Content-Encryption Key ist leer"
+    },
 
     "Help": {
         "shortcuts": [
