@@ -25,7 +25,7 @@
         "free": "Kostenlos",
         "freeTxt": "Privatspäre im Internet ist ein fundamentales Recht. Deine Spenden unterhalten die Server, das Team und unsere Konferenzen",
         "openSource": "Open Source",
-        "openSourceTxt": "Muonium ist vollständig Opensource-Software. Du kannst wann immer Du willst den Code auf <a href=\"https://github.com/muonium\">GitHub</a> sehen, prüfen",
+        "openSourceTxt": "Muonium ist vollständig Opensource-Software. Du kannst wann immer Du willst den Code auf <a href=\"https://github.com/muonium\">GitHub</a> sehen und prüfen",
         "anonymity": "Anonymität",
         "anonymityTxt": "Muonium benötigt keine und sammelt keine persönlichen Informationen, Du bleibst anonym",
         "modernity": "Modernität",
@@ -75,7 +75,7 @@
 
     "help": {
         "losePwd": "Ich habe mein Passwort verloren, wie kann ich es wiederherstellen?",
-        "losePwdAns": "If this is your identification password, then click on \"Forgot password?\" on the login page. Your password will be reset and an email will be sent with reset password link.<br>However, if this is your decryption password, it's impossible for us to redefine one and you must consider that all your files are lost.",
+        "losePwdAns": "Falls dies Dein Identifikations-Passwort ist, dann klicke auf \"Login vergessen\" auf der Anmeldeseite. Dein Passwort wird zurückgesetzt und eine E-Mail mit einem Rücksetzlink wird gesendet. <br> Falls dies alerdings Dein Entschlüsselungs-Passwort ist, ist es unmöglich für uns, ein neu zu bestimmen und Du musst bedenken, dass alle Deine Dateien verloren sind.",
         "whoCanAccessMyFiles": "Wer kann auf meine Dateien zugreifen?",
         "whoCanAccessMyFilesAns": "Nur Du kannst auf Deine Dateien zugreifen. Ohne technische Begriffe: Du benötigst einen Schlüssel (die 'Passphrase'), um Deine Dateien zu verschlüsseln und zu entschlüsseln. So kann niemand, nicht einmal wir, auf deine Dateien zugreifen.",
         "howEncrypted": "Wie sind meine Dateien verschlüsselt?",

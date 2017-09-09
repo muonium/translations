@@ -2,20 +2,24 @@
 
 The templates are en.json and fr.json
 
-Example : I'm french, I know very well the French language, and i
-want to translate in Spanish.
+Example: I'm french, I know the French language very well, and I
+want to translate to Spanish.
 
-So, I copy fr.json in es.json, and I start to translate.
+So, I copy fr.json to es.json, and I start to translate.
 
 ### ISO
-The ISO used is shortest ISO 639.
+The ISO used for naming is ISO 639.
 
 For example:
 
 French: fr
+
 English: en
+
 American: en-US
+
 Estonian: et (not ee)
+
 Arabic: ar
 
 ### Framework
@@ -43,7 +47,7 @@ Here, we see that "global" is the "category", it is used in the code to identify
 
 ### Code Style
 
-Please use following style: Intend mode `Spaces` and Intend size `4` in the Github web editor. If you have done this (you can adjust that at the top of the file next to `Edit file`) you can use tabs, they automatically will turn into four spaces.
+Please use following style: Indent mode `Spaces` and Indent size `4` in the Github web editor. If you have done this (you can adjust that at the top of the file next to `Edit file`) you can use tabs, they automatically will turn into four spaces.
 
 ### Mistakes
 

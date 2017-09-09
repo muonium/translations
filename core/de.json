@@ -28,7 +28,8 @@
         "smallIcons": "Kleine Icons",
         "largeIcons": "Große Icons",
         "multiSelection": "Mehrfachauswahl",
-        "selectAll": "Alle auswählen"
+        "selectAll": "Alle auswählen",
+        "moreStorage": "Kaufe mehr Speicher"
     },
 
     "Toolbar": {
@@ -36,7 +37,7 @@
         "favorites": "Favoriten",
         "general": "Allgemein",
         "shared": "Geteilt",
-        "transfers": "Transfere"
+        "transfers": "Transferiere"
     },
 
     "Error": {
@@ -81,7 +82,8 @@
         "notCompleted": "Nicht fertiggestellt",
         "nothing": "Nichts...",
         "uploading": "Lädt hoch",
-        "downloading": "Lädt herunter"
+        "downloading": "Lädt herunter",
+        "quota_of": "[used] von [total] gebraucht"
     },
 
     "Register": {
@@ -108,7 +110,7 @@
         "bruteforceErr1": "Warnung: nach einer großen Anzahl Anfragen von Dir, hast Du nur noch 3 Versuche",
         "bruteforceErr2": "Du hast das Maximum an Anfragen erreicht.",
         "subject": "Muonium - Accountverifizierung",
-        "message": "Willkommen bei Muonium !<br />Um Deinen Account zu verifizieren, klicke auf diesen Link: <a href='https://photon.muonium.ch/neutron/Validate/Key/[id_user]/[key]'>https://photon.muonium.ch/neutron/Validate/Key/[id_user]/[key]</a><br />Mit freundlichen Grüßen,<br />das Muonium Team<br /><br />Diese Email wurde automatisch generiert, bitte antworte nicht darauf."
+        "message": "Willkommen bei Muonium !<br />Um Deinen Account zu verifizieren, klicke auf diesen Link: <a href='[url_app]/Validate/Key/[id_user]/[key]'>[url_app]/Validate/Key/[id_user]/[key]</a><br />Mit freundlichen Grüßen,<br />das Muonium Team<br /><br />Diese Email wurde automatisch generiert, bitte antworte nicht darauf."
     },
 
     "Login": {
@@ -123,7 +125,7 @@
         "invalidCode": "Der eingegebene Code ist ungültig",
         "username": "Email oder Login",
         "badPassphrase": "Fehler: falsches geheimes Passwort",
-        "doubleAuth": "Eine Email mit einem Authentifizierungscode wurde an Dich gesendet. Kopiere diesen Code in das Feld unten. <br />Falls Du nach 5 Minuten von jetzt an nichts erhalten hast und die Email nicht im Spamordner ist, klicke bitte auf diesen <a href='https://photon.muonium.ch/neutron/Logout'>Link</a>, um einen neuen Verbíndungsversuch durchzuführen."
+        "doubleAuth": "Eine Email mit einem Authentifizierungscode wurde an Dich gesendet. Kopiere diesen Code in das Feld unten. <br />Falls Du nach 5 Minuten von jetzt an nichts erhalten hast und die Email nicht im Spamordner ist, klicke bitte auf diesen <a href='[url_app]/Logout'>Link</a>, um einen neuen Verbíndungsversuch durchzuführen."
     },
 
     "Validate": {
@@ -203,6 +205,22 @@
         "empty": "Fehler: Content-Encryption Key ist leer"
     },
 
+    "Upgrade": {
+        "offers": "Angebote",
+        "history": "Geschichte",
+        "expired": "Abgelaufen",
+        "duration": "Dauer",
+        "price": "Preis",
+        "start_date": "Anfangsdatum",
+        "end_date": "Enddatum",
+        "month": "Monat",
+        "months": "Monate",
+        "year": "Jahr",
+        "years": "Jahre",
+        "lifetime": "Lebenszeit",
+        "buy": "Kaufen"
+    },
+
     "Help": {
         "shortcuts": [
             "<strong>Desktopversion</strong><ul>",
@@ -229,5 +247,13 @@
             "<li>Enter (auf einen Ordner): Ordner öffnen</li>",
             "<li>F1: Hilfe</li></ul>"
         ]
+    },
+
+    "Units": {
+        "o": "",
+        "k": "KB",
+        "m": "MB",
+        "g": "GB",
+        "t": "TB"
     }
 }
