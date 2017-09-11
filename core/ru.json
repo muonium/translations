@@ -27,7 +27,7 @@
         "upload": "Загрузить",
         "smallIcons": "Маленькие иконки",
         "largeIcons": "Большие иконки",
-        "multiSelection": "Множественный выбор",
+        "multiSelection": "Выбор нескольких",
         "selectAll": "Выбрать все",
 		"moreStorage": "Купить дополнительное место"
     },
@@ -56,7 +56,7 @@
         "questiond": "Вы хотите удалить эту папку ?",
         "questionf": "Вы хотите удалить этот файл ?",
         "questionrm": "Вы хотите удалить эти файлы/папки ?",
-        "trash_0": "Просмотреть корзину",
+        "trash_0": "Корзина",
         "trash_1": "Выйти из корзины",
         "path": "Путь",
         "name": "Имя",
@@ -80,7 +80,7 @@
         "folderSelected": "папка(и) выбрано",
         "fileSelected": "файл(ов) выбрано",
         "notCompleted": "Не завершен",
-        "nothing": "Ничего...",
+        "nothing": "Пусто...",
         "uploading": "Выгрузка",
         "downloading": "Загрузка",
 		"quota_of": "[used] из [total] использовано"
@@ -125,7 +125,7 @@
         "invalidCode": "Введенный код недействителен",
         "username": "Email или Логин",
         "badPassphrase": "Ошибка: неправильный секретный пароль",
-        "doubleAuth": "Вам было отправлено сообщение с кодом проверки подлинности. Скопируйте этот код в приведенное выше поле.<br />Если вы не получили ничего за прошедшие 5 минут, и убедились, что письмо не попало в папку нежелательной почты, выполните следующие действия. <a href='[url_app]/Выйти'>link</a> чтобы выполнить новую попытку подключения."
+        "doubleAuth": "Вам было отправлено сообщение с кодом проверки подлинности. Скопируйте этот код в приведенное ниже поле.<br />Если вы не получили ничего за прошедшие 5 минут, и убедились, что письмо не попало в папку нежелательной почты, пройдите по этой <a href='[url_app]/Logout'>ссылке</a> чтобы выполнить новую попытку входа."
     },
 
     "Validate": {
@@ -203,11 +203,11 @@
     "Upgrade": {
         "offers": "Предложения",
         "history": "История",
-        "expired": "Истекший",
+        "expired": "Истекшие",
         "duration": "Продолжительность",
         "price": "Цена",
         "start_date": "Дата начала",
-        "end_date": "Дата конца",
+        "end_date": "Дата окончания",
         "month": "месяц",
         "months": "месяцы",
         "year": "год",
@@ -223,29 +223,29 @@
 
     "Help": {
         "shortcuts": [
-            "<strong>Desktop version</strong><ul>",
-            "<li>Left click on a file/folder : Select a file/folder - View details</li>",
-            "<li>Left click somewhere else : Remove selection</li>",
-            "<li>Ctrl + Left click : Select multiple files</li>",
-            "<li>Right click : Show actions</li>",
-            "<li>Arrow up : Select previous file</li>",
-            "<li>Arrow down : Select next file</li>",
-            "<li>Ctrl + Arrow up : Add previous file to selection</li>",
-            "<li>Ctrl + Arrow down : Add next file to selection</li>",
-            "<li>Ctrl + A : Select all</li>",
-            "<li>Ctrl + C : Copy</li>",
-            "<li>Ctrl + D : Logout</li>",
-            "<li>Ctrl + I : Invert selection</li>",
-            "<li>Ctrl + R : Move to trash</li>",
-            "<li>Ctrl + S : Save selection</li>",
-            "<li>Ctrl + V : Paste</li>",
-            "<li>Ctrl + X : Cut</li>",
-            "<li>Backspace : Go to parent folder</li>",
-            "<li>Delete : Delete selection</li>",
-            "<li>Esc : Hide actions box</li>",
-            "<li>Enter (on a file) : Download</li>",
-            "<li>Enter (on a folder) : Open folder</li>",
-            "<li>F1 : Help</li></ul>"
+            "<strong>Настольная версия</strong><ul>",
+            "<li>Левый клик на файле/папке : Выбор файла/папки - Просмотр деталей</li>",
+            "<li>Левый клик в другом месте : Снять выбор</li>",
+            "<li>Ctrl + левый клик : Выбор нескольких файлов</li>",
+            "<li>Правый клик : Показать действия</li>",
+            "<li>Курсор вверх : Выбор предыдущего file</li>",
+            "<li>Курсор вниз : Выбор следующего file</li>",
+            "<li>Ctrl + курсор вверх : Добавить предыдущий файл к выбору</li>",
+            "<li>Ctrl + стрелка вниз : Добавить следующий файл к выбору</li>",
+            "<li>Ctrl + A : Выбрать все</li>",
+            "<li>Ctrl + C : Копировать</li>",
+            "<li>Ctrl + D : Выйти</li>",
+            "<li>Ctrl + I : Инвертировать выделение</li>",
+            "<li>Ctrl + R : Переместить в корзину</li>",
+            "<li>Ctrl + S : Сохранить выделение</li>",
+            "<li>Ctrl + V : Вставить</li>",
+            "<li>Ctrl + X : Вырезать</li>",
+            "<li>Backspace : Перейти к родительской папке</li>",
+            "<li>Delete : Удалить выбранное</li>",
+            "<li>Esc : Скрыть окно действий</li>",
+            "<li>Enter (на файле) : Загрузить</li>",
+            "<li>Enter (на папке) : Открыть папку</li>",
+            "<li>F1 : Помощь</li></ul>"
         ]
     },
 
