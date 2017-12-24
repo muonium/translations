@@ -83,7 +83,7 @@
         "nothing": "Nichts...",
         "uploading": "Lädt hoch",
         "downloading": "Lädt herunter",
-        "quota_of": "[used] von [total] gebraucht"
+        "quota_of": "[used] von [total] in Benutzung"
     },
 
     "Register": {
