@@ -7,12 +7,12 @@
         "login": "Login",
         "recents": "Mui :: Letzte",
         "sharing": "Mui :: Teilen",
-        "transfer": "Mui :: Übertragen",
+        "transfer": "Mui :: Transferieren",
         "user": "Mui :: Allgemein",
         "validate": "Email-Adresse bestätign",
         "refresh": "Erneuern",
         "profile": "Profil",
-        "mail_sent": "Eine Email wurde an Dich gesendet, bitte überprüfe Deinen Posteingang und Deinen Spamordner. Falls Du nach 5 Minuten nichts erhalten hast, probiere es erneut:",
+        "mail_sent": "Eine Email wurde an Dich gesendet, bitte überprüfe Deinen Posteingang und Deine Spams. Falls Du nach 5 Minuten nichts erhalten hast, versuche es noch mal:",
         "submit": "Absenden",
         "bug": "Melde einen Fehler",
         "loading": "Lädt..."
@@ -37,7 +37,7 @@
         "favorites": "Favoriten",
         "general": "Allgemein",
         "shared": "Geteilt",
-        "transfers": "Übertragungen"
+        "transfers": "Transferiere"
     },
 
     "Error": {
@@ -45,20 +45,20 @@
         "default": "Ein Fehler ist aufgetreten",
         "form": "Fehler im Formular",
         "pp": "Das Ändern des geheimen Passwords ist gerade nicht verfügbar",
-        "bannedSession": "Du hast das Maximum an erlaubten Anfragen erreicht",
+        "bannedSession": "Du hast das Maximum an Anfragen erreicht",
         "dl": "Die Herunterladen-Funktion ist in Deinem Browser nicht verfügbar."
     },
 
     "User": {
-        "lastmod": "Letzte Änderung",
+        "lastmod": "Letzte Veränderung",
         "loaded": "Geladen in",
         "foldername": "Ordnername",
         "questiond": "Willst Du diesen Ordner entfernen?",
         "questionf": "Willst Du diese Datei entfernen?",
-        "questionrm": "Willst Du diese Dateien/Ordner entfernen?",
-        "trash_0": "Zeige Papierkorb",
-        "trash_1": "Verlasse Papierkorb",
-        "path": "Ort",
+        "questionrm": "Willst Du diese Ordner/Dateien entfernen?",
+        "trash_0": "Zeige Gelöschtes",
+        "trash_1": "Verlasse Gelöschtes",
+        "path": "Pfad",
         "name": "Name",
         "type": "Dateityp",
         "size": "Größe",
@@ -66,8 +66,8 @@
         "folder": "Ordner",
         "element": "Element",
         "PlurialElement": "Elemente",
-        "replaceFile": "Die Datei [filename] ist schon vorhanden, möchtest Du sie ersetzen?",
-        "replaceCompleteFile": "Die Datei [filename] ist schon vorhanden und nicht fertiggestellt, was willst Du machen?",
+        "replaceFile": "Die Datei [filename] existiert, möchtest Du sie ersetzen?",
+        "replaceCompleteFile": "Die Datei [filename] existiert und ist nicht fertiggestellt, was willst Du machen?",
         "quotaExceeded": "Quote überschritten!",
         "fileAPI": "Die Datei-APIs werden von Deinem Browser nicht vollständig unterstützt. Fallback erforderlich.",
         "yes": "Ja",
@@ -83,7 +83,10 @@
         "nothing": "Nichts...",
         "uploading": "Lädt hoch",
         "downloading": "Lädt herunter",
-        "quota_of": "[used] von [total] in Benutzung"
+        "quota_of": "[used] von [total] gebraucht",
+		"shared": "File sharing enabled",
+		"badPass": "Bad password !",
+		"uploadedBy": "Uploaded by [login] on"
     },
 
     "Register": {
@@ -94,20 +97,20 @@
         "passphrase": "Geheimes Passwort",
         "doubleAuth": "Willst Du die doppelte Authentifizierung aktivieren?",
         "alreadyregistered": "Bereits registriert?",
-        "impossible": "Registrierung temporär nicht verfügbar",
-        "ok": "Registrierung abgeschlossen!",
+        "impossible": "Registrierung gerade nicht möglich",
+        "ok": "Registrierung erledigt!",
         "mailExists": "Deine Email-Adresse ist bereits in unserer Datenbank gespeichert. Konnte keinen Account dazu erstellen.",
         "loginExists": "Dein Benutzername ist bereits in unserer Datenbank gespeichert. Konnte keinen Account dazu erstellen.",
         "badPassConfirm": "Die Passwörter stimmen nicht überein.",
         "badsecrete passwordConfirm": "Die geheimen Passwörter stimmen nicht überein.",
         "passEqualPassphrase": "Das Passwort und das geheime Passwort müssen verschieden sein.",
-        "form": "Alle Felder müssen ausgefüllt werden.",
-        "passLength": "Das Passwort oder das geheime Passwort muss mindestens aus 6 Zeichen bestehen.",
+        "form": "Alle Felder müssen ausgefüllt sein.",
+        "passLength": "Das Passwort oder die geheime Passwort muss mindestens aus 6 Zeichen bestehen.",
         "loginFormat": "Format des Benutzernamen fehlerhaft (zwischen 2 and 20 alphanumerischen Zeichen, -_. erlaubt).",
         "mailFormat": "Format der Email fehlerhaft.",
         "error": "Beim Erstellen des Accounts ist ein Fehler aufgetreten.",
         "bruteforceErr0": "",
-        "bruteforceErr1": "Warnung: Du hast nur noch 3 Versuche.",
+        "bruteforceErr1": "Warnung: nach einer großen Anzahl Anfragen von Dir, hast Du nur noch 3 Versuche",
         "bruteforceErr2": "Du hast das Maximum an Anfragen erreicht.",
         "subject": "Muonium - Accountverifizierung",
         "message": "Willkommen bei Muonium !<br>Um Deinen Account zu verifizieren, klicke auf diesen Link: <a href='[url_app]/Validate/Key/[id_user]/[key]'>[url_app]/Validate/Key/[id_user]/[key]</a><br>Mit freundlichen Grüßen,<br>das Muonium Team<br><br>Diese Email wurde automatisch generiert, bitte antworte nicht darauf."
@@ -115,23 +118,23 @@
 
     "Login": {
         "forgot": "Passwort vergessen?",
-        "register": "Registrieren",
+        "register": "Noch nicht registriert?",
         "bruteforceErr0": "Ungültige Email-Adresse oder ungültiges Passwort",
-        "bruteforceErr1": "Warnung: Du hast nur noch 3 Versuche.",
+        "bruteforceErr1": "Warnung: nach einer großen Anzahl Anfragen von Dir, hast Du nur noch 3 Versuche",
         "bruteforceErr2": "Du hast das Maximum an Anfragen erreicht.",
-        "doubleAuthMessage": "Hi, Dein Authentifizierungscode ist [key]<br>Mit freundlichen Grüßen,<br>das Muonium Team<br><br>Diese Email wurde automatisch generiert, bitte antworte nicht darauf.",
-        "codeMail": "Per Email empfangener Code",
-        "expired": "Der Code ist abgelaufen, bitte erneut einloggen",
+        "doubleAuthMessage": "Hi, Dein Authentifizierungscode ist [key]<br>Mit freundlichen Grüßen,<br>Diese Email wurde automatisch generiert, bitte antworte nicht darauf.",
+        "codeMail": "Code per Email empfangen",
+        "expired": "Der Code ist abgelaufen, bitte wieder einloggen",
         "invalidCode": "Der eingegebene Code ist ungültig",
         "username": "Email oder Login",
         "badPassphrase": "Fehler: falsches geheimes Passwort",
-        "doubleAuth": "Eine Email mit einem Authentifizierungscode wurde an Dich gesendet. Kopiere diesen Code in das obige Feld. <br>Falls Du nach 5 Minuten nichts erhalten hast und die Email nicht im Spamordner ist, klicke bitte auf diesen <a href='[url_app]/Logout'>Link</a>, um einen neuen Verbindungsversuch durchzuführen."
+        "doubleAuth": "Eine Email mit einem Authentifizierungscode wurde an Dich gesendet. Kopiere diesen Code in das Feld unten. <br>Falls Du nach 5 Minuten von jetzt an nichts erhalten hast und die Email nicht im Spamordner ist, klicke bitte auf diesen <a href='[url_app]/Logout'>Link</a>, um einen neuen Verbíndungsversuch durchzuführen."
     },
 
     "Validate": {
         "message": "Fehler: Der Verifizierungscode ist falsch, bitte logge Dich ein, um eine neue Verifizierungsemail abzusenden",
         "wait": "Bitte warte eine Minute, bevor Du eine neue Verifizierungsemail abschickst",
-        "sendmess": "Bitte klicke auf den Link in der Email um Deinen Account zu aktivieren",
+        "sendmess": "Bitte klicke auf den Link in der Email um Deinen Account zu aktievieren",
         "sendmail": "Neue Email senden"
     },
 
@@ -146,7 +149,7 @@
         "newpp": "Neues geheimes Passwort",
         "updateErr": "Konnte Dein Profil nicht aktualisieren",
         "updateOk": "Dein Profil wurde erfolgreich aktualisiert",
-        "loginExists": "Dieser Benutzername ist bereits vergeben",
+        "loginExists": "Dieser Benutzername ist bereits",
         "badOldPass": "Dein altes Passwort passt nicht",
         "badOldPassphrase": "Dein altes geheimes Passwort passt nicht",
         "getpwd": "Konnte Dein Passwort nicht holen",
@@ -164,17 +167,19 @@
     "LostPass": {
         "updateErr": "Konnte Deine Accountinformationen nicht aktualisieren",
         "updateOk": "Deine Accountinformationen wurden erfolgreich aktualisiert",
-        "errmessage": "Fehler: Der Verifizierungscode ist falsch oder abgelaufen, bitte <a href='LostPass'>frage einen neuen an</a> und gib wieder Deinen Benutzernamen oder Deine Email-Adresse ein.",
+        "errmessage": "Fehler: Der Verifizierungscode ist falsch oder abgelaufen, bitte <a href='LostPass'>mache eine neue Anfrage</a> und gib wieder Deinen Benutzernamen oder Deine Email-Adresse ein.",
         "user": "Deine Email-Adresse oder Dein Benutzername",
         "subject": "Muonium - Passwort vergessen",
-        "message": "Hi,<br>Um Dein Passwort oder Dein geheimes Passwort zu aktualisieren, klicke bitte auf folgenden Link: <a href='[url_app]/LostPass/Key/[id_user]/[key]'>[url_app]/LostPass/Key/[id_user]/[key]</a><br>Mit freundlichen Grüßen,<br>das Muonium Team.<br><br>Diese Email wurde automatisch generiert, bitte antworte nicht darauf.",
+        "message": "Hi,<br>Um Dein Passwort oder Dein geheimes Passwort zu aktualisieren, klicke bitte auf folgenden Link: <a href='https://photon.muonium.ch/neutron/LostPass/Key/[id_user]/[key]'>https://photon.muonium.ch/neutron/LostPass/Key/[id_user]/[key]</a><br>Mit freundlichen Grüßen,<br>das Muonium Team.<br><br>Diese Email wurde automatisch generiert, bitte antworte nicht darauf.",
         "reset": "Achtung! Wenn Du Dein geheimes Passwort änderst, wird Dein Account zurückgesetzt und Du verlierst alle Deine Daten!"
     },
 
     "RightClick": {
         "dl": "Herunterladen",
+		"share": "Share",
+		"unshare": "Stop sharing",
         "rm": "Löschen",
-        "star": "Sternen",
+        "star": "Stern",
         "cut": "Ausschneiden",
         "copy": "Kopieren",
         "paste": "Einfügen",
@@ -185,13 +190,13 @@
         "nFolder": "Neuer Ordner...",
         "upFiles": "Dateien hochladen...",
         "logOut": "Ausloggen",
-        "trash": "In den Papierkorb verschieben",
+        "trash": "Gelöschtes",
         "restore": "Wiederherstellen"
     },
 
     "Bug": {
         "os": "Betriebssystem",
-        "other": "Etwas Anderes (in der Mitteilung spezifizieren)",
+        "other": "Andere (in der Mitteliung spezifizieren)",
         "browser": "Webbrowser",
         "browserVersion": "Browserversion",
         "message": "Mitteilung",
@@ -200,6 +205,10 @@
         "sent": "Deine Mitteilung wurde erfolgreich abgesendet. Wir werden so schnell wie möglich per Email darauf antworten"
     },
 
+    "cek": {
+        "updateErr": "Fehler: Content-Encryption Key kann nicht aktualisiert werden",
+        "empty": "Fehler: Content-Encryption Key ist leer"
+    },
 
     "Upgrade": {
         "offers": "Angebote",
@@ -215,13 +224,8 @@
         "years": "Jahre",
         "lifetime": "Lebenszeit",
         "buy": "Kaufen",
-        "success_msg": "Dein Kauf wurde getätigt. Es kann einige Minuten dauern, deinen Festplattenplatz zu aktualisieren.",
-        "mue": "30% sparen mit MUE"
-    },
-    
-    "cek": {
-        "updateErr": "Fehler: Content-Encryption Key kann nicht aktualisiert werden",
-        "empty": "Fehler: Content-Encryption Key ist leer"
+		"success_msg": "Your purchase has been made. It may take several minutes to refresh your disk space.",
+		"mue": "30% off with MUE"
     },
 
     "Help": {
@@ -245,7 +249,7 @@
             "<li>Strg + X: Ausschneiden</li>",
             "<li>Backspace: Zum übergeordneten Ordner gehen</li>",
             "<li>Entf: Auswahl löschen</li>",
-            "<li>Esc: Verstecke Aktionsbox</li>",
+            "<li>Esc: Vertsecke Aktionsbox</li>",
             "<li>Enter (auf eine Datei): Download</li>",
             "<li>Enter (auf einen Ordner): Ordner öffnen</li>",
             "<li>F1: Hilfe</li></ul>"

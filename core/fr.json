@@ -83,7 +83,10 @@
         "nothing": "Rien du tout...",
         "uploading": "Envois",
         "downloading": "Téléchargements",
-		"quota_of": "[used] utilisés sur [total]"
+		"quota_of": "[used] utilisés sur [total]",
+		"shared": "Partage du fichier activé",
+		"badPass": "Mauvais mot de passe !",
+		"uploadedBy": "Téléversé par [login] le"
     },
 
     "Register": {
@@ -128,14 +131,14 @@
         "doubleAuth": "Un email avec un code d'authentification vous a été envoyé. Copiez ce code dans le champ ci-dessus.<br>Si vous n'avez rien reçu d'ici 5 mn et que le mail n'est pas présent dans le dossier Spam, suivez ce <a href='[url_app]/Logout'>lien</a> pour effectuer une nouvelle tentative de connexion."
     },
 
-	"Validate": {
+    "Validate": {
         "message": "Erreur : La clé de validation est incorrecte, connectez-vous pour envoyer un nouveau mail de validation",
         "wait": "Veuillez patienter une minute avant d'envoyer un nouveau mail de validation",
         "sendmess": "Suivez le lien donné dans l'email pour activer votre compte",
         "sendmail": "Envoyer un nouvel email"
     },
 
-	"Profile": {
+    "Profile": {
         "changelogin": "Modifier votre nom d'utilisateur",
         "changepwd": "Modifier votre mot de passe",
         "changepp": "Modifier votre phrase secrète",
@@ -173,6 +176,8 @@
 
     "RightClick": {
         "dl": "Télécharger",
+		"share": "Partager",
+		"unshare": "Arrêter le partage",
         "rm": "Supprimer",
         "star": "Favori",
         "cut": "Couper",
@@ -189,7 +194,7 @@
         "restore": "Restaurer"
     },
 
-	"Bug": {
+    "Bug": {
         "os": "Système d'exploitation",
         "other": "Autre (spécifier dans le message)",
         "browser": "Navigateur Internet",
