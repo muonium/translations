@@ -51,11 +51,12 @@ Please use following style: Indent mode `Spaces` and Indent size `4` in the Gith
 
 ### Mistakes
 
-It doesn't matter if you made a/several mistakes, others contributors will correct your mistakes.
+It doesn't matter if you made a/several mistakes, other contributors will correct your mistakes.
 
 ### Corrections
 
 If you see a translation mistake, then you can open an issue or make a pull request.
 
 ### Pull Request
+
 You can write your name or pseudo on AUTHORS in your PR.
