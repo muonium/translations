@@ -83,7 +83,7 @@
         "howFunded": "¿Cómo se financia Muonium? ¿Reciben ayuda de algunas empresas?",
         "howFundedAns": "No, la política de Muonium es no pertenecer a ninguna compañía (excepto a la nuestra), no recibir ayuda de ninguna gran empresa, para sí no tener que poner en peligro nuestra política de privacidad, etc. Así que, Muonium sólo se financia a través de sus donaciones. Puede echar un vistazo en la sección de <a href='Donate'>'Donar'</a> si está interesado.",
         "helpTerrorism": "¿Están ayudando a organizaciones terroristas o peligrosas?",
-        "helpTerrorismAns": "No, defendemos la privacidad, ciertamente ayudando al mundo a tener una mejor privacidad, también se benefician organizaciones terroristas. Pero estamos en la misma situación que <a href='https://protonmail.com/blog/privacy-encryption-and-terrorism/'>ProtonMail</a>. En ningún caso, incluso si no desarrolláramos Muonium, los terroristas o cualquier otra persona o grupo de personas cifrarán sus datos.",
+        "helpTerrorismAns": "No, defendemos la privacidad, ciertamente ayudando al mundo a tener una mejor privacidad, también se benefician organizaciones terroristas. Pero estamos en la misma situación que <a href='https://protonmail.com/blog/privacy-encryption-and-terrorism/'>ProtonMail</a>. En cualquier caso, incluso si no desarrolláramos Muonium, los terroristas o cualquier otra persona o grupo de personas cifrarán sus datos.",
         "anotherQuestion": "¿Más preguntas?",
         "anotherQuestionAns": "Nuestra sección de preguntas más frecuentes o FAQ será actualizada a medida que nos lleguen más preguntas. Puede contactar con nosotros en: <b>muonium [ARROBA] protonmail [PUNTO] ch</b>"
     },
