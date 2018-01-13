@@ -128,55 +128,55 @@
         "invalidCode": "无效的验证码",
         "username": "邮箱或登陆",
         "badPassphrase": "错误: 无效的私密密码",
-        "doubleAuth": "A mail with an authentication code was sent to you. Copy this code in the field above.<br>If you received nothing from now until 5 mn and the mail is not in the Spam folder, please follow this <a href='[url_app]/Logout'>link</a> to perform a new connection attempt."
+        "doubleAuth": "一个附带验证码的邮件已经发给你了，请把验证吗复制到以上的选框中。<br>如果你5分钟内什么也没收到（包括你的垃圾文件夹），请点击这个链接 <a href='[url_app]/Logout'>link</a> 再尝试一次。"
     },
 
     "Validate": {
-        "message": "Error : The validation key is wrong, please log in to send a new validation mail",
-        "wait": "Please wait a minute before requesting again a validation mail",
-        "sendmess": "Please follow the link in the email to activate your account",
-        "sendmail": "Send a new mail"
+        "message": "错误 : 验证码错误，请登陆再发送一个新的验证邮件",
+        "wait": "请在请求新的验证邮件之前等待一分钟",
+        "sendmess": "请点击邮件中的链接来激活你的账户",
+        "sendmail": "发送一个新的邮件"
     },
 
     "Profile": {
         "changelogin": "更改用户名",
         "changepwd": "更改密码",
-        "changepp": "Change my secret password",
+        "changepp": "更改私密密码",
         "newlogin": "新用户名",
         "oldpwd": "旧密码",
         "newpwd": "新密码",
-        "oldpp": "Old secret password",
-        "newpp": "New secret password",
-        "updateErr": "Unable to update your profile",
-        "updateOk": "Your profile has been successfully updated",
-        "loginExists": "This username is already taken",
-        "badOldPass": "Your old password does not match",
-        "badOldPassphrase": "Your old secret password does not match",
-        "getpwd": "Unable to get your password",
-        "getpp": "Unable to get your secret password",
-        "doubleAuth": "Double authentication",
-        "changemail" : "Change Email",
-        "mailFormat": "Mail format is incorrect.",
-        "emptymail": "Please, fill this field",
-        "accountDeletionConfirm": "Do you really want to delete your account?",
-        "accountDeletionOk": "Your account was successfully deleted!",
-        "deleteAccount": "Delete account",
-        "details": "Do you want to show details when a file/folder is selected?"
+        "oldpp": "旧的私密密码",
+        "newpp": "新的私密密码",
+        "updateErr": "无法更新你的账户",
+        "updateOk": "你的账户已成功更新",
+        "loginExists": "此用户名已被占用",
+        "badOldPass": "你的旧密码不配对",
+        "badOldPassphrase": "你的旧私密密码不配对",
+        "getpwd": "无法得到你的密码",
+        "getpp": "无法得到你的私密密码",
+        "doubleAuth": "两步验证",
+        "changemail" : "更改邮箱",
+        "mailFormat": "邮箱格式不正确。",
+        "emptymail": "请填写此项",
+        "accountDeletionConfirm": "你想删除你的账户吗？",
+        "accountDeletionOk": "你的账户已成功被删除！",
+        "deleteAccount": "删除账户",
+        "details": "你想让文件/文件夹被选中时展示详细信息吗？"
     },
 
     "LostPass": {
-        "updateErr": "Unable to update your account information",
-        "updateOk": "Your account information have been successfully updated",
-        "errmessage": "Error : The validation key is wrong or it expired, please <a href='LostPass'>make a new request</a> and retype your username or email.",
-        "user": "Your email or your username",
-        "subject": "Muonium - Forgot your password",
-        "message": "Hi,<br>To update your password or secret password, please follow this link : <a href='[url_app]/LostPass/Key/[id_user]/[key]'>[url_app]/LostPass/Key/[id_user]/[key]</a><br>Best regards,<br>Muonium Team.<br><br>This email was automatically generated, please do not answer.",
-        "reset": "Warning ! If you change your secret password, your account will be reset and all your data will be lost!"
+        "updateErr": "无法更新你的账户信息",
+        "updateOk": "你的账户信息已成功更新",
+        "errmessage": "错误 : 验证码错误或已失效，请 <a href='LostPass'>再试一次</a> 并且重新输入你的用户名和邮箱。",
+        "user": "你的邮箱或你的用户名",
+        "subject": "Muonium - 密码忘了",
+        "message": "Hi,<br>更新你的密码或私密密码，请点击这个链接： <a href='[url_app]/LostPass/Key/[id_user]/[key]'>[url_app]/LostPass/Key/[id_user]/[key]</a><br>敬上，<br>Muonium 团队。<br><br>这个邮件是自动生成的，请不要回复。",
+        "reset": "警告！如果你更改了你的私密密码，你的账户将被重置并且你会丢失该账户中的所有数据！"
     },
 
     "RightClick": {
-        "dl": "Download",
-		"share": "Share",
+        "dl": "下载",
+		"share": "共享",
 		"unshare": "Stop sharing",
         "rm": "Delete",
         "star": "Star",
