@@ -113,8 +113,7 @@
         "bruteforceErr1": "警告：你只剩下3次机会。",
         "bruteforceErr2": "您已达到最大请求的数量。",
         "subject": "Muonium - 账户验证",
-        "message": "欢迎来到 Muonium！<br>验证你的账户，请点击这个链接 : <a href='[url_app]/Validate/Key/[id_user]/[key]'>[url_app]/Validate/Key/[id_user]/[key]</a><br>Best regards,<br>Muonium Teamcation code was sent to you. Copy this code in the field above.<br>If you received nothing from now until 5 mn and the mail is not in the Spam folder, please follow this <a href='[url_app]/Logout'>link</a> to perform a new connection attempt."
-    },<br><br>This email was automatically generated, please do not answer."
+        "message": "欢迎来到 Muonium！<br>验证你的账户，请点击这个链接 : <a href='[url_app]/Validate/Key/[id_user]/[key]'>[url_app]/Validate/Key/[id_user]/[key]</a><br>Best regards,<br>Muonium Team<br><br>This email was automatically generated, please do not answer."
     },
 
     "Login": {
@@ -129,7 +128,8 @@
         "invalidCode": "The code entered is invalid",
         "username": "Email or login",
         "badPassphrase": "错误: bad secret password",
-        "doubleAuth": "A mail with an authenti
+        "doubleAuth": "A mail with an authentication code was sent to you. Copy this code in the field above.<br>If you received nothing from now until 5 mn and the mail is not in the Spam folder, please follow this <a href='[url_app]/Logout'>link</a> to perform a new connection attempt."
+    },
 
     "Validate": {
         "message": "Error : The validation key is wrong, please log in to send a new validation mail",
