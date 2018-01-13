@@ -51,7 +51,7 @@
 
     "User": {
         "lastmod": "最后修改时间",
-        "loaded": "Loaded in",
+        "loaded": "加载完成",
         "foldername": "文件夹名称",
         "questiond": "删除此文件夹？",
         "questionf": "删除此文件？",
@@ -83,37 +83,38 @@
         "nothing": "空...",
         "uploading": "上传中",
         "downloading": "下载中",
-		"quota_of": "[used] 对于 [total] 使用的",
-		"shared": "File sharing enabled",
-		"badPass": "Bad password !",
-		"uploadedBy": "Uploaded by [login] on"
+		"quota_of": "[used] 对于 [total] 总共",
+		"shared": "文件共享已启用",
+		"badPass": "密码错误！",
+		"uploadedBy": "由[login]上传"
     },
 
     "Register": {
         "email": "邮件地址",
         "login": "用户名",
         "password": "密码",
-        "confirm": "Confirm",
-        "passphrase": "Secret password",
+        "confirm": "确定",
+        "passphrase": "私密密码",
         "doubleAuth": "你想开启两步验证吗？",
         "alreadyregistered": "已经有账户了？",
         "impossible": "暂时无法注册",
         "ok": "注册完成！",
-        "mailExists": "Your email address is already saved in our database. Unable to create using this account.",
-        "loginExists": "Your username is already saved in our database. Unable to create using this account.",
-        "badPassConfirm": "Both passwords are different.",
-        "badPassphraseConfirm": "Both secret passwords are different.",
-        "passEqualPassphrase": "The password and the secrete password must be different.",
-        "form": "All fields must be filled.",
-        "passLength": "The password or the secret password must be at least 6 chars.",
-        "loginFormat": "Username format is incorrect (between 2 and 20 alphanumeric characters, -_. allowed).",
-        "mailFormat": "Mail format is incorrect.",
-        "error": "An error occurred when creating the account.",
+        "mailExists": "你的邮箱已经在我们的数据库中存在，无法用它创建新账户。",
+        "loginExists": "你的用户名已经在我们的数据库中存在，无法用它创建新账户。",
+        "badPassConfirm": "密码应当不同。",
+        "badPassphraseConfirm": "私密密码应当不同。",
+        "passEqualPassphrase": "密码和私密密码必须是不同的。",
+        "form": "所有的项目都必须填写。",
+        "passLength": "密码或私密密码必须至少达到6个字符",
+        "loginFormat": "用户名格式不正确（2到20个数字或字母组成，-_.是允许的）。",
+        "mailFormat": "邮件格式不正确。",
+        "error": "在创建账户时发生了一个错误",
         "bruteforceErr0": "",
-        "bruteforceErr1": "Warning: You only have 3 attempts left.",
-        "bruteforceErr2": "You reached the maximum allowed number of requests.",
-        "subject": "Muonium - Account validation",
-        "message": "Welcome to Muonium !<br>To validate your account, follow this link : <a href='[url_app]/Validate/Key/[id_user]/[key]'>[url_app]/Validate/Key/[id_user]/[key]</a><br>Best regards,<br>Muonium Team<br><br>This email was automatically generated, please do not answer."
+        "bruteforceErr1": "警告：你只剩下3次机会。",
+        "bruteforceErr2": "您已达到最大请求的数量。",
+        "subject": "Muonium - 账户验证",
+        "message": "欢迎来到 Muonium！<br>验证你的账户，请点击这个链接 : <a href='[url_app]/Validate/Key/[id_user]/[key]'>[url_app]/Validate/Key/[id_user]/[key]</a><br>Best regards,<br>Muonium Teamcation code was sent to you. Copy this code in the field above.<br>If you received nothing from now until 5 mn and the mail is not in the Spam folder, please follow this <a href='[url_app]/Logout'>link</a> to perform a new connection attempt."
+    },<br><br>This email was automatically generated, please do not answer."
     },
 
     "Login": {
@@ -128,8 +129,7 @@
         "invalidCode": "The code entered is invalid",
         "username": "Email or login",
         "badPassphrase": "错误: bad secret password",
-        "doubleAuth": "A mail with an authentication code was sent to you. Copy this code in the field above.<br>If you received nothing from now until 5 mn and the mail is not in the Spam folder, please follow this <a href='[url_app]/Logout'>link</a> to perform a new connection attempt."
-    },
+        "doubleAuth": "A mail with an authenti
 
     "Validate": {
         "message": "Error : The validation key is wrong, please log in to send a new validation mail",
