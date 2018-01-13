@@ -1,0 +1,266 @@
+{
+    "Global": {
+        "home": "Home",
+        "register": "Register",
+        "back": "Back to Muonium",
+        "favorites": "Favorites",
+        "login": "Login",
+        "recents": "Mui :: Recents",
+        "sharing": "Mui :: Sharing",
+        "transfer": "Mui :: Transfer",
+        "user": "Mui :: General",
+        "validate": "Validate email",
+        "refresh": "Refresh",
+        "profile": "Profile",
+        "mail_sent": "An email was sent to you, please check your mailbox and your spams. If you received nothing after 5 minutes, please try again :",
+        "submit": "Submit",
+        "bug": "Bug report",
+        "loading": "Loading..."
+    },
+
+    "UserMenu": {
+        "bug": "Bug",
+        "help": "Help",
+        "settings": "Settings",
+        "profile": "Profile",
+        "logout": "Logout",
+        "upload": "Upload",
+        "smallIcons": "Small icons",
+        "largeIcons": "Large icons",
+        "multiSelection": "Multi-selection",
+        "selectAll": "Select all",
+		"moreStorage": "Buy more storage"
+    },
+
+    "Toolbar": {
+        "recents": "Recents",
+        "favorites": "Favorites",
+        "general": "General",
+        "shared": "Shared",
+        "transfers": "Transfers"
+    },
+
+    "Error": {
+        "e404": "Error : Page not found",
+        "default": "An error occurred",
+        "form": "Error in the form",
+        "pp": "Editing the secret password is not currently available",
+        "bannedSession": "You've reached the maximum allowed number of requests",
+        "dl": "The file downloading feature is not available in your browser."
+    },
+
+    "User": {
+        "lastmod": "Last modification",
+        "loaded": "Loaded in",
+        "foldername": "Folder name",
+        "questiond": "Do you want to remove this folder?",
+        "questionf": "Do you want to remove this file?",
+        "questionrm": "Do you want to remove these files/folders?",
+        "trash_0": "View trash",
+        "trash_1": "Exit trash",
+        "path": "Location",
+        "name": "Name",
+        "type": "File type",
+        "size": "Size",
+        "file": "File",
+        "folder": "Folder",
+        "element": "Element",
+        "PlurialElement": "Elements",
+        "replaceFile": "The file [filename] exists, do you want to replace it?",
+        "replaceCompleteFile": "The file [filename] exists but it's not completed, what do you want to do?",
+        "quotaExceeded": "Quota exceeded !",
+        "fileAPI": "The File APIs are not fully supported by your browser. Fallback required.",
+        "yes": "Yes",
+        "no": "No",
+        "yesAll": "Yes for all",
+        "noAll": "No for all",
+        "complete": "Complete",
+        "replace": "Replace",
+        "details": "Details",
+        "folderSelected": "folder(s) selected",
+        "fileSelected": "file(s) selected",
+        "notCompleted": "Not completed",
+        "nothing": "Nothing...",
+        "uploading": "Uploading",
+        "downloading": "Downloading",
+		"quota_of": "[used] of [total] used",
+		"shared": "File sharing enabled",
+		"badPass": "Bad password !",
+		"uploadedBy": "Uploaded by [login] on"
+    },
+
+    "Register": {
+        "email": "Email address",
+        "login": "Username",
+        "password": "Password",
+        "confirm": "Confirm",
+        "passphrase": "Secret password",
+        "doubleAuth": "Do you want to enable dual authentication ?",
+        "alreadyregistered": "Already registered?",
+        "impossible": "Registration temporarily unavailable",
+        "ok": "Registration done!",
+        "mailExists": "Your email address is already saved in our database. Unable to create using this account.",
+        "loginExists": "Your username is already saved in our database. Unable to create using this account.",
+        "badPassConfirm": "Both passwords are different.",
+        "badPassphraseConfirm": "Both secret passwords are different.",
+        "passEqualPassphrase": "The password and the secrete password must be different.",
+        "form": "All fields must be filled.",
+        "passLength": "The password or the secret password must be at least 6 chars.",
+        "loginFormat": "Username format is incorrect (between 2 and 20 alphanumeric characters, -_. allowed).",
+        "mailFormat": "Mail format is incorrect.",
+        "error": "An error occurred when creating the account.",
+        "bruteforceErr0": "",
+        "bruteforceErr1": "Warning: You only have 3 attempts left.",
+        "bruteforceErr2": "You reached the maximum allowed number of requests.",
+        "subject": "Muonium - Account validation",
+        "message": "Welcome to Muonium !<br>To validate your account, follow this link : <a href='[url_app]/Validate/Key/[id_user]/[key]'>[url_app]/Validate/Key/[id_user]/[key]</a><br>Best regards,<br>Muonium Team<br><br>This email was automatically generated, please do not answer."
+    },
+
+    "Login": {
+        "forgot": "Forgot your password ?",
+        "register": "Sign Up",
+        "bruteforceErr0": "Invalid email address or password",
+        "bruteforceErr1": "Warning: You only have 3 attempts left.",
+        "bruteforceErr2": "You've reached the maximum allowed number of requests.",
+        "doubleAuthMessage": "Hi, your authentication code is [key]<br>Best regards,<br>Muonium Team<br><br>This email was automatically generated, please do not answer.",
+        "codeMail": "Code received by email",
+        "expired": "The code is expired, please login again",
+        "invalidCode": "The code entered is invalid",
+        "username": "Email or login",
+        "badPassphrase": "Error: bad secret password",
+        "doubleAuth": "A mail with an authentication code was sent to you. Copy this code in the field above.<br>If you received nothing from now until 5 mn and the mail is not in the Spam folder, please follow this <a href='[url_app]/Logout'>link</a> to perform a new connection attempt."
+    },
+
+    "Validate": {
+        "message": "Error : The validation key is wrong, please log in to send a new validation mail",
+        "wait": "Please wait a minute before requesting again a validation mail",
+        "sendmess": "Please follow the link in the email to activate your account",
+        "sendmail": "Send a new mail"
+    },
+
+    "Profile": {
+        "changelogin": "Change my username",
+        "changepwd": "Change my password",
+        "changepp": "Change my secret password",
+        "newlogin": "New username",
+        "oldpwd": "Old password",
+        "newpwd": "New password",
+        "oldpp": "Old secret password",
+        "newpp": "New secret password",
+        "updateErr": "Unable to update your profile",
+        "updateOk": "Your profile has been successfully updated",
+        "loginExists": "This username is already taken",
+        "badOldPass": "Your old password does not match",
+        "badOldPassphrase": "Your old secret password does not match",
+        "getpwd": "Unable to get your password",
+        "getpp": "Unable to get your secret password",
+        "doubleAuth": "Double authentication",
+        "changemail" : "Change Email",
+        "mailFormat": "Mail format is incorrect.",
+        "emptymail": "Please, fill this field",
+        "accountDeletionConfirm": "Do you really want to delete your account?",
+        "accountDeletionOk": "Your account was successfully deleted!",
+        "deleteAccount": "Delete account",
+        "details": "Do you want to show details when a file/folder is selected?"
+    },
+
+    "LostPass": {
+        "updateErr": "Unable to update your account information",
+        "updateOk": "Your account information have been successfully updated",
+        "errmessage": "Error : The validation key is wrong or it expired, please <a href='LostPass'>make a new request</a> and retype your username or email.",
+        "user": "Your email or your username",
+        "subject": "Muonium - Forgot your password",
+        "message": "Hi,<br>To update your password or secret password, please follow this link : <a href='[url_app]/LostPass/Key/[id_user]/[key]'>[url_app]/LostPass/Key/[id_user]/[key]</a><br>Best regards,<br>Muonium Team.<br><br>This email was automatically generated, please do not answer.",
+        "reset": "Warning ! If you change your secret password, your account will be reset and all your data will be lost!"
+    },
+
+    "RightClick": {
+        "dl": "Download",
+		"share": "Share",
+		"unshare": "Stop sharing",
+        "rm": "Delete",
+        "star": "Star",
+        "cut": "Cut",
+        "copy": "Copy",
+        "paste": "Paste",
+        "mvLocate": "Move to...",
+        "mvItem": "Rename",
+        "vDetails": "View details",
+        "open": "Open",
+        "nFolder": "New folder...",
+        "upFiles": "Upload files...",
+        "logOut": "Log out",
+        "trash": "Move to trash",
+        "restore": "Restore"
+    },
+
+    "Bug": {
+        "os": "Operating system",
+        "other": "Other (specify in the message)",
+        "browser": "Web browser",
+        "browserVersion": "Browser version",
+        "message": "Message",
+        "messageLength": "The message must be at least 50 characters",
+        "form": "Error in the form",
+        "sent": "Your message has been sent successfully. We will respond as soon as possible by email"
+    },
+
+    "Upgrade": {
+        "offers": "Offers",
+        "history": "History",
+        "expired": "Expired",
+        "duration": "Duration",
+        "price": "Price",
+        "start_date": "Start date",
+        "end_date": "End date",
+        "month": "month",
+        "months": "months",
+        "year": "year",
+        "years": "years",
+        "lifetime": "lifetime",
+        "buy": "Buy",
+		"success_msg": "Your purchase has been made. It may take several minutes to refresh your disk space.",
+		"mue": "30% off with MUE"
+    },
+
+    "cek": {
+        "updateErr": "Error: cannot update the content encryption key",
+        "empty": "Error: The content encryption key is empty"
+    },
+
+    "Help": {
+        "shortcuts": [
+            "<strong>Desktop version</strong><ul>",
+            "<li>Left click on a file/folder : Select a file/folder - View details</li>",
+            "<li>Left click somewhere else : Remove selection</li>",
+            "<li>Ctrl + Left click : Select multiple files</li>",
+            "<li>Right click : Show actions</li>",
+            "<li>Arrow up : Select previous file</li>",
+            "<li>Arrow down : Select next file</li>",
+            "<li>Ctrl + Arrow up : Add previous file to selection</li>",
+            "<li>Ctrl + Arrow down : Add next file to selection</li>",
+            "<li>Ctrl + A : Select all</li>",
+            "<li>Ctrl + C : Copy</li>",
+            "<li>Ctrl + D : Logout</li>",
+            "<li>Ctrl + I : Invert selection</li>",
+            "<li>Ctrl + R : Move to trash</li>",
+            "<li>Ctrl + S : Save selection</li>",
+            "<li>Ctrl + V : Paste</li>",
+            "<li>Ctrl + X : Cut</li>",
+            "<li>Backspace : Go to parent folder</li>",
+            "<li>Delete : Delete selection</li>",
+            "<li>Esc : Hide actions box</li>",
+            "<li>Enter (on a file) : Download</li>",
+            "<li>Enter (on a folder) : Open folder</li>",
+            "<li>F1 : Help</li></ul>"
+        ]
+    },
+
+	"Units": {
+		"o": "",
+		"k": "KB",
+		"m": "MB",
+		"g": "GB",
+		"t": "TB"
+	}
+}
