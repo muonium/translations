@@ -8,7 +8,7 @@
         "recents": "Mui :: 最近",
         "sharing": "Mui :: 共享",
         "transfer": "Mui :: 传输",
-        "user": "Mui :: General",
+        "user": "Mui :: 总面板",
         "validate": "验证电子邮件",
         "refresh": "刷新",
         "profile": "账户",
@@ -33,34 +33,34 @@
     },
 
     "Toolbar": {
-        "recents": "Recents",
-        "favorites": "Favorites",
-        "general": "General",
-        "shared": "Shared",
-        "transfers": "Transfers"
+        "recents": "最近的文件",
+        "favorites": "喜爱的文件",
+        "general": "总面板",
+        "shared": "共享的文件",
+        "transfers": "传输"
     },
 
     "Error": {
-        "e404": "Error : Page not found",
+        "e404": "错误：页面不存在",
         "default": "发生了一个错误",
-        "form": "Error in the form",
+        "form": "表格中存在错误",
         "pp": "Editing the secret password is not currently available",
-        "bannedSession": "You've reached the maximum allowed number of requests",
-        "dl": "The file downloading feature is not available in your browser."
+        "bannedSession": "已达到最大请求的数量",
+        "dl": "你的浏览器不支持下载"
     },
 
     "User": {
-        "lastmod": "Last modification",
+        "lastmod": "最后修改时间",
         "loaded": "Loaded in",
-        "foldername": "Folder name",
+        "foldername": "文件夹名称",
         "questiond": "删除此文件夹？",
         "questionf": "删除此文件？",
         "questionrm": "删除这些文件/文件夹？",
         "trash_0": "查看回收站",
         "trash_1": "退出回收站",
-        "path": "Location",
-        "name": "Name",
-        "type": "File type",
+        "path": "位置",
+        "name": "名称",
+        "type": "文件类型",
         "size": "大小",
         "file": "文件",
         "folder": "文件夹",
