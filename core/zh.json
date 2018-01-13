@@ -1,21 +1,21 @@
 {
     "Global": {
         "home": "Home",
-        "register": "Register",
-        "back": "Back to Muonium",
+        "register": "注册",
+        "back": "回到 Muonium",
         "favorites": "Favorites",
-        "login": "Login",
+        "login": "登陆",
         "recents": "Mui :: Recents",
         "sharing": "Mui :: Sharing",
         "transfer": "Mui :: Transfer",
         "user": "Mui :: General",
         "validate": "Validate email",
-        "refresh": "Refresh",
+        "refresh": "刷新",
         "profile": "Profile",
-        "mail_sent": "An email was sent to you, please check your mailbox and your spams. If you received nothing after 5 minutes, please try again :",
-        "submit": "Submit",
-        "bug": "Bug report",
-        "loading": "Loading..."
+        "mail_sent": "已发送给你一封邮件，请检查你的收件箱和垃圾邮件。 如果在5分钟后仍未收到邮件，请重试。:",
+        "submit": "提交",
+        "bug": "Bug反馈",
+        "loading": "加载中..."
     },
 
     "UserMenu": {
