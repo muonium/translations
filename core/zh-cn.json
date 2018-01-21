@@ -4,7 +4,7 @@
         "register": "注册",
         "back": "回到 Muonium",
         "favorites": "喜欢",
-        "login": "登陆",
+        "login": "登录",
         "recents": "Mui :: 最近",
         "sharing": "Mui :: 共享",
         "transfer": "Mui :: 传输",
@@ -93,7 +93,7 @@
         "email": "邮件地址",
         "login": "用户名",
         "password": "密码",
-        "confirm": "确定",
+        "confirm": "再输一遍",
         "passphrase": "私密密码",
         "doubleAuth": "你想开启两步验证吗？",
         "alreadyregistered": "已经有账户了？",
@@ -126,7 +126,7 @@
         "codeMail": "邮件接受了验证码",
         "expired": "此验证码已经失效，请重新登陆",
         "invalidCode": "无效的验证码",
-        "username": "邮箱或登陆",
+        "username": "邮箱或登录",
         "badPassphrase": "错误: 无效的私密密码",
         "doubleAuth": "一个附带验证码的邮件已经发给你了，请把验证吗复制到以上的选框中。<br>如果你5分钟内什么也没收到（包括你的垃圾文件夹），请点击这个链接 <a href='[url_app]/Logout'>link</a> 再尝试一次。"
     },
@@ -206,7 +206,7 @@
     },
 
     "Upgrade": {
-        "offers": "提供",
+        "offers": "我们提供",
         "history": "历史记录",
         "expired": "已过期",
         "duration": "时限",
