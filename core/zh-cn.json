@@ -4,7 +4,8 @@
         "register": "注册",
         "back": "回到 Muonium",
         "favorites": "喜欢",
-        "login": "登录",
+        "login": "登陆",
+		"logout": "退出账户",
         "recents": "Mui :: 最近",
         "sharing": "Mui :: 共享",
         "transfer": "Mui :: 传输",
@@ -15,7 +16,11 @@
         "mail_sent": "已发送给你一封邮件，请检查你的收件箱和垃圾邮件。 如果在5分钟后仍未收到邮件，请重试。:",
         "submit": "提交",
         "bug": "Bug反馈",
-        "loading": "加载中..."
+        "loading": "加载中...",
+		"selected": "Currently selected",
+		"general": "总面板",
+        "shared": "共享的文件",
+        "transfers": "传输"
     },
 
     "UserMenu": {
@@ -23,21 +28,12 @@
         "help": "帮助",
         "settings": "设置",
         "profile": "账户",
-        "logout": "退出账户",
         "upload": "上传",
         "smallIcons": "小图标",
         "largeIcons": "大图标",
         "multiSelection": "多项选择",
         "selectAll": "选择全部",
 		"moreStorage": "购买更多的储存空间"
-    },
-
-    "Toolbar": {
-        "recents": "最近的文件",
-        "favorites": "喜爱的文件",
-        "general": "总面板",
-        "shared": "共享的文件",
-        "transfers": "传输"
     },
 
     "Error": {
@@ -65,7 +61,7 @@
         "file": "文件",
         "folder": "文件夹",
         "element": "元素",
-        "PlurialElement": "元素",
+        "elements": "元素",
         "replaceFile": "这个文件 [filename] 已经存在，你想替换它吗？",
         "replaceCompleteFile": "这个文件 [filename] 已经存在但是它不完整，你想怎么做？",
         "quotaExceeded": "超出配额!",
@@ -83,17 +79,26 @@
         "nothing": "空...",
         "uploading": "上传中",
         "downloading": "下载中",
-		"quota_of": "[used] 对于 [total] 总共",
+		"quota_of": "[used] 对于 [total]",
 		"shared": "文件共享已启用",
+		"generatelink": "Generate Link",
 		"badPass": "密码错误！",
-		"uploadedBy": "由[login]上传"
+		"uploadedBy": "由[login]上传",
+		"needhelp": "Need help getting started with Muonium?",
+		"Upnothing": "You haven't uploaded anything yet.",
+		"Dlnothing": "You haven't downloaded anything yet.",
+		"Trashnothing": "You haven't deleted any files recently.",
+		"first": "Upload your first file.",
+		"copied": "Link has been copied to clipboard"
     },
 
     "Register": {
+		"donthaveaccount": "Don't have a Muonium account?",
+		"create": "Create one now.",
         "email": "邮件地址",
         "login": "用户名",
         "password": "密码",
-        "confirm": "再输一遍",
+        "confirm": "确定",
         "passphrase": "私密密码",
         "doubleAuth": "你想开启两步验证吗？",
         "alreadyregistered": "已经有账户了？",
@@ -117,6 +122,7 @@
     },
 
     "Login": {
+		"signin": "Sign In",
         "forgot": "密码忘了？",
         "register": "注册",
         "bruteforceErr0": "无效的邮箱或密码",
@@ -126,16 +132,18 @@
         "codeMail": "邮件接受了验证码",
         "expired": "此验证码已经失效，请重新登陆",
         "invalidCode": "无效的验证码",
-        "username": "邮箱或登录",
+        "username": "邮箱或登陆",
         "badPassphrase": "错误: 无效的私密密码",
-        "doubleAuth": "一个附带验证码的邮件已经发给你了，请把验证吗复制到以上的选框中。<br>如果你5分钟内什么也没收到（包括你的垃圾文件夹），请点击这个链接 <a href='[url_app]/Logout'>link</a> 再尝试一次。"
-    },
+        "doubleAuth": "一个附带验证码的邮件已经发给你了，请把验证吗复制到以上的选框中。<br>如果你5分钟内什么也没收到（包括你的垃圾文件夹），请点击这个链接 <a href='[url_app]/Logout'>link</a> 再尝试一次。",
+		"success": "Successfully logged in"
+	},
 
     "Validate": {
         "message": "错误 : 验证码错误，请登陆再发送一个新的验证邮件",
         "wait": "请在请求新的验证邮件之前等待一分钟",
         "sendmess": "请点击邮件中的链接来激活你的账户",
-        "sendmail": "发送一个新的邮件"
+        "sendmail": "发送一个新的邮件",
+		"done": "Your account is validated. You can now log in and start using Muonium!"
     },
 
     "Profile": {
@@ -161,7 +169,14 @@
         "accountDeletionConfirm": "你想删除你的账户吗？",
         "accountDeletionOk": "你的账户已成功被删除！",
         "deleteAccount": "删除账户",
-        "details": "你想让文件/文件夹被选中时展示详细信息吗？"
+        "theme": "Theme",
+		"mailusername": "Email & Username",
+		"pwdpp": "Password & Secret Password",
+		"filedetails": "File Details",
+		"iwant": "I really want to",
+		"otheroptions": "Other options",
+		"upgrade": "Ready to upgrade Muonium?",
+		"getmore": "Get more storage"
     },
 
     "LostPass": {
@@ -187,12 +202,21 @@
         "mvItem": "重命名",
         "vDetails": "查看详细信息",
         "open": "打开",
-        "nFolder": "新文件夹...",
-        "upFiles": "上传文件...",
+        "nFolder": "新文件夹",
+        "upFiles": "上传文件",
         "logOut": "退出账户",
         "trash": "移到回收站",
         "restore": "恢复"
     },
+
+	"Story": {
+		"keep": "Keep Muonium <u>Free</u> and <u>Open</u>.",
+		"join": "Join our journey of keeping Muonium free, secure, and open source for everyone.",
+		"read": "Read Our Story",
+		"premium": "Go Premium",
+		"donate": "Give a donation",
+		"help": "How does my support help?"
+	},
 
     "Bug": {
         "os": "操作系统",
@@ -202,11 +226,14 @@
         "message": "详细信息",
         "messageLength": "详细信息至少需要50个字符",
         "form": "表格填写有错误",
-        "sent": "你的反馈已经成功被发出， 我们将会尽快用邮件回复"
+        "sent": "你的反馈已经成功被发出， 我们将会尽快用邮件回复",
+		"send": "Send report"
     },
 
     "Upgrade": {
-        "offers": "我们提供",
+		"upgrade": "Upgrade",
+		"upgradeMui": "Upgrade Muonium",
+        "offers": "提供",
         "history": "历史记录",
         "expired": "已过期",
         "duration": "时限",
@@ -262,5 +289,10 @@
 		"m": "MB",
 		"g": "GB",
 		"t": "TB"
+	},
+
+	"Dates": {
+		"date": "Y-m-d",
+		"time": "G:i"
 	}
 }
