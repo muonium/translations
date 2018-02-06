@@ -43,15 +43,7 @@
         "DylanRole": "Co-fundador y desarrollador del \"front-end\" y \"back-end\"",
         "DylanLife": "Dylan desarrolla el \"back-end\", y ayuda a Paul en la gestión del proyecto Muonium. Apasionado de las nuevas tecnologías, y tiene un diploma de técnico superior en computación, actualmente está estudiando desarrollo de aplicaciones web en grado profesional.",
         "GioRole": "Co-fundador y técnico del servicio de ayuda",
-        "GioLife": "Giovanni presata ayuda a los usuarios y también a las empresas. Es un apasionado de las tecnologías web, del hardware y Android. Le gusta la cultura japonesa y las series.",
-        "AyaRole": "Desarrollador \"back-end\"",
-        "AyaLife": "Aya es Ingeniera en electrónica y comunicación al que le apasiona programar. Ella tiene un diploma en Desarrollo web de código abierto y trabaja como desarrolladora del \"back-end\" en Muonium. También es autora en la editorial Lap Lambert Academic. Sus aficiones son la música y el tenis.",
-        "BasmaRole": "Desarrollador de software",
-        "BasmaLife": "Basma es un ingeniera de software con 6 años de experiencia en la industria del software y desarrollo. Trabaja en la aplicación para escritorio de Muonium. Su pasión es desarrollar y leer libros.",
-        "SalehRole": "Desarrollador \"front-end\" y \"back-end\"",
-        "SalehLife": "Saleh es un desarrollador web con 4 años de experiencia, trabaja en la aplicación para escritorio junto con Basma.",
-        "KarramRole": "Diseñador",
-        "KarramLife": "Mohamed proviene de Aswan, Egipto. Es el responsable de todo el diseño de Muonium. Mohamed está interesado en comunicación visual, imagen de marca, imagen corporativa, ambigramas y la geometría sagrada."
+        "GioLife": "Giovanni presata ayuda a los usuarios y también a las empresas. Es un apasionado de las tecnologías web, del hardware y Android. Le gusta la cultura japonesa y las series."
     },
 
     "adventure": {
@@ -97,5 +89,5 @@
         "EELawsTxt": "Las leyes Europeas y Estonias sobre criptografía no son tan restrictivas, ese es el motivo por el que Muonium será desarrollado y desplegado en Estonia. Eso nos permite <b>cifrar las llaves de cifrado</b>, por lo que cifraremos sus llaves de cifrado (su llave de cifrado es utilizada para cifrar sus archivos) con su contraseña secreta (también llamada \"frase de paso\") <b>antes de enviarla a los servidores</b>. Como consecuencia de eso, <b>usted será el único propietario de su llave de descifrado, y por consecuencia, sólo usted podrá acceder a sus archivos</b>. También, su contraseña secreta nunca será enviada a los servidores. Sólo usted la conoce.",
         "tripleAuth": "Triple autentificación",
         "tripleAuthTxt": "Sólo usted puede acceder a sus archivos. Ese es el motivo por el que hemos desarrollado una <b>autentificación en tres capas</b>. El principio es bastante sencillo: Usted introduce <b>su inicio de sesión/correo electrónico y contraseña</b> y la envía, esa es la primera capa de seguridad. Una vez que ha iniciado sesión, necesitará introducir <b>su frase de paso</b> para poder habilitar el descifrado con su llave, entonces se permitirá el descifrado de sus archivos, esto corresponde a la segunda capa. Pero nosotros pensamos que una capa adicional ofrece más seguridad. Después de su frase de paso, <b>se enviará un código en un correo electrónico</b>, necesitará introducir el código recibido en la página para iniciar completamente la sesión. Todo esto puede llevar un poco de tiempo, pero esto refuerza la seguridad de su cuenta.<br> Este sistema está inspirado por la <a href='https://en.wikipedia.org/wiki/Multi-factor_authentication'>double autentificación</a> realizada por algunos sitios web como Google o Facebook."
-}
+	}
 }

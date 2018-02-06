@@ -43,15 +43,7 @@
         "DylanRole": "Co-founder & Back-end developer",
         "DylanLife": "Dylan sviluppa il back-end, and coadiuva Paul nella gestione del progetto Muonium. Inoltre si occupa delle tecniche di programmazione per la web application. Appassionato di IT, con un diploma informatico, sta attualmente studiando lo sviluppo di web application development nell'ambito di un degree professionale.",
         "GioRole": "Technical support service",
-        "GioLife": "Giovanni helps users and eventually, enterprises. He is passionate about web technologies, hardware and Android. He likes Japanese culture and series.",
-        "AyaRole": "Back-end developer",
-        "AyaLife": "Aya is an Eletronics & Communication Engineer whose passion is programming. She has Diploma in Open Source Web Development and works as back-end developer at Muonium. Also, she is a book author in Lap Lambert Academic Publishing. Her hobbies are music and tennis.",
-        "BasmaRole": "Software developer",
-        "BasmaLife": "Basma is a software Engineer with 6 years experience in the software and development industry. She works on the Muonium desktop application. Her passion is developing and reading books.",
-        "SalehRole": "Front-end and Back-end developer",
-        "SalehLife": "Saleh is Web Developer with 4 years experience , he is working on desktop application with Basma.",
-        "KarramRole": "Designer",
-        "KarramLife": "Mohamed comes from Aswan, Egypt. He's responsible of the whole Muonium's design. Mohamed is interested in visual communication, branding, corporate identity, ambigram and Sacred Geometry."
+        "GioLife": "Giovanni helps users and eventually, enterprises. He is passionate about web technologies, hardware and Android. He likes Japanese culture and series."
     },
 
     "adventure": {

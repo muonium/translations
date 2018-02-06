@@ -43,16 +43,7 @@
         "DylanRole": "Co-Fondateur & Développeur Front-end et Back-end",
         "DylanLife": "Dylan développe le back-end, et aide Paul à diriger Muonium. Il s'occupe également des techniques de programmation à utiliser pour l'application web. Passionné par l'informatique, et ayant un diplôme de technicien supérieur en informatique, il étudie actuellement le développement web en licence professionnelle.",
         "GioRole": "Co-Fondateur & Service de support technique",
-        "GioLife": "Giovanni est chargé d'aider les utilisateurs et éventuellement les entreprises. Il se passionne pour le monde du web ainsi que pour celui du hardware et à Android. De plus il est fan de la culture Japonaise ainsi que de séries en tout genre.",
-        "thanksTo": "Remerciements",
-        "AyaRole": "Développeuse Back-end",
-        "AyaLife": "Aya est ingénieur en Électronique & Communications dont la passion est la programmation. Elle a un diplôme dans le Développement Web Open Source et travaille en tant que développeuse back-end à Muonium. Elle est aussi auteur à Lap Lambert Academic Publishing. Ses passions sont la musique et le tennis.",
-        "BasmaRole": "Développeuse logiciel",
-        "BasmaLife": "Basma est ingénieur Logiciel avec 6 ans d'expérience dans l'industrie du logiciel et du développement. Elle travaille sur l'application de bureau Muonium. Ses passions sont de développer et lire des livres.",
-        "SalehRole": "Développeur Front-end et Back-end",
-        "SalehLife": "Saleh est développeur web ayant 4 ans d'expérience, il travaille sur l'application de bureau avec Basma.",
-        "KarramRole": "Designer",
-        "KarramLife": "Mohamed vient d'Aswan, en Égypte. Il est responsable du design de Muonium. Il apprécie la communication visuelle, l'image de marque, l'identité corporative, les ambigrammes et la Géométrie sacrée."
+        "GioLife": "Giovanni est chargé d'aider les utilisateurs et éventuellement les entreprises. Il se passionne pour le monde du web ainsi que pour celui du hardware et à Android. De plus il est fan de la culture Japonaise ainsi que de séries en tout genre."
     },
 
     "adventure": {
@@ -74,7 +65,7 @@
         "whyDonateTxt": "Notre équipe est composée d'étudiants, pas de professionnels à proprement parler. Donc, nous ne sommes pas rémunérés par un quelconque emploi. Ainsi, si nous avons besoin d'argent, nous sommes obligés de consacrer de notre temps pour travailler, ce qui est du temps en moins pour travailler sur Muonium ou sur nos études.<br>Or, si par vos dons, nous parvenons à établir un certain équilibre et nous n'avons pas forcément besoin de travailler pour subvenir à nos besoins, alors nous pourrons nous consacrer davantage au développement de Muonium."
     },
 
-"help": {
+	"help": {
         "losePwd": "J'ai perdu mon mot de passe, comment le récupérer ?",
         "losePwdAns": "S'il s'agit de votre mot de passe d'identification, vous avez un lien sur la page de connexion \"Mot de passe oublié ?\". Votre mot de passe sera réinitialisé et un mail vous sera envoyé avec un lien de réinitialisation de votre mot de passe.<br>En revanche, s'il s'agit de votre mot de passe de déchiffrement (\"passphrase\"), il nous est impossible d'en redéfinir un et il faut considérer que tous vos fichiers sont perdus.",
         "whoCanAccessMyFiles": "Qui peut accéder à mes fichiers ?",
@@ -87,9 +78,9 @@
         "helpTerrorismAns": "Non, nous prônons la vie privée, certes, en aidant le monde à obtenir une meilleure vie privée, nous aidons involontairement le terrorisme. Mais nous sommes dans le même cas que <a href='https://protonmail.com/blog/privacy-encryption-and-terrorism/'>ProtonMail</a>. En tous les cas, même si nous ne développerions pas Muonium, toute personne malveillante chiffrerait.",
         "anotherQuestion": "Une autre question ?",
         "anotherQuestionAns": "Notre FAQ sera mise à jour au fur et à mesure de vos questions. Vous pouvez nous contacter à l'adresse suivante : <b>muonium [AT] protonmail [DOT] ch"
-},
+	},
 
-"security": {
+	"security": {
         "communicationsEncryption": "Chiffrement des communications",
         "communicationsEncryptionTxt": "Muonium utilise la technologie <a href='https://fr.wikipedia.org/wiki/Transport_Layer_Security#TLS_1.2'>TLS 1.2</a> via un certificat généré par <a href='https://letsencrypt.org/'>Let's Encrypt</a> afin de sécuriser vos communications entre vos appareils et les serveurs. Grâce à cette technologie, les informations que vous envoyez (votre identifiant, votre mot de passe, etc...) et que vous recevez (informations personnelles, etc...) sont chiffrées au moyen d'un algorithme nommé <a href='https://fr.wikipedia.org/wiki/Advanced_Encryption_Standard'>AES-256</a> permettant un chiffrement par <b>AES - 256 bits</b>.<br>Ainsi, même si vos communications sont interceptées, elles ne pourront pas être déchiffrées et personne ne pourra voler les informations en transit entre vous et les serveurs.",
         "filesEncryption": "Chiffrement des fichiers",

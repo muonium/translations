@@ -43,15 +43,7 @@
         "DylanRole": "Kaasasutaja & front-end ja back-end arendaja",
         "DylanLife": "Dylan develops the back-end, and help Paul to manage the Muonium project. Also, he deals programming techniques for the web application. Passionate about IT, and having a higher technician diploma in computing, he is currently studying the web application development in professional degree.",
         "GioRole": "Kaasasutaja & tehnilised tugiteenused",
-        "GioLife": "Giovanni helps users and eventually, enterprises. He is passionate about web technologies, hardware and Android. He likes Japanese culture and series.",
-        "AyaRole": "Back-end arendaja",
-        "AyaLife": "Aya on elektroonik ja sidetehnik, kelle kireks on programmeerimine. Tal on diplom avatud lähtekoodi arendamise erialal ja töötab Muoniumis back-end arendajana. Samuti on ta ka raamatu autor Lap Lambert Akadeemilises Kirjastuses. Tema hobbideks on muusika ja tennis.",
-        "BasmaRole": "Tarkvara arendaja",
-        "BasmaLife": "Basma on tarkvara insener, kellel on kuue aastane kogemus tarkvara ja arendamise tööstuses. Ta tegeleb Muoniumi töölaua kohandamisega. Tema hobideks on arendamine ja raamatute lugemine.",
-        "SalehRole": "Front-end ja back-end arendaja",
-        "SalehLife": "Salehil on neli aastat tegelenud veebi arendamisega, ta tegeleb töölaua kohandamisega koos Basmaga.",
-        "KarramRole": "Veebidisainer",
-        "KarramLife": "Mohamed on pärit Egiptusest, täpsemalt Aswanist. Tema vastutab Muoniumi disaini eest. Mohamed on huvitatud visuaalse kommunikatsioonist, branding, korporatiivsest identiteedist, ambigrammist ja sacred geometry."
+        "GioLife": "Giovanni helps users and eventually, enterprises. He is passionate about web technologies, hardware and Android. He likes Japanese culture and series."
     },
 
     "adventure": {
@@ -97,5 +89,5 @@
         "EELawsTxt": "European and Estonian cryptography laws aren't restrictive, that's why Muonium will be deployed in Estonia. Those allow us to <b>encrypt the encryption keys</b>, then we encrypt your encryption key (your encryption key is used to encrypt your files) with your secret password (also called \"passphrase\") <b>before sending it to the servers</b>. Consequently, <b>you remain the only one owner of your encryption key, and then, only you can access your files</b>. Also, your secret password will never be sent to the servers. Only you know it.",
         "tripleAuth": "Triple-authentication",
         "tripleAuthTxt": "Only you can access your files. That is why we have developed a <b>authentication system with 3 layers</b>. The principle is quite simple: You enter <b>your login/mail and password</b> and submit, this is the first security layer. Once you're logged, you need to enter <b>your passphrase</b> to be able to decrypt your key, then allows the decryption of your files, this corresponds to the second layer. But we thought that an additional layer provides more security. After your passphrase, <b>a mail with a code will be sent</b>, you need to enter the received code on the page to be totally logged. All this may be a little long, but strengthens the security of your account.<br>This system is inspired by the <a href='https://en.wikipedia.org/wiki/Multi-factor_authentication'>double-authentification</a> made by some sites like Gmail or Facebook."
-}
+	}
 }
