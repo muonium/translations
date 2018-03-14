@@ -26,16 +26,16 @@ Arabic: ar
 
 ```json
 "global": {
-    "home": "Encrypt your files",
-    "about": "About",
-    "adventure": "Achievement",
-    "security": "Security",
-    "blog": "Blog",
-    "donate": "Donate",
-    "help": "Help",
-    "login": "Login",
-    "register": "Register",
-    "close": "Close"
+  "home": "Encrypt your files",
+  "about": "About",
+  "adventure": "Achievement",
+  "security": "Security",
+  "blog": "Blog",
+  "donate": "Donate",
+  "help": "Help",
+  "login": "Login",
+  "register": "Register",
+  "close": "Close"
 },
 
 ```
@@ -47,7 +47,7 @@ Here, we see that "global" is the "category", it is used in the code to identify
 
 ### Code Style
 
-Please use following style: Indent mode `Spaces` and Indent size `4` in the Github web editor. If you have done this (you can adjust that at the top of the file next to `Edit file`) you can use tabs, they automatically will turn into four spaces.
+Please use following style: Indent mode `Spaces` and Indent size `2` in the Github web editor. If you have done this (you can adjust that at the top of the file next to `Edit file`) you can use tabs, they automatically will turn into two spaces.
 
 ### Mistakes
 
