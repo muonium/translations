@@ -1,0 +1,285 @@
+{
+  "Bug": {
+    "browser": "Webbrowser",
+    "browserVersion": "Browserversion",
+    "form": "Fehler im Formular",
+    "message": "Mitteilung",
+    "messageLength": "Die Mitteilung muss mindestens 50 Zeichen enthalten",
+    "os": "Betriebssystem",
+    "send": "Mitteilung senden",
+    "sent": "Deine Mitteilung wurde erfolgreich abgesendet. Wir werden so schnell wie möglich per Email darauf antworten",
+    "wait": "Please wait a minute before sending a new bug report."
+  },
+
+  "Dates": {
+    "date": "DD.MM.YYYY",
+    "time": "HH:mm"
+  },
+
+  "Error": {
+    "bannedSession": "Du hast das Maximum an erlaubten Anfragen erreicht",
+    "default": "Ein Fehler ist aufgetreten",
+    "e404": "Fehler: Seite wurde nicht gefunden",
+    "form": "Fehler im Formular",
+    "dl": "Die Herunterladen-Funktion ist in Deinem Browser nicht verfügbar.",
+    "pp": "Das Ändern des geheimen Passwords ist gerade nicht verfügbar"
+  },
+
+  "Global": {
+    "back": "Zurück zu Muonium",
+    "bug": "Melde einen Fehler",
+    "favorites": "Favoriten",
+    "home": "Home",
+    "loading": "Lädt...",
+    "login": "Login",
+    "logout": "Logout",
+    "mailSent": "Eine Email wurde an Dich gesendet, bitte überprüfe Deinen Posteingang und Deinen Spamordner. Falls Du nach 5 Minuten nichts erhalten hast, probiere es erneut:",
+    "profile": "Profil",
+    "recents": "Mui :: Letzte",
+    "refresh": "Erneuern",
+    "register": "Registrieren",
+    "shared": "Geteilt",
+    "sharing": "Mui :: Teilen",
+    "submit": "Absenden",
+    "transfers": "Transferiere",
+    "upgrade": "Upgrade",
+    "validate": "Email-Adresse bestätign"
+  },
+
+  "Help": {
+    "shortcuts": [
+      "<strong>Desktopversion</strong><ul>",
+      "<li>Linksklick auf eine Datei/einen Ordner: Auswahl einer Datei/eines Ordners - Zeige Details</li>",
+      "<li>Linksklick irgendwo anders hin: Auswahl aufheben</li>",
+      "<li>Strg + Linksklick: Auswahl mehrerer Dateien</li>",
+      "<li>Rechtsklick: Zeige Aktionen</li>",
+      "<li>Pfeiltaste nach oben: Auswahl der vorherigen Datei</li>",
+      "<li>Pfeiltaste nach unten: Auswahl der nächsten Datei</li>",
+      "<li>Strg + Pfeiltaste nach oben: Vorherige Datei zur Auswahl hinzufügen</li>",
+      "<li>Strg + Pfeiltaste nach unten: Nächste Datei zur Auswahl hinzufügen</li>",
+      "<li>Strg + A: Alle auswählen</li>",
+      "<li>Strg + C: Kopieren</li>",
+      "<li>Strg + D: Logout</li>",
+      "<li>Strg + I: Auswahl invertieren</li>",
+      "<li>Strg + R: In den Papierkorb verschieben</li>",
+      "<li>Strg + S: Auswahl speichern</li>",
+      "<li>Strg + V: Einfügen</li>",
+      "<li>Strg + X: Ausschneiden</li>",
+      "<li>Backspace: Zum übergeordneten Ordner gehen</li>",
+      "<li>Entf: Auswahl löschen</li>",
+      "<li>Esc: Verstecke Aktionsbox</li>",
+      "<li>Enter (auf eine Datei): Download</li>",
+      "<li>Enter (auf einen Ordner): Ordner öffnen</li>",
+      "<li>F1: Hilfe</li></ul>"
+    ]
+  },
+
+  "Login": {
+    "badPass": "Falsches Passwort!",
+    "badPassphrase": "Fehler: falsches geheimes Passwort",
+    "codeMail": "Per Email empfangener Code",
+    "doubleAuthMessage": "Hi, Dein Authentifizierungscode ist [key]<br>Mit freundlichen Grüßen,<br>das Muonium Team<br><br>Diese Email wurde automatisch generiert, bitte antworte nicht darauf.",
+    "forgot": "Passwort vergessen?",
+    "invalidCode": "Der eingegebene Code ist ungültig",
+    "register": "Registrieren",
+    "signin": "Login",
+    "success": "Erfolgreich eingeloggt",
+    "username": "Email oder Login"
+  },
+
+  "LostPass": {
+    "keyErr": "Fehler: Der Verifizierungscode ist falsch oder abgelaufen, bitte frage einen neuen an.",
+    "message": "Hi,<br>Um Dein Passwort oder Dein geheimes Passwort zu aktualisieren, klicke bitte auf folgenden Link: <a href='[url_app]/#/lostPass/[id_user]/[key]'>[url_app]/#/lostPass/[id_user]/[key]</a><br>Mit freundlichen Grüßen,<br>das Muonium Team.<br><br>Diese Email wurde automatisch generiert, bitte antworte nicht darauf.",
+    "notFound": "Error: User not found!",
+    "reset": "Achtung! Wenn Du Dein geheimes Passwort änderst, wird Dein Account zurückgesetzt und Du verlierst alle Deine Daten!",
+    "subject": "Muonium - Passwort vergessen",
+    "updateErr": "Konnte Deine Accountinformationen nicht aktualisieren.",
+    "updateOk": "Deine Accountinformationen wurden erfolgreich aktualisiert.",
+    "user": "Deine Email-Adresse oder Dein Benutzername",
+    "wait": "Please wait a minute before requesting again a lost pass mail."
+  },
+
+  "Profile": {
+    "accountDeletionConfirm": "Willst Du Deinen Account wirklich löschen?",
+    "badOldPass": "Dein altes Passwort passt nicht",
+    "badOldPassphrase": "Dein altes geheimes Passwort passt nicht",
+    "changeLogin": "Meinen Benutzernamen ändern",
+    "changeMail": "Email-Adresse ändern",
+    "changePp": "Mein geheimes Passwort ändern",
+    "changePwd": "Mein Passwort ändern",
+    "deleteAccount": "Account löschen",
+    "doubleAuth": "Doppelte Authentifizierung",
+    "getMore": "Hol Dir mehr Speicher",
+    "iwant": "Ich möchte wirklich",
+    "loginExists": "Dieser Benutzername ist bereits vergeben",
+    "mailExists": "This email address is already taken.",
+    "mailFormat": "Format der Email-Adresse ist nicht korrekt.",
+    "mailUsername": "Email & Benutzername",
+    "newLogin": "Neuer Benutzername",
+    "newPp": "Neues geheimes Passwort",
+    "newPwd": "Neues Passwort",
+    "oldPp": "Altes geheimes Passwort",
+    "oldPwd": "Altes Passwort",
+    "otherOptions": "Weitere Optionen",
+    "pwdPp": "Passwort & Geheimes Passwort",
+    "sessions": "Sessions",
+    "terminate": "Terminate",
+    "terminateAll": "Terminate all other sessions",
+    "theme": "Theme",
+    "updateErr": "Konnte Dein Profil nicht aktualisieren",
+    "updateOk": "Dein Profil wurde erfolgreich aktualisiert",
+    "upgrade": "Bereit, Muonium upzugraden?"
+  },
+
+  "Register": {
+    "alreadyRegistered": "Bereits registriert?",
+    "badPassConfirm": "Die Passwörter stimmen nicht überein.",
+    "badPassphraseConfirm": "Die geheimen Passwörter stimmen nicht überein.",
+    "confirm": "Bestätigen",
+    "create": "Erstelle jetzt einen.",
+    "dontHaveAccount": "Noch kein Muonium-Account?",
+    "doubleAuth": "Aktivieren",
+    "email": "Email-Adresse",
+    "error": "Beim Erstellen des Accounts ist ein Fehler aufgetreten.",
+    "form": "Alle Felder müssen ausgefüllt werden.",
+    "impossible": "Registrierung temporär nicht verfügbar",
+    "login": "Benutzername",
+    "loginExists": "Dein Benutzername ist bereits in unserer Datenbank gespeichert. Konnte keinen Account dazu erstellen.",
+    "loginFormat": "Format des Benutzernamen fehlerhaft (zwischen 2 and 20 alphanumerischen Zeichen, -_. erlaubt).",
+    "mailExists": "Deine Email-Adresse ist bereits in unserer Datenbank gespeichert. Konnte keinen Account dazu erstellen.",
+    "mailFormat": "Format der Email fehlerhaft.",
+    "ok": "Registrierung abgeschlossen!",
+    "passEqualPassphrase": "Das Passwort und das geheime Passwort müssen verschieden sein.",
+    "passLength": "Das Passwort oder das geheime Passwort muss mindestens aus 6 Zeichen bestehen.",
+    "passphrase": "Geheimes Passwort",
+    "passphraseHelp": "Password used for encrypting and decrypting files",
+    "password": "Passwort"
+  },
+
+  "Rm": {
+    "questiond": "Willst Du diesen Ordner entfernen?",
+    "questionf": "Willst Du diese Datei entfernen?",
+    "questionrm": "Willst Du diese Dateien/Ordner entfernen?"
+  },
+
+  "Selection": {
+    "actions": "Actions",
+    "copy": "Kopieren",
+    "copyLink": "Copy link",
+    "cut": "Ausschneiden",
+    "dl": "Herunterladen",
+    "file": "Datei",
+    "folder": "Ordner",
+    "logOut": "Ausloggen",
+    "mvItem": "Umbenennen",
+    "mvLocate": "Verschieben nach...",
+    "nFolder": "Neuer Ordner",
+    "open": "Öffnen",
+    "paste": "Einfügen",
+    "quotaOf": "[used] von [total]",
+    "restore": "Wiederherstellen",
+    "rm": "Löschen",
+    "share": "Teilen",
+    "star": "Sternen",
+    "trash": "In den Papierkorb verschieben",
+    "unshare": "Teilen anhalten",
+    "upFiles": "Dateien hochladen",
+    "vDetails": "Details zeigen"
+  },
+
+  "Sidebar": {
+    "bug": "Fehler",
+    "help": "Hilfe",
+    "settings": "Einstellungen"
+  },
+
+  "Story": {
+    "donate": "Spende uns",
+    "help": "Wie hilft meine Unterstützung?",
+    "join": "Schließe Dich unserer Reise, Muonium für jeden frei, sicher, und Open Source zu halten, an.",
+    "keep": "Halte Muonium <u>frei</u> und <u>offen</u>.",
+    "premium": "Werde Premium",
+    "read": "Lies unsere Geschichte"
+  },
+
+  "Transfers": {
+    "replaceFile": "Die Datei [filename] ist schon vorhanden, möchtest Du sie ersetzen?",
+    "replaceCompleteFile": "Die Datei [filename] ist schon vorhanden und nicht fertiggestellt, was willst Du machen?",
+    "quotaExceeded": "Quote überschritten!",
+    "fileAPI": "Die Datei-APIs werden von Deinem Browser nicht vollständig unterstützt. Fallback erforderlich.",
+    "yes": "Ja",
+    "no": "Nein",
+    "yesAll": "Ja für alle",
+    "noAll": "Nein für alle",
+    "complete": "Fertigstellen",
+    "replace": "Ersetzen",
+    "nothing": "Nichts...",
+    "uploading": "Lädt hoch",
+    "downloading": "Lädt herunter"
+  },
+
+  "Tree": {
+    "copied": "Link wurde in der Zwischenablage gespeichert",
+    "details": "Details",
+    "dlNothing": "You haven't downloaded anything yet.",
+    "element": "element",
+    "elements": "elemente",
+    "fileSelected": "Datei(en) audgewählt",
+    "first": "Lade Deine erste Datei hoch.",
+    "foldername": "Ordnername",
+    "folderSelected": "Ordner ausgewählt",
+    "generateLink": "Link generieren",
+    "lastmod": "Letzte Änderung",
+    "multiSelection": "Mehrfachauswahl",
+    "name": "Name",
+    "needHelp": "Brauchst Du Hilfe, um mit Muonium durchzustarten?",
+    "notCompleted": "Nicht fertiggestellt",
+    "options": "Options",
+    "path": "Ort",
+    "selectAll": "Alle auswählen",
+    "shared": "Datenaustausch aktiviert",
+    "size": "Größe",
+    "trashNothing": "Du hast kürzlich keine Dateien gelöscht.",
+    "type": "Dateityp",
+    "uploaded": "Uploaded",
+    "uploadedBy": "Hochgeladen durch [login] auf",
+    "upNothing": "Du hast noch nichts hochgeladen."
+  },
+
+  "Units": {
+    "o": "",
+    "k": "KB",
+    "m": "MB",
+    "g": "GB",
+    "t": "TB"
+  },
+
+  "Upgrade": {
+    "duration": "Dauer",
+    "endDate": "Enddatum",
+    "expired": "Abgelaufen",
+    "history": "Geschichte",
+    "lifetime": "Lebenszeit",
+    "month": "Monat",
+    "months": "Monate",
+    "mostPopular": "Most Popular",
+    "mue": "30% sparen mit MUE",
+    "offers": "Angebote",
+    "price": "Preis",
+    "startDate": "Anfangsdatum",
+    "successMsg": "Dein Kauf wurde getätigt. Es kann einige Minuten dauern, deinen Festplattenplatz zu aktualisieren.",
+    "upgradeMui": "Upgrade Muonium",
+    "year": "Jahr",
+    "years": "Jahre"
+  },
+
+  "Validate": {
+    "done": "Dein Account ist bestätigt. Du kannst Dich jetzt einloggen und mit Muoinium durchstarten!",
+    "keyErr": "Fehler: Der Verifizierungscode ist falsch, bitte logge Dich ein, um eine neue Verifizierungsemail abzusenden",
+    "message": "Willkommen bei Muonium!<br>Um Deinen Account zu verifizieren, klicke auf diesen Link: <a href='[url_app]/#/validate/[id_user]/[key]'>[url_app]/#/validate/[id_user]/[key]</a><br>Mit freundlichen Grüßen,<br>das Muonium Team<br><br>Diese Email wurde automatisch generiert, bitte antworte nicht darauf.",
+    "sendmail": "Neue Email senden",
+    "sendmess": "Bitte klicke auf den Link in der Email um Deinen Account zu aktivieren",
+    "subject": "Muonium - Accountverifizierung",
+    "wait": "Bitte warte eine Minute, bevor Du eine neue Verifizierungsemail abschickst."
+  }
+}
