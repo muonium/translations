@@ -82,7 +82,7 @@
     "forgot": "Забыли пароль?",
     "invalidCode": "Введенный код недействителен",
     "register": "Зарегистрироваться",
-    "signin": "Вход",
+    "signIn": "Вход",
     "success": "Successfully logged in",
     "username": "адрес электронной почты или логин"
   },

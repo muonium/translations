@@ -82,7 +82,7 @@
     "forgot": "密码忘了？",
     "invalidCode": "无效的验证码",
     "register": "注册",
-    "signin": "登录",
+    "signIn": "登录",
     "success": "成功登录",
     "username": "邮箱或登录"
   },

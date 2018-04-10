@@ -82,7 +82,7 @@
     "forgot": "Passwort vergessen?",
     "invalidCode": "Der eingegebene Code ist ungültig",
     "register": "Registrieren",
-    "signin": "Login",
+    "signIn": "Login",
     "success": "Erfolgreich eingeloggt",
     "username": "Email oder Login"
   },

@@ -82,7 +82,7 @@
     "forgot": "Mot de passe oublié ?",
     "invalidCode": "Le code entré est invalide",
     "register": "Créer un compte Muonium.",
-    "signin": "Se connecter",
+    "signIn": "Se connecter",
     "success": "Connexion réussie",
     "username": "Email ou nom d'utilisateur"
   },

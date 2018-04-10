@@ -82,7 +82,7 @@
     "forgot": "¿Olvidó su contraseña?",
     "invalidCode": "El código introducido es inválido",
     "register": "Registrarse",
-    "signin": "Sign In",
+    "signIn": "Sign In",
     "success": "Successfully logged in",
     "username": "Correo electrónico o inicio de sesión"
   },

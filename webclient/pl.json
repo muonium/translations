@@ -82,7 +82,7 @@
     "forgot": "Nie pamiętasz hasła ?",
     "invalidCode": "Podany kod jest nieprawidłowy",
     "register": "Utwórz konto w Muonium",
-    "signin": "Zaloguj się",
+    "signIn": "Zaloguj się",
     "success": "Pomyślnie zalogowany",
     "username": "Email lub nazwa użytkownika"
   },
