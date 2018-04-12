@@ -1,0 +1,285 @@
+{
+  "Bug": {
+    "browser": "Web browser",
+    "browserVersion": "Browser version",
+    "form": "Error in the form",
+    "message": "Message",
+    "messageLength": "The message must be at least 50 characters",
+    "os": "Operating system",
+    "send": "Send report",
+    "sent": "Your message has been sent successfully. We will respond as soon as possible by email",
+    "wait": "Please wait a minute before sending a new bug report."
+  },
+
+  "Dates": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:mm"
+  },
+
+  "Error": {
+    "bannedSession": "You've reached the maximum allowed number of requests",
+    "default": "An error occurred",
+    "dl": "The file downloading feature is not available in your browser.",
+    "e404": "Error: Page not found",
+    "form": "Error in the form",
+    "pp": "Editing the secret password is not currently available"
+  },
+
+  "Global": {
+    "back": "Back to Muonium",
+    "bug": "Bug report",
+    "favorites": "Favorites",
+    "home": "Home",
+    "loading": "Loading...",
+    "login": "Login",
+    "logout": "Logout",
+    "mailSent": "An email was sent to you, please check your mailbox and your spams. If you received nothing after 5 minutes, please try again:",
+    "profile": "Profile",
+    "recents": "Mui :: Recents",
+    "refresh": "Refresh",
+    "register": "Register",
+    "shared": "Shared",
+    "sharing": "Mui :: Sharing",
+    "submit": "Submit",
+    "transfers": "Transfers",
+    "upgrade": "Upgrade",
+    "validate": "Validate email"
+  },
+
+  "Help": {
+    "shortcuts": [
+      "<strong>Desktop version</strong><ul>",
+      "<li>Left click on a file/folder: Select a file/folder - View details</li>",
+      "<li>Left click somewhere else: Remove selection</li>",
+      "<li>Ctrl + Left click: Select multiple files</li>",
+      "<li>Right click: Show actions</li>",
+      "<li>Arrow up: Select previous file</li>",
+      "<li>Arrow down: Select next file</li>",
+      "<li>Ctrl + Arrow up: Add previous file to selection</li>",
+      "<li>Ctrl + Arrow down: Add next file to selection</li>",
+      "<li>Ctrl + A: Select all</li>",
+      "<li>Ctrl + C: Copy</li>",
+      "<li>Ctrl + D: Logout</li>",
+      "<li>Ctrl + I: Invert selection</li>",
+      "<li>Ctrl + R: Move to trash</li>",
+      "<li>Ctrl + S: Save selection</li>",
+      "<li>Ctrl + V: Paste</li>",
+      "<li>Ctrl + X: Cut</li>",
+      "<li>Backspace: Go to parent folder</li>",
+      "<li>Delete: Delete selection</li>",
+      "<li>Esc: Hide actions box</li>",
+      "<li>Enter (on a file): Download</li>",
+      "<li>Enter (on a folder): Open folder</li>",
+      "<li>F1: Help</li></ul>"
+    ]
+  },
+
+  "Login": {
+    "badPass": "Bad password!",
+    "badPassphrase": "Error: bad secret password",
+    "codeMail": "Code received by email",
+    "doubleAuthMessage": "Hi, your authentication code is [key]<br>Best regards,<br>Muonium Team<br><br>This email was automatically generated, please do not answer.",
+    "forgot": "Forgot password?",
+    "invalidCode": "The code entered is invalid",
+    "register": "Create a Muonium Account.",
+    "signIn": "Sign In",
+    "success": "Successfully logged in",
+    "username": "Email or login"
+  },
+
+  "LostPass": {
+    "keyErr": "Error: The key is wrong or expired, please make a new request.",
+    "message": "Hi,<br>To update your password or secret password, please follow this link: <a href='[url_app]/#/lostPass/[id_user]/[key]'>[url_app]/#/lostPass/[id_user]/[key]</a><br>Best regards,<br>Muonium Team.<br><br>This email was automatically generated, please do not answer.",
+    "notFound": "Error: User not found!",
+    "reset": "Warning! If you change your secret password, your account will be reset and all your data will be lost!",
+    "subject": "Muonium - Forgot your password",
+    "user": "Your email or your username",
+    "updateErr": "Unable to update your account information.",
+    "updateOk": "Your account information have been successfully updated.",
+    "wait": "Please wait a minute before requesting again a lost pass mail."
+  },
+
+  "Profile": {
+    "accountDeletionConfirm": "Do you really want to delete your account?",
+    "badOldPass": "Your old password does not match",
+    "badOldPassphrase": "Your old secret password does not match",
+    "changeLogin": "Change Username",
+    "changeMail": "Change Email",
+    "changePp": "Change my secret password",
+    "changePwd": "Change my password",
+    "deleteAccount": "Delete account",
+    "doubleAuth": "2-Step Verification",
+    "getMore": "Get more storage",
+    "iwant": "I really want to",
+    "loginExists": "This username is already taken",
+    "mailExists": "This email address is already taken.",
+    "mailFormat": "Mail format is incorrect.",
+    "mailUsername": "Email & Username",
+    "newLogin": "New username",
+    "newPp": "New secret password",
+    "newPwd": "New password",
+    "oldPp": "Old secret password",
+    "oldPwd": "Old password",
+    "otherOptions": "Other options",
+    "pwdPp": "Password & Secret Password",
+    "sessions": "Sessions",
+    "terminate": "Terminate",
+    "terminateAll": "Terminate all other sessions",
+    "theme": "Theme",
+    "updateErr": "Unable to update your profile",
+    "updateOk": "Your profile has been successfully updated",
+    "upgrade": "Ready to upgrade Muonium?"
+  },
+
+  "Register": {
+    "alreadyRegistered": "Already registered?",
+    "badPassConfirm": "Both passwords are different.",
+    "badPassphraseConfirm": "Both secret passwords are different.",
+    "confirm": "Confirm",
+    "create": "Create one now.",
+    "dontHaveAccount": "Don't have a Muonium account?",
+    "doubleAuth": "Enable",
+    "email": "Email address",
+    "error": "An error occurred when creating the account.",
+    "form": "All fields must be filled.",
+    "impossible": "Registration temporarily unavailable",
+    "login": "Username",
+    "loginExists": "Your username is already saved in our database. Unable to create using this account.",
+    "loginFormat": "Username format is incorrect (between 2 and 20 alphanumeric characters, -_. allowed).",
+    "mailExists": "Your email address is already saved in our database. Unable to create using this account.",
+    "mailFormat": "Mail format is incorrect.",
+    "ok": "Registration done!",
+    "passEqualPassphrase": "The password and the secrete password must be different.",
+    "passLength": "The password or the secret password must be at least 6 chars.",
+    "passphrase": "Secret password",
+    "passphraseHelp": "Password used for encrypting and decrypting files",
+    "password": "Password"
+  },
+
+  "Rm": {
+    "questiond": "Do you want to remove this folder?",
+    "questionf": "Do you want to remove this file?",
+    "questionrm": "Do you want to remove these files/folders?"
+  },
+
+  "Selection": {
+    "actions": "Actions",
+    "copy": "Copy",
+    "copyLink": "Copy link",
+    "cut": "Cut",
+    "dl": "Download",
+    "file": "File",
+    "folder": "Folder",
+    "logOut": "Log out",
+    "mvItem": "Rename",
+    "mvLocate": "Move to...",
+    "nFolder": "New folder",
+    "open": "Open",
+    "paste": "Paste",
+    "quotaOf": "[used] of [total]",
+    "restore": "Restore",
+    "rm": "Delete",
+    "share": "Share",
+    "star": "Star",
+    "trash": "Move to trash",
+    "unshare": "Stop sharing",
+    "upFiles": "Upload new files",
+    "vDetails": "View details"
+  },
+
+  "Sidebar": {
+    "bug": "Bug",
+    "help": "Help",
+    "settings": "Settings"
+  },
+
+  "Story": {
+    "donate": "Give a donation",
+    "help": "How does my support help?",
+    "join": "Join our journey of keeping Muonium free, secure, and open source for everyone.",
+    "keep": "Keep Muonium <u>Free</u> and <u>Open</u>.",
+    "premium": "Go Premium",
+    "read": "Read Our Story"
+  },
+
+  "Transfers": {
+    "replaceFile": "The file [filename] exists, do you want to replace it?",
+    "replaceCompleteFile": "The file [filename] exists but it's not completed, what do you want to do?",
+    "quotaExceeded": "Quota exceeded!",
+    "fileAPI": "The File APIs are not fully supported by your browser. Fallback required.",
+    "yes": "Yes",
+    "no": "No",
+    "yesAll": "Yes for all",
+    "noAll": "No for all",
+    "complete": "Complete",
+    "replace": "Replace",
+    "nothing": "Nothing...",
+    "uploading": "Uploading",
+    "downloading": "Downloading"
+  },
+
+  "Tree": {
+    "copied": "Link has been copied to clipboard",
+    "details": "Details",
+    "dlNothing": "You haven't downloaded anything yet.",
+    "element": "element",
+    "elements": "elements",
+    "fileSelected": "file(s) selected",
+    "first": "Upload your first file.",
+    "foldername": "Folder name",
+    "folderSelected": "folder(s) selected",
+    "generateLink": "Generate Link",
+    "lastmod": "Last modification",
+    "multiSelection": "Multi-selection",
+    "name": "Name",
+    "needHelp": "Need help getting started with Muonium?",
+    "notCompleted": "Not completed",
+    "options": "Options",
+    "path": "Location",
+    "selectAll": "Select all",
+    "shared": "File sharing enabled",
+    "size": "Size",
+    "trashNothing": "You haven't deleted any files recently.",
+    "type": "File type",
+    "uploaded": "Uploaded",
+    "uploadedBy": "Uploaded by [login] on",
+    "upNothing": "You haven't uploaded anything yet."
+  },
+
+  "Units": {
+    "o": "",
+    "k": "KB",
+    "m": "MB",
+    "g": "GB",
+    "t": "TB"
+  },
+
+  "Upgrade": {
+    "duration": "Duration",
+    "endDate": "End date",
+    "expired": "Expired",
+    "history": "Payment History",
+    "lifetime": "lifetime",
+    "month": "month",
+    "months": "months",
+    "mostPopular": "Most Popular",
+    "mue": "Get 30% off when you pay with <u>Monetary Unit (MUE)</u>.",
+    "offers": "Offers",
+    "price": "Price",
+    "startDate": "Start date",
+    "successMsg": "Your purchase has been made. It may take several minutes to refresh your disk space.",
+    "upgradeMui": "Upgrade Muonium",
+    "year": "year",
+    "years": "years"
+  },
+
+  "Validate": {
+    "done": "Your account is validated. You can now log in and start using Muonium!",
+    "keyErr": "Error: The validation key is wrong, please log in to send a new validation mail",
+    "message": "Welcome to Muonium!<br>To validate your account, follow this link: <a href='[url_app]/#/validate/[id_user]/[key]'>[url_app]/#/validate/[id_user]/[key]</a><br>Best regards,<br>Muonium Team<br><br>This email was automatically generated, please do not answer.",
+    "sendmail": "Send a new mail",
+    "sendmess": "Please follow the link in the email to activate your account",
+    "subject": "Muonium - Account validation",
+    "wait": "Please wait a minute before requesting again a validation mail."
+  }
+}
