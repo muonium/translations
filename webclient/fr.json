@@ -84,7 +84,8 @@
     "register": "Créer un compte Muonium.",
     "signIn": "Se connecter",
     "success": "Connexion réussie",
-    "username": "Email ou nom d'utilisateur"
+    "username": "Email ou nom d'utilisateur",
+    "wait": "Veuillez patienter une minute avant d'envoyer un nouveau mail d'authentification."
   },
 
   "LostPass": {

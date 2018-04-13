@@ -84,7 +84,8 @@
     "register": "注册",
     "signIn": "登录",
     "success": "成功登录",
-    "username": "邮箱或登录"
+    "username": "邮箱或登录",
+    "wait": "Please wait a minute before requesting again a 2-factor authentication mail."
   },
 
   "LostPass": {

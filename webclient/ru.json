@@ -84,7 +84,8 @@
     "register": "Зарегистрироваться",
     "signIn": "Вход",
     "success": "Successfully logged in",
-    "username": "адрес электронной почты или логин"
+    "username": "адрес электронной почты или логин",
+    "wait": "Please wait a minute before requesting again a 2-factor authentication mail."
   },
 
   "LostPass": {

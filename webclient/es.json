@@ -84,7 +84,8 @@
     "register": "Registrarse",
     "signIn": "Sign In",
     "success": "Successfully logged in",
-    "username": "Correo electrónico o inicio de sesión"
+    "username": "Correo electrónico o inicio de sesión",
+    "wait": "Please wait a minute before requesting again a 2-factor authentication mail."
   },
 
   "LostPass": {
