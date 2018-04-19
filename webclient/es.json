@@ -110,6 +110,7 @@
     "changePp": "Cambiar mi contraseña secreta",
     "changePwd": "Cambiar mi contraseña",
     "deleteAccount": "Borrar cuenta",
+    "deleteWarning": "Warning: Any premium subscription will no longer last if you discard your account.",
     "doubleAuth": "Doble autentificación",
     "getMore": "Get more storage",
     "iwant": "I really want to",

@@ -110,6 +110,7 @@
     "changePp": "Zmiana tajnego hasła",
     "changePwd": "Zamiana hasła",
     "deleteAccount": "Usunięcie konta",
+    "deleteWarning": "Warning: Any premium subscription will no longer last if you discard your account.",
     "doubleAuth": "Podwójna autoryzacja",
     "getMore": "Uzyskaj więcej miejsca",
     "iwant": "Tak, naprawdę chcę",

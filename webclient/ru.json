@@ -110,6 +110,7 @@
     "changePp": "Изменить секретный пароль",
     "changePwd": "Изменить пароль",
     "deleteAccount": "Удалить аккаунт",
+    "deleteWarning": "Warning: Any premium subscription will no longer last if you discard your account.",
     "doubleAuth": "Двойная аутентификация",
     "getMore": "Get more storage",
     "loginExists": "Этот логин уже используется",

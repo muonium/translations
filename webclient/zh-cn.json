@@ -110,6 +110,7 @@
     "changePp": "更改私密密码",
     "changePwd": "更改密码",
     "deleteAccount": "删除账户",
+    "deleteWarning": "Warning: Any premium subscription will no longer last if you discard your account.",
     "doubleAuth": "两步验证",
     "getMore": "获取更多的储存空间",
     "iwant": "我真的想要",
