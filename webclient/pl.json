@@ -86,7 +86,8 @@
     "signIn": "Zaloguj się",
     "success": "Pomyślnie zalogowany",
     "username": "Email lub nazwa użytkownika",
-    "wait": "Please wait a minute before requesting again a 2-factor authentication mail."
+    "wait": "Please wait a minute before requesting again a 2-factor authentication mail.",
+    "server": "Connect to another server"
   },
 
   "LostPass": {

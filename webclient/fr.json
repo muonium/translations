@@ -86,7 +86,8 @@
     "signIn": "Se connecter",
     "success": "Connexion réussie",
     "username": "Email ou nom d'utilisateur",
-    "wait": "Veuillez patienter une minute avant d'envoyer un nouveau mail d'authentification."
+    "wait": "Veuillez patienter une minute avant d'envoyer un nouveau mail d'authentification.",
+    "server": "Connexion à un autre serveur"
   },
 
   "LostPass": {
