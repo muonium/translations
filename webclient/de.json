@@ -81,6 +81,7 @@
     "codeMail": "Per Email empfangener Code",
     "doubleAuthMessage": "Hi, Dein Authentifizierungscode ist [key]<br>Mit freundlichen Grüßen,<br>das Muonium Team<br><br>Diese Email wurde automatisch generiert, bitte antworte nicht darauf.",
     "forgot": "Passwort vergessen?",
+    "insecureHttp": "You cannot use a server API from HTTP when the client has been loaded with HTTPS",
     "invalidCode": "Der eingegebene Code ist ungültig",
     "register": "Registrieren",
     "signIn": "Login",

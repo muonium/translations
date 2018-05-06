@@ -81,6 +81,7 @@
     "codeMail": "邮件接受了验证码",
     "doubleAuthMessage": "你好，你的验证码是 [key]<br>敬上，<br>Muonium 团队<br><br>这个邮件是自动生成的，请不要回复。",
     "forgot": "密码忘了？",
+    "insecureHttp": "You cannot use a server API from HTTP when the client has been loaded with HTTPS",
     "invalidCode": "无效的验证码",
     "register": "注册",
     "signIn": "登录",
