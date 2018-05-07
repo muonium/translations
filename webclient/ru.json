@@ -286,5 +286,10 @@
     "sendmess": "Перейдите по ссылке, указанной по электронной почте, чтобы активировать свою учетную запись.",
     "subject": "Muonium - проверка учетной записи",
     "wait": "Подождите минуту, прежде чем отправить письмо с подтверждением."
+  },
+    
+  "EndSubscriptionMail": {
+    "subject": "Muonium - Your subscription ends in less than [days] days",
+    "message": "Hi [login],<br>This email is sent because your subscription ends in less than [days] days.<br>Muonium Team"
   }
 }

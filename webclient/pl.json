@@ -286,5 +286,10 @@
     "sendmess": "Kliknij link w emailu, aby aktywować swoje konto",
     "subject": "Muonium - Sprawdzanie konta",
     "wait": "Poczekaj chwilę przed kolejną próbą o wiadomość weryfikacyjną."
+  },
+    
+  "EndSubscriptionMail": {
+    "subject": "Muonium - Your subscription ends in less than [days] days",
+    "message": "Hi [login],<br>This email is sent because your subscription ends in less than [days] days.<br>Muonium Team"
   }
 }

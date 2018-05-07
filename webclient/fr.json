@@ -286,5 +286,10 @@
     "sendmess": "Suivez le lien donné dans l'email pour activer votre compte",
     "subject": "Muonium - Validez votre compte",
     "wait": "Veuillez patienter une minute avant d'envoyer un nouveau mail de validation."
+  },
+    
+  "EndSubscriptionMail": {
+    "subject": "Muonium - Ton abonnement se fini dans [days] jours",
+    "message": "Bonjour [login],<br>Cet email vous est envoyé car votre abonnement se fini dans moins de [days] jours.<br>Muonium Team"
   }
 }

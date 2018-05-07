@@ -286,5 +286,10 @@
     "sendmess": "Segui il link nella mail per attivare il tuo account",
     "subject": "Muonium - Validazione account",
     "wait": "Ti preghiamo di attendere un minuto prima di inviare una nuova mail di convalida."
+  },
+    
+  "EndSubscriptionMail": {
+    "subject": "Muonium - Your subscription ends in less than [days] days",
+    "message": "Hi [login],<br>This email is sent because your subscription ends in less than [days] days.<br>Muonium Team"
   }
 }
