@@ -16,6 +16,11 @@
     "time": "HH:mm"
   },
 
+  "EndSubscriptionMail": {
+    "subject": "Muonium - Your subscription ends in less than [days] days",
+    "message": "Hi [login],<br>This email is sent because your subscription ends in less than [days] days.<br>Muonium Team"
+  },
+
   "Error": {
     "bannedSession": "You've reached the maximum allowed number of requests",
     "default": "An error occurred",
