@@ -16,6 +16,11 @@
     "time": "HH:mm"
   },
 
+  "EndSubscriptionMail": {
+    "subject": "Muonium - Your subscription ends in less than [days] days",
+    "message": "Hi [login],<br>This email is sent because your subscription ends in less than [days] days.<br>Muonium Team"
+  },
+
   "Error": {
     "bannedSession": "Ha alcanzado el número máximo de peticiones disponibles",
     "default": "Ha ocurrido un error",
@@ -286,10 +291,5 @@
     "sendmess": "Por favor siga el enlace en el correo electrónico para activar su cuenta",
     "subject": "Muonium - Validación de cuenta",
     "wait": "Por favor espere un minuto antes de realizar una nueva petición de un correo de validación."
-  },
-    
-  "EndSubscriptionMail": {
-    "subject": "Muonium - Your subscription ends in less than [days] days",
-    "message": "Hi [login],<br>This email is sent because your subscription ends in less than [days] days.<br>Muonium Team"
   }
 }

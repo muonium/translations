@@ -16,6 +16,11 @@
     "time": "HH:mm"
   },
 
+  "EndSubscriptionMail": {
+    "subject": "Muonium - Your subscription ends in less than [days] days",
+    "message": "Hi [login],<br>This email is sent because your subscription ends in less than [days] days.<br>Muonium Team"
+  },
+
   "Error": {
     "bannedSession": "已达到最大请求的数量",
     "default": "发生了一个错误",
@@ -286,10 +291,5 @@
     "sendmess": "请点击邮件中的链接来激活你的账户",
     "subject": "Muonium - 账户验证",
     "wait": "请在请求新的验证邮件之前等待一分钟"
-  },
-    
-  "EndSubscriptionMail": {
-    "subject": "Muonium - Your subscription ends in less than [days] days",
-    "message": "Hi [login],<br>This email is sent because your subscription ends in less than [days] days.<br>Muonium Team"
   }
 }
