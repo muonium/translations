@@ -83,12 +83,14 @@
   "Login": {
     "badPass": "Bad password!",
     "badPassphrase": "Ошибка: неправильный секретный пароль",
-    "codeMail": "Код, полученный по электронной почте",
+    "code": "Код полученный",
     "doubleAuthMessage": "Здравствуйте, ваш код аутентификации [key]<br>С наилучшими пожеланиями,<br>Команда Muonium<br><br>Это сообщение было сгенерировано автоматически, пожалуйста, не отвечайте.",
     "forgot": "Забыли пароль?",
     "insecureHttp": "You cannot use a server API from HTTP when the client has been loaded with HTTPS",
     "invalidCode": "Введенный код недействителен",
+    "manually": "Or input code manually:",
     "register": "Зарегистрироваться",
+    "scan": "Install <strong>Google Authentificator</strong> on your phone and scan this QR Code to get the auth code:",
     "signIn": "Вход",
     "success": "Successfully logged in",
     "username": "адрес электронной почты или логин",
@@ -109,6 +111,9 @@
   },
 
   "Profile": {
+    "2fa_0": "Disabled",
+    "2fa_1": "By e-mail",
+    "2fa_2": "Google Authentificator",
     "accountDeletionConfirm": "Вы действительно хотите удалить свою учетную запись?",
     "badOldPass": "Вы неверно ввели свой старый пароль",
     "badOldPassphrase": "Вы неверно ввели свой старый секретный пароль",

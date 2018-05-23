@@ -83,12 +83,14 @@
   "Login": {
     "badPass": "Mauvais mot de passe !",
     "badPassphrase": "Erreur : phrase secrète incorrecte",
-    "codeMail": "Code reçu par email",
+    "code": "Code reçu",
     "doubleAuthMessage": "Bonjour, votre code d'authentification est [key]<br>Cordialement,<br>L'équipe Muonium<br><br>Ce mail a été généré automatiquement, merci de ne pas y répondre.",
     "forgot": "Mot de passe oublié ?",
     "insecureHttp": "Vous ne pouvez pas utiliser l'API Server depuis HTTP lorsque le client a été chargé avec HTTPS",
     "invalidCode": "Le code entré est invalide",
+    "manually": "Or input code manually:",
     "register": "Créer un compte Muonium.",
+    "scan": "Install <strong>Google Authentificator</strong> on your phone and scan this QR Code to get the auth code:",
     "signIn": "Se connecter",
     "success": "Connexion réussie",
     "username": "Email ou nom d'utilisateur",
@@ -109,6 +111,9 @@
   },
 
   "Profile": {
+    "2fa_0": "Disabled",
+    "2fa_1": "By e-mail",
+    "2fa_2": "Google Authentificator",
     "accountDeletionConfirm": "Voulez-vous vraiment supprimer votre compte ?",
     "badOldPass": "Votre ancien mot de passe ne correspond pas",
     "badOldPassphrase": "Votre ancienne phrase secrète ne correspond pas",

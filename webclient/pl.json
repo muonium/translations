@@ -83,12 +83,14 @@
   "Login": {
     "badPass": "Nieprawidłowe hasło !",
     "badPassphrase": "Błąd: tajne hasło jest niepoprawne",
-    "codeMail": "Kod otrzymany przez email",
+    "code": "Kod otrzymany",
     "doubleAuthMessage": "Witaj, Twój kod weryfikacyjny to [key]<br>Z poważaniem,<br>Muonium Team<br><br>Ta wiadomość została wygenerowana automatycznie, prosimy na nią nie odpowiadać.",
     "forgot": "Nie pamiętasz hasła ?",
     "insecureHttp": "You cannot use a server API from HTTP when the client has been loaded with HTTPS",
     "invalidCode": "Podany kod jest nieprawidłowy",
+    "manually": "Or input code manually:",
     "register": "Utwórz konto w Muonium",
+    "scan": "Install <strong>Google Authentificator</strong> on your phone and scan this QR Code to get the auth code:",
     "signIn": "Zaloguj się",
     "success": "Pomyślnie zalogowany",
     "username": "Email lub nazwa użytkownika",
@@ -109,6 +111,9 @@
   },
 
   "Profile": {
+    "2fa_0": "Disabled",
+    "2fa_1": "By e-mail",
+    "2fa_2": "Google Authentificator",
     "accountDeletionConfirm": "Czy na pewno chcesz usunąć swoje konto?",
     "badOldPass": "Twoje stare hasło jest nieprawidłowe",
     "badOldPassphrase": "Twoje stare tajne hasło jest nieprawidłowe",
