@@ -1,0 +1,296 @@
+{
+  "Bug": {
+    "browser": "웹 브라우저",
+    "browserVersion": "브라우저 버전",
+    "form": "양식 오류",
+    "message": "메시지",
+    "messageLength": "메시지는 50자 이상이어야 합니다",
+    "os": "운영체제",
+    "send": "보고서 전송",
+    "sent": "귀하의 메시지가 성공적으로 전송되었습니다. 가능한 한 빨리 이메일로 답변 드리겠습니다",
+    "wait": "새로운 버그 리포트를 보내기 전까지 잠시 기다려 주십시오."
+  },
+
+  "Dates": {
+    "date": "YYYY-MM-DD",
+    "time": "HH:mm"
+  },
+
+  "EndSubscriptionMail": {
+    "subject": "Muonium - 귀하의 구독이 [days] 이내에 종료됩니다",
+    "message": "안녕하세요 [login],<br>이 이메일은 귀하의 구독이 [days] 이내에 종료되기 때문에 발송되었습니다.<br>Muonium Team"
+  },
+
+  "Error": {
+    "bannedSession": "허용되는 최대 요청 수에 도달했습니다",
+    "default": "오류가 발생했습니다",
+    "dl": "귀하의 브라우저에서 파일 다운로드 기능을 사용할 수 없습니다.",
+    "e404": "오류: 페이지를 찾을 수 없습니다",
+    "form": "양식 오류",
+    "pp": "현재 암호 편집을 사용할 수 없습니다"
+  },
+
+  "Global": {
+    "back": "Muonium으로 돌아가기",
+    "bug": "버그 리포트",
+    "cancel": "취소",
+    "favorites": "즐겨찾기",
+    "home": "홈",
+    "loading": "로딩중...",
+    "login": "로그인",
+    "logout": "로그아웃",
+    "mailSent": "이메일이 발송되었습니다. 우편함과 스팸 메일을 확인하세요. 5분 후에도 수신된 것이 없다면 다시 시도하시기 바랍니다:",
+    "profile": "프로필",
+    "recents": "Mui :: 최근",
+    "refresh": "새로 고침",
+    "register": "등록",
+    "shared": "공유된",
+    "sharing": "Mui :: 공유",
+    "submit": "제출",
+    "transfers": "전송",
+    "upgrade": "업그레이드",
+    "validate": "이메일 인증"
+  },
+
+  "Help": {
+    "shortcuts": [
+      "<strong>데스크탑 버전</strong><ul>",
+      "<li>파일/폴더 좌클릭: 파일/폴더 선택 - 세부 정보 보기</li>",
+      "<li>다른 위치에서 좌클릭: 선택 해제</li>",
+      "<li>Ctrl + 좌클릭: 여러 파일 선택</li>",
+      "<li>우클릭: 작업 표시</li>",
+      "<li>위 방향키: 이전 파일 선택</li>",
+      "<li>아래 방향키: 다음 파일 선택</li>",
+      "<li>Ctrl + 위 방향키: 선택 항목에 이전 파일 추가</li>",
+      "<li>Ctrl + 아래 방향키: 선택 항목에 다음 파일 추가</li>",
+      "<li>Ctrl + A: 전체 선택</li>",
+      "<li>Ctrl + C: 복사</li>",
+      "<li>Ctrl + D: 로그아웃</li>",
+      "<li>Ctrl + I: 선택 반전</li>",
+      "<li>Ctrl + R: 휴지통으로 이동</li>",
+      "<li>Ctrl + S: 선택 항목 저장</li>",
+      "<li>Ctrl + V: 붙여넣기</li>",
+      "<li>Ctrl + X: 잘라내기</li>",
+      "<li>Backspace: 상위 폴더로 이동</li>",
+      "<li>Delete: 선택 항목 삭제</li>",
+      "<li>Esc: 작업 상자 숨기기</li>",
+      "<li>Enter (파일 위에서): 다운로드</li>",
+      "<li>Enter (폴더 위에서): 폴더 열기</li>",
+      "<li>F1: 도움말</li></ul>"
+    ]
+  },
+
+  "Login": {
+    "badPass": "잘못된 password 입니다!",
+    "badPassphrase": "에러: 잘못된 secret password 입니다",
+    "codeMail": "이메일로 수신된 코드",
+    "doubleAuthMessage": "안녕하세요, 당신의 인증 코드는 [key]입니다<br>감사합니다,<br>Muonium Team<br><br>이 이메일은 자동으로 생성되었으므로, 회신하지 마시기 바랍니다.",
+    "forgot": "비밀번호를 잊어버리셨나요?",
+    "insecureHttp": "클라이언트가 HTTPS로 로드된 경우 HTTP에서 서버 API를 사용하실 수 없습니다",
+    "invalidCode": "입력하신 코드가 잘못되었습니다",
+    "register": "Muonium 계정 생성하기.",
+    "signIn": "로그인",
+    "success": "로그인 성공",
+    "username": "이메일 또는 로그인",
+    "wait": "2단계 인증 메일을 다시 요청하시기 전에 잠시 기다려주시기 바랍니다.",
+    "server": "다른 서버에 연결"
+  },
+
+  "LostPass": {
+    "keyErr": "에러: 키가 잘못되었거나 만료되었습니다. 새로 요청하시기 바랍니다.",
+    "message": "안녕하세요,<br>귀하의 password 또는 secret password를 업데이트 하려면, 이 링크를 따라가십시오: <a href='[url_app]/#/lostPass/[id_user]/[key]'>[url_app]/#/lostPass/[id_user]/[key]</a><br>감사합니다,<br>Muonium Team.<br><br>이 이메일은 자동으로 생성되었으므로, 회신하지 마시기 바랍니다.",
+    "notFound": "에러: 사용자를 찾을 수 없습니다!",
+    "reset": "경고! secret password를 변경하면 계정이 재설정되고 모든 데이터가 손실됩니다!",
+    "subject": "Muonium - password 분실",
+    "user": "이메일 또는 사용자명",
+    "updateErr": "계정 정보를 업데이트할 수 없습니다.",
+    "updateOk": "계정 정보가 성공적으로 업데이트 되었습니다.",
+    "wait": "비밀번호 분실 메일을 다시 요청하시기 전에 잠시 기다려주시기 바랍니다."
+  },
+
+  "Profile": {
+    "accountDeletionConfirm": "정말 계정을 삭제하시겠습니까?",
+    "badOldPass": "이전 password 가 일치하지 않습니다",
+    "badOldPassphrase": "이전 secret password 가 일치하지 않습니다",
+    "changeLogin": "사용자명 변경",
+    "changeMail": "이메일 변경",
+    "changePp": "secret password 변경",
+    "changePwd": "password 변경",
+    "deleteAccount": "계정 삭제",
+    "deleteWarning": "경고: 계정을 삭제하시면 어떠한 프리미엄 서비스도 더 이상 지속되지 않습니다.",
+    "doubleAuth": "2단계 검증",
+    "getMore": "추가 저장소 확보",
+    "iwant": "정말로 하기 원합니다",
+    "lang": "언어",
+    "loginExists": "이 사용자명은 이미 사용 중입니다",
+    "mailExists": "이 이메일 주소는 이미 사용 중입니다.",
+    "mailFormat": "메일 형식이 잘못되었습니다.",
+    "mailUsername": "이메일 & 사용자명",
+    "newLogin": "새로운 사용자명",
+    "newPp": "새 secret password",
+    "newPwd": "새 password",
+    "oldPp": "이전 secret password",
+    "oldPwd": "이전 password",
+    "otherOptions": "기타 옵션",
+    "pwdPp": "Password & Secret Password",
+    "sessions": "세션",
+    "terminate": "종료",
+    "terminateAll": "다른 모든 세션 종료",
+    "theme": "테마",
+    "updateErr": "프로필을 업데이트할 수 없습니다",
+    "updateOk": "프로필이 성공적으로 업데이트되었습니다",
+    "upgrade": "Muonium을 업그레이드할 준비가 되셨습니까?"
+  },
+
+  "Register": {
+    "alreadyRegistered": "이미 가입하셨습니까?",
+    "badPassConfirm": "두 passwords 가 서로 다릅니다.",
+    "badPassphraseConfirm": "두 secret passwords 가 서로 다릅니다.",
+    "confirm": "확인",
+    "create": "지금 만들기.",
+    "dontHaveAccount": "Muonium 계정이 없으신가요?",
+    "doubleAuth": "사용",
+    "email": "이메일 주소",
+    "error": "계정을 생성하는 동안 오류가 발생했습니다.",
+    "form": "모든 항목을 입력하셔야 합니다.",
+    "impossible": "일시적으로 등록할 수 없음",
+    "login": "사용자명",
+    "loginExists": "입력하신 사용자명이 이미 데이터베이스에 있습니다. 이 계정을 사용하여 만들 수 없습니다.",
+    "loginFormat": "사용자명 형식이 잘못되었습니다 (2~20사이의 영숫자, -_. 사용가능).",
+    "mailExists": "입력하신 이메일 주소가 이미 데이터베이스에 있습니다. 이 계정을 사용하여 만들 수 없습니다.",
+    "mailFormat": "메일 형식이 잘못되었습니다.",
+    "ok": "가입 완료!",
+    "passEqualPassphrase": "password 와 secrete password 는 서로 달라야 합니다.",
+    "passLength": "password 또는 the secret password 는 최소 6자 이상이어야 합니다.",
+    "passphrase": "Secret password",
+    "passphraseHelp": "Password 는 파일 암호화와 복호화에 사용됩니다",
+    "password": "Password"
+  },
+
+  "Rm": {
+    "questiond": "이 폴더를 제거하시겠습니까?",
+    "questionf": "이 파일을 제거하시겠습니까?",
+    "questionrm": "이 파일/폴더를 제거하시겠습니까?"
+  },
+
+  "Selection": {
+    "actions": "Actions",
+    "copy": "복사",
+    "copyLink": "링크 복사",
+    "cut": "자르기",
+    "dl": "다운로드",
+    "file": "파일",
+    "folder": "폴더",
+    "logOut": "로그아웃",
+    "mvItem": "이름 바꾸기",
+    "mvLocate": "이동...",
+    "nFolder": "새폴더",
+    "open": "열기",
+    "paste": "붙여넣기",
+    "quotaOf": "[total] 중 [used]",
+    "restore": "복원",
+    "rm": "삭제",
+    "share": "공유",
+    "star": "별",
+    "trash": "휴지통으로 이동",
+    "unshare": "공유 중지",
+    "upFiles": "새로운 파일 업로드",
+    "vDetails": "세부 정보 보기"
+  },
+
+  "Sidebar": {
+    "bug": "버그",
+    "help": "도움말",
+    "settings": "설정"
+  },
+
+  "Story": {
+    "donate": "기부하기",
+    "help": "어떤식으로 도움이 되나요?",
+    "join": "모두를 위해 Muonium을 무료이면서 안전하고 오픈소스로 제공하는 여정에 동참하세요.",
+    "keep": "Keep Muonium <u>Free</u> and <u>Open</u>.",
+    "premium": "프리미엄 등록",
+    "read": "우리의 이야기"
+  },
+
+  "Transfers": {
+    "replaceFile": "The file [filename] exists, do you want to replace it?",
+    "replaceCompleteFile": "The file [filename] exists but it's not completed, what do you want to do?",
+    "quotaExceeded": "Quota exceeded!",
+    "fileAPI": "The File APIs are not fully supported by your browser. Fallback required.",
+    "yes": "Yes",
+    "no": "No",
+    "yesAll": "Yes for all",
+    "noAll": "No for all",
+    "complete": "Complete",
+    "replace": "Replace",
+    "nothing": "Nothing...",
+    "uploading": "Uploading",
+    "downloading": "Downloading"
+  },
+
+  "Tree": {
+    "copied": "Link has been copied to clipboard",
+    "details": "Details",
+    "dlNothing": "You haven't downloaded anything yet.",
+    "element": "element",
+    "elements": "elements",
+    "fileSelected": "file(s) selected",
+    "first": "Upload your first file.",
+    "foldername": "Folder name",
+    "folderSelected": "folder(s) selected",
+    "generateLink": "Generate Link",
+    "lastmod": "Last modification",
+    "multiSelection": "Multi-selection",
+    "name": "Name",
+    "needHelp": "Need help getting started with Muonium?",
+    "notCompleted": "Not completed",
+    "options": "Options",
+    "path": "Location",
+    "selectAll": "Select all",
+    "shared": "File sharing enabled",
+    "size": "Size",
+    "trashNothing": "You haven't deleted any files recently.",
+    "type": "File type",
+    "uploaded": "Uploaded",
+    "uploadedBy": "Uploaded by [login] on",
+    "upNothing": "You haven't uploaded anything yet."
+  },
+
+  "Units": {
+    "o": "",
+    "k": "KB",
+    "m": "MB",
+    "g": "GB",
+    "t": "TB"
+  },
+
+  "Upgrade": {
+    "duration": "Duration",
+    "endDate": "End date",
+    "expired": "Expired",
+    "history": "Payment History",
+    "lifetime": "lifetime",
+    "month": "month",
+    "months": "months",
+    "mostPopular": "Most Popular",
+    "mue": "Get 30% off when you pay with <u>Monetary Unit (MUE)</u>.",
+    "offers": "Offers",
+    "price": "Price",
+    "startDate": "Start date",
+    "successMsg": "Your purchase has been made. It may take several minutes to refresh your disk space.",
+    "upgradeMui": "Upgrade Muonium",
+    "year": "year",
+    "years": "years"
+  },
+
+  "Validate": {
+    "done": "Your account is validated. You can now log in and start using Muonium!",
+    "keyErr": "Error: The validation key is wrong, please log in to send a new validation mail",
+    "message": "Welcome to Muonium!<br>To validate your account, follow this link: <a href='[url_app]/#/validate/[id_user]/[key]'>[url_app]/#/validate/[id_user]/[key]</a><br>Best regards,<br>Muonium Team<br><br>This email was automatically generated, please do not answer.",
+    "sendmail": "Send a new mail",
+    "sendmess": "Please follow the link in the email to activate your account",
+    "subject": "Muonium - Account validation",
+    "wait": "Please wait a minute before requesting again a validation mail."
+  }
+}
