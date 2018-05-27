@@ -1,0 +1,93 @@
+{
+  "global": {
+    "home": "파일 암호화",
+    "about": "소개",
+    "adventure": "타임라인",
+    "security": "보안",
+    "blog": "블로그",
+    "donate": "기부",
+    "help": "도움말",
+    "login": "로그인",
+    "register": "회원가입",
+    "close": "닫기",
+    "vote": "제안"
+  },
+
+  "home": {
+    "secureStorageSolution": "안전한 저장 장치 해결책",
+    "features": "특징",
+    "securedConnections": "안전한 연결",
+    "securedConnectionsTxt": "Muonium에 대한 모든 연결은 TLS 1.2 기술로 보호됩니다",
+    "endToEndEncryption": "종단 간 암호화",
+    "endToEndEncryptionTxt": "모든 파일이 사용자의 브라우저에서 암호화되므로 사용자만 볼 수 있습니다",
+    "protection": "보호",
+    "protectionTxt": "사용자의 파일은 스파이 웨어로부터 보호되며 사용자의 암호를 통해서만 파일을 볼 수 있습니다",
+    "free": "무료",
+    "freeTxt": "인터넷 프라이버시는 기본적인 권리입니다. 기부금은 서버, 팀 및 회의에 자금을 제공합니다",
+    "openSource": "오픈소스",
+    "openSourceTxt": "Muonium은 완전히 오픈소스입니다. <a href=\"https://github.com/muonium\">GitHub</a>에서 우리의 코드를 볼 수 있습니다",
+    "anonymity": "익명성",
+    "anonymityTxt": "Muonium은 어떠한 개인 정보도 요구하거나 수집하지 않으며, 사용자는 익명으로 남습니다",
+    "modernity": "현대성",
+    "modernityTxt": "직관적이고 현대적인 인터페이스로 사용자의 파일에 쉽고 빠르게 액세스 할 수 있습니다",
+    "accessibility": "접근성",
+    "accessibilityTxt": "언제 어디서나 온라인으로 모든 파일에 쉽게 액세스"
+  },
+
+  "about": {
+    "ourPolicy": "우리의 정책",
+    "policy": "인터넷 프라이버시는 권리입니다. 왜 우리는 일상 생활(오프라인)에서 받아들일 수 없는 것을 받아들여야 하나요? 여러 해 동안, 정부 기관뿐만 아니라 구글, 페이스북 등과 같은 민간 기업들은 매일 웹에서 우리에 대한 정보를 모으기 위해 우리를 감시합니다. 그러나, 우리는 암호화를 통해 대규모 감시에 맞설 수 있지만 충분한 프로젝트가 없어서 우리 자신을 적절히 보호할 수 없습니다. 하지만, 오늘날 우리는 다행스럽게도 종단 간 암호화를 허용하는 <span>ProtonMail</span>을 사용해서 이메일에 대한 안전한 대안을 가지게 되었습니다. 또한, <span>Ring.cx</span> 또는 <span>Tox.chat</span>을 사용해서 사용자의 대화를 암호화할 수 있습니다.<br>이러한 관점에서 우리는 사용자의 문서를 온라인에 안전하게 저장할 수 있는 대안을 제공하기 위해 <span>Muonium</span>의 개발을 시작했습니다. 우리의 정책에 따른 파일의 종단 간 암호화가 사용자를 진정한 파일의 소유자로 만들어줍니다.",
+    "ourTeam": "우리 팀",
+    "PaulRole": "공동 창업자 & 시스템 및 네트워크 관리자",
+    "PaulLife": "Paul은 다양한 과학과 IT를 좋아합니다. 그는 인프라, 데이터 스토리지 시스템, 서버 및 Muonium 팀을 관리합니다. 인터넷 프라이버시는 그에게 매우 중요한 주제입니다. 그가 언어, 문화, 오픈소스 및 무료 소프트웨어 개념에 많은 관심을 가지고 있다는 것을 잊지 마세요.",
+    "DylanRole": "공동 창업자 & 프론트 엔드 및 백 엔드 개발자",
+    "DylanLife": "Dylan은 백 엔드를 개발하고, Paul이 Muonium 프로젝트 관리하는 것을 돕습니다. IT에 열정적이고, 컴퓨팅 분야에서 높은 기술 학위를 가지고 있는 그는, 현재 웹 어플리케이션 개발을 전문적으로 공부하고 있습니다.",
+    "GioRole": "공동 창업자 & 기술 지원 서비스",
+    "GioLife": "Giovanni는 사용자들과 궁극적으로는 기업들을 지원합니다. 그는 웹 기술, 하드웨어, 안드로이드에 열정적입니다. 그는 일본의 문화와 시리즈를 좋아합니다."
+  },
+
+  "adventure": {
+    "phase": "단계",
+    "mouseDescription": "원 위에 마우스를 올리면 정보가 표시됩니다",
+    "phase1": "첫번째 단계는 일반적으로 프로젝트 프레젠테이션을 위한 '기능'이라는 완벽한 웹 사이트를 만들고 개발자와 보안에 대한 추가 정보를 작성하는 단계입니다.<br><br>예상 출시 일자: <b>2016년 1월 말</b>",
+    "phase2": "두번째 단계는 파일에 대한 관리 인터페이스를 개발합니다. 인터페이스는 기본 기능만 포함됩니다 (물론 암호화가 첫번째로 추가됩니다). 완료되면 제한된 베타가 출시됩니다. 약 50명이 포함될 것입니다.<br><br>예상 출시 일자: <b>2016년 12월</b>",
+    "phase3": "세번째 단계는 우리의 서버를 구입하고 추가 기능이 있는 public beta를 공개합니다 (기본 기능 외에도). 우리 서버는 1000명에서 2000명 정도를 지원할 것입니다.<br><br>예상 출시 일자: <b>미정</b>",
+    "phase4": "네번째 단계는 완전히 안정된 버전의 인터페이스를 출시하는 것입니다 (성능향상, 특정 기능의 단순화 등...). 첫번째 안정적인 버전은 저장 공간 용량이 큰 여러대의 서버를 구입하면 출시합니다.<br><br>예상 출시 일자: <b>미정</b>",
+    "phase5": "다섯번째이자 마지막 단계는 주로 <b>Kantum Technologies</b> 라는 이름으로 다른 프로젝트를 시작하고 새 서버에 자금을 지원하는 것입니다. 인터페이스는 엄격한 분석을 거쳐 사용자 경험을 크게 향상시킵니다.<br><br>예상 출시 일자: <b>미정</b>"
+  },
+
+  "donate": {
+    "serverFinancing": "서버 재정 지원",
+    "teamFinancing": "팀 재정 지원",
+    "conferenceFinancing": "회의 재정 지원",
+    "why": "Why?",
+    "whyDonate": "왜 기부를 하나요?",
+    "whyDonateTxt": "엄밀히 말하자면 우리팀은 전문가가 아닌 학생들로 구성되어 있습니다. 그래서, 우리는 어떤 일을 통해서도 돈을 받지 않습니다. 만약 우리가 돈이 필요하면, 우리는 일을 하기 위해 우리의 시간을 투자해야 하는데, 그러면 Muonium에서 일하거나 공부하는 시간이 줄어듭니다. <br> 기부금이 있으면, 우리는 균형을 잡을수 있고 우리 자신을 지원하기 위해 일할 필요가 없다면, 더 많은 시간을 Muonium 개발에 헌신할 수 있습니다."
+  },
+
+  "help": {
+    "losePwd": "Password를 잊어버렸는데 어떻게 복구하나요?",
+    "losePwdAns": "이게 본인 확인 password라면 로그인 페이지에서 \"Forgot password?\"를 클릭합니다. 그러면 password가 초기화 되고 password 재설정 링크가 포함된 이메일이 전송됩니다.<br>하지만, 복호화 password를 잊어버리셨으면 우리로서는 다시 설정하는 것이 불가능하므로 모든 파일이 손실된 것으로 간주해야 합니다.",
+    "whoCanAccessMyFiles": "누가 내 파일에 접근할 수 있나요?",
+    "whoCanAccessMyFilesAns": "오직 사용자만 자신의 파일에 접근할 수 있습니다. 기술적인 한계가 없는한, 사용자는 파일을 암호화 하고 복호화 하기 위한 키(the \"passphrase\")가 필요합니다. 따라서 당신을 제외하고는 어느 누구도, 심지어 우리도, 당신의 파일에 접근할 수 없습니다.",
+    "howEncrypted": "파일은 어떤 방식으로 암호화 되나요?",
+    "howEncryptedAns": "사용자의 파일은 <a href='http://bitwiseshiftleft.github.io/sjcl/'>SJCL</a> 덕분에 사용자의 브라우저에서 개인키를 사용하여 종단 간 암호화되고 마찬가지로 사용자의 브라우저에서 복호화됩니다. 따라서 전송된 데이터는 이미 암호화되어 있으며 당신을 제외한 어느 누구도 복호화할 수 없습니다.",
+    "howFunded": "Muonium은 어떻게 자금을 지원받나요? 몇몇 회사로부터 도움을 받나요?",
+    "howFundedAns": "아니요, Muonium의 방침은 우리의 개인 정보 보호 정책 등을 위태롭게 하지 않기 위해서 어떠한 회사에도 속해 있지 않고 (우리회사를 제외한), 대기업으로부터 도움을 받지 않습니다. 따라서, Muonium은 오직 사용자의 기부를 통해서만 자금이 지원됩니다. 관심 있으시면 <a href='Donate'>'Donate' 섹션에서</a> 하실 수 있습니다.",
+    "helpTerrorism": "테러리스트나 나쁜 조직을 도우려는 건가요?",
+    "helpTerrorismAns": "아니요, 우리는 프라이버시를 지지하고 확실히 세계가 더 나은 프라이버시를 얻을 수 있도록 돕지만, 우리도 모르게 테러를 돕습니다. 하지만 우리는 <a href='https://protonmail.com/blog/privacy-encryption-and-terrorism/'>ProtonMail</a>과 같은 상황에 처해 있습니다. 어쨌든, 우리가 Muonium을 개발하지 않더라도, 테러리스트들과 다른 사람들 또는 그룹은 그들의 데이터를 암호화할 것입니다.",
+    "anotherQuestion": "다른 질문 있으신가요?",
+    "anotherQuestionAns": "새로운 질문을 받는대로 FAQ가 업데이트될 것입니다. 연락처: <b>muonium [AT] protonmail [DOT] ch</b>"
+  },
+
+  "security": {
+    "communicationsEncryption": "통신 암호화",
+    "communicationsEncryptionTxt": "Muonium은 사용자의 장치와 서버 간의 통신을 안전하게 보호하기 위해 <a href='https://letsencrypt.org/'>Let's Encrypt</a>에서 생성된 인증서와 <a href='https://en.wikipedia.org/wiki/Transport_Layer_Security#TLS_1.2'>TLS 1.2</a> 기술을 사용합니다. 이 기술을 사용하면, 사용자가 송신하는 정보 (사용자명, password 등 ...)와 수신하는 정보 (개인 정보 등 ...)가 <b>AES - 256 bits</b>의 암호화를 허용하는 <a href='https://en.wikipedia.org/wiki/Advanced_Encryption_Standard'>AES-256</a>이라는 알고리즘을 사용하여 암호화됩니다.<br>따라서 사용자의 통신이 도청되더라도 복호가 불가능하고 누구도 사용자와 서버 간 전송되는 정보를 훔칠 수 없습니다.",
+    "filesEncryption": "Files encryption",
+    "filesEncryptionTxt": "We use end-to-end encryption. This means that whatever the stage (upload, storage, download), your file will still be encrypted. Thus, if someone intercept the communications, the attacker will never read your files. The encryption algorithm used is <b>AES</b> with <a href='http://bitwiseshiftleft.github.io/sjcl/'>SJCL</a> (which is a complete and open source implementation of AES) which allows a <b>256 bits encryption (equivalent of more RSA 2048)</b>. When creating an account, the user defines one personal passphrase (it's a password) in order to encrypt and decrypt his files. With this principle, we can't decrypt your files. When you are logging, your passphrase will be stored in your browser to enable the encryption and decryption locally. This keeps the file encrypted at any level (client, Internet, server).",
+    "EELaws": "Under the European and Estonian laws",
+    "EELawsTxt": "European and Estonian cryptography laws aren't restrictive, that's why Muonium will be deployed in Estonia. Those allow us to <b>encrypt the encryption keys</b>, then we encrypt your encryption key (your encryption key is used to encrypt your files) with your secret password (also called \"passphrase\") <b>before sending it to the servers</b>. Consequently, <b>you remain the only one owner of your encryption key, and then, only you can access your files</b>. Also, your secret password will never be sent to the servers. Only you know it.",
+    "tripleAuth": "Triple-authentication",
+    "tripleAuthTxt": "Only you can access your files. That is why we have developed an <b>authentication system with 3 layers</b>. The principle is quite simple: You enter <b>your login/email and password</b> and submit, this is the first security layer. Once you're logged in, you need to enter <b>your passphrase</b> to be able to decrypt your key, then allows the decryption of your files, this corresponds to the second layer. But we thought that an additional layer provides more security. After your passphrase, <b>an email with a code will be sent</b>, you need to enter the received code on the page to be totally logged. All this may be a little while, but it strengthens the security of your account.<br>This system is inspired by the <a href='https://en.wikipedia.org/wiki/Multi-factor_authentication'>double-authentication</a> made by some sites like Google or Facebook."
+  }
+}
