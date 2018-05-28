@@ -81,11 +81,11 @@
   },
 
   "Login": {
-    "badPass": "잘못된 password 입니다!",
-    "badPassphrase": "에러: 잘못된 secret password 입니다",
+    "badPass": "잘못된 패스워드 입니다!",
+    "badPassphrase": "에러: 잘못된 패스프레이즈 입니다",
     "codeMail": "이메일로 수신된 코드",
     "doubleAuthMessage": "안녕하세요, 당신의 인증 코드는 [key]입니다<br>감사합니다,<br>Muonium Team<br><br>이 이메일은 자동으로 생성되었으므로, 회신하지 마시기 바랍니다.",
-    "forgot": "비밀번호를 잊어버리셨나요?",
+    "forgot": "패스워드를 잊어버리셨나요?",
     "insecureHttp": "클라이언트가 HTTPS로 로드된 경우 HTTP에서 서버 API를 사용하실 수 없습니다",
     "invalidCode": "입력하신 코드가 잘못되었습니다",
     "register": "Muonium 계정 생성하기.",
@@ -98,24 +98,24 @@
 
   "LostPass": {
     "keyErr": "에러: 키가 잘못되었거나 만료되었습니다. 새로 요청하시기 바랍니다.",
-    "message": "안녕하세요,<br>귀하의 password 또는 secret password를 업데이트 하려면, 이 링크를 따라가십시오: <a href='[url_app]/#/lostPass/[id_user]/[key]'>[url_app]/#/lostPass/[id_user]/[key]</a><br>감사합니다,<br>Muonium Team.<br><br>이 이메일은 자동으로 생성되었으므로, 회신하지 마시기 바랍니다.",
+    "message": "안녕하세요,<br>귀하의 패스워드 또는 패스프레이즈를 업데이트 하려면, 이 링크를 따라가십시오: <a href='[url_app]/#/lostPass/[id_user]/[key]'>[url_app]/#/lostPass/[id_user]/[key]</a><br>감사합니다,<br>Muonium Team.<br><br>이 이메일은 자동으로 생성되었으므로, 회신하지 마시기 바랍니다.",
     "notFound": "에러: 사용자를 찾을 수 없습니다!",
-    "reset": "경고! secret password를 변경하면 계정이 재설정되고 모든 데이터가 손실됩니다!",
-    "subject": "Muonium - password 분실",
+    "reset": "경고! 패스프레이즈를 변경하면 계정이 재설정되고 모든 데이터가 손실됩니다!",
+    "subject": "Muonium - 패스워드 분실",
     "user": "이메일 또는 사용자명",
     "updateErr": "계정 정보를 업데이트할 수 없습니다.",
     "updateOk": "계정 정보가 성공적으로 업데이트 되었습니다.",
-    "wait": "비밀번호 분실 메일을 다시 요청하시기 전에 잠시 기다려주시기 바랍니다."
+    "wait": "패스워드 분실 메일을 다시 요청하시기 전에 잠시 기다려주시기 바랍니다."
   },
 
   "Profile": {
     "accountDeletionConfirm": "정말 계정을 삭제하시겠습니까?",
-    "badOldPass": "이전 password 가 일치하지 않습니다",
-    "badOldPassphrase": "이전 secret password 가 일치하지 않습니다",
+    "badOldPass": "이전 패스워드가 일치하지 않습니다",
+    "badOldPassphrase": "이전 패스프레이즈가 일치하지 않습니다",
     "changeLogin": "사용자명 변경",
     "changeMail": "이메일 변경",
-    "changePp": "secret password 변경",
-    "changePwd": "password 변경",
+    "changePp": "패스프레이즈 변경",
+    "changePwd": "패스워드 변경",
     "deleteAccount": "계정 삭제",
     "deleteWarning": "경고: 계정을 삭제하시면 어떠한 프리미엄 서비스도 더 이상 지속되지 않습니다.",
     "doubleAuth": "2단계 검증",
@@ -127,12 +127,12 @@
     "mailFormat": "메일 형식이 잘못되었습니다.",
     "mailUsername": "이메일 & 사용자명",
     "newLogin": "새로운 사용자명",
-    "newPp": "새 secret password",
-    "newPwd": "새 password",
-    "oldPp": "이전 secret password",
-    "oldPwd": "이전 password",
+    "newPp": "새 패스프레이즈",
+    "newPwd": "새 패스워드",
+    "oldPp": "이전 패스프레이즈",
+    "oldPwd": "이전 패스워드",
     "otherOptions": "기타 옵션",
-    "pwdPp": "Password & Secret Password",
+    "pwdPp": "패스워드 & 패스프레이즈",
     "sessions": "세션",
     "terminate": "종료",
     "terminateAll": "다른 모든 세션 종료",
@@ -144,8 +144,8 @@
 
   "Register": {
     "alreadyRegistered": "이미 가입하셨습니까?",
-    "badPassConfirm": "두 passwords 가 서로 다릅니다.",
-    "badPassphraseConfirm": "두 secret passwords 가 서로 다릅니다.",
+    "badPassConfirm": "두 패스워드가 서로 다릅니다.",
+    "badPassphraseConfirm": "두 패스프레이즈가 서로 다릅니다.",
     "confirm": "확인",
     "create": "지금 만들기.",
     "dontHaveAccount": "Muonium 계정이 없으신가요?",
@@ -160,11 +160,11 @@
     "mailExists": "입력하신 이메일 주소가 이미 데이터베이스에 있습니다. 이 계정을 사용하여 만들 수 없습니다.",
     "mailFormat": "메일 형식이 잘못되었습니다.",
     "ok": "가입 완료!",
-    "passEqualPassphrase": "password 와 secrete password 는 서로 달라야 합니다.",
-    "passLength": "password 또는 the secret password 는 최소 6자 이상이어야 합니다.",
-    "passphrase": "Secret password",
-    "passphraseHelp": "Password 는 파일 암호화와 복호화에 사용됩니다",
-    "password": "Password"
+    "passEqualPassphrase": "패스워드와 패스프레이즈는 서로 달라야 합니다.",
+    "passLength": "패스워드 또는 패스프레이즈는 최소 6자 이상이어야 합니다.",
+    "passphrase": "패스프레이즈",
+    "passphraseHelp": "패스워드는 파일 암호화와 복호화에 사용됩니다",
+    "password": "패스워드"
   },
 
   "Rm": {
@@ -291,6 +291,6 @@
     "sendmail": "새 메일 보내기",
     "sendmess": "계정을 활성화하려면 이메일의 링크를 클릭하세요",
     "subject": "Muonium - 계정 인증",
-    "wait": "비밀번호 분실 메일을 다시 요청하시기 전에 잠시 기다려주시기 바랍니다."
+    "wait": "인증 메일을 다시 요청하시기 전에 잠시 기다려주시기 바랍니다."
   }
 }
