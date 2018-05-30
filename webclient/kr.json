@@ -20,6 +20,11 @@
     "subject": "Muonium - 귀하의 구독이 [days] 이내에 종료됩니다",
     "message": "안녕하세요 [login],<br>이 이메일은 귀하의 구독이 [days] 이내에 종료되기 때문에 발송되었습니다.<br>Muonium Team"
   },
+    
+  "InactiveUserMail": {
+    "subject": "Muonium - You are inactive",
+    "message": "Hi [login],<br>This email is sent because you are inactive for [inactiveDays] days.<br>Your account will be deleted in [deleteDelay] days if you don't log in<br>Muonium Team"
+  },
 
   "Error": {
     "bannedSession": "허용되는 최대 요청 수에 도달했습니다",

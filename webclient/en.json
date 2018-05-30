@@ -20,6 +20,11 @@
     "subject": "Muonium - Your subscription ends in less than [days] days",
     "message": "Hi [login],<br>This email is sent because your subscription ends in less than [days] days.<br>Muonium Team"
   },
+    
+  "InactiveUserMail": {
+    "subject": "Muonium - You are inactive",
+    "message": "Hi [login],<br>This email is sent because you are inactive for [inactiveDays] days.<br>Your account will be deleted in [deleteDelay] days if you don't log in<br>Muonium Team"
+  },
 
   "Error": {
     "bannedSession": "You've reached the maximum allowed number of requests",
@@ -83,12 +88,14 @@
   "Login": {
     "badPass": "Bad password!",
     "badPassphrase": "Error: bad secret password",
-    "codeMail": "Code received by email",
+    "code": "Code received",
     "doubleAuthMessage": "Hi, your authentication code is [key]<br>Best regards,<br>Muonium Team<br><br>This email was automatically generated, please do not answer.",
     "forgot": "Forgot password?",
     "insecureHttp": "You cannot use a server API from HTTP when the client has been loaded with HTTPS",
     "invalidCode": "The code entered is invalid",
+    "manually": "Or input code manually:",
     "register": "Create a Muonium Account.",
+    "scan": "Install <strong>Google Authentificator</strong> on your phone and scan this QR Code to get the auth code:",
     "signIn": "Sign In",
     "success": "Successfully logged in",
     "username": "Email or login",
@@ -109,6 +116,9 @@
   },
 
   "Profile": {
+    "2fa_0": "Disabled",
+    "2fa_1": "By e-mail",
+    "2fa_2": "Google Authentificator",
     "accountDeletionConfirm": "Do you really want to delete your account?",
     "badOldPass": "Your old password does not match",
     "badOldPassphrase": "Your old secret password does not match",
