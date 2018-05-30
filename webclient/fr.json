@@ -20,6 +20,11 @@
     "subject": "Muonium - Votre abonnement se termine dans [days] jours",
     "message": "Bonjour [login],<br>Cet email vous est envoyé car votre abonnement se termine dans moins de [days] jours.<br>Muonium Team"
   },
+    
+  "InactiveUserMail": {
+    "subject": "Muonium - Vous êtes inactif",
+    "message": "Bonjour [login],<br>Cet email vous est envoyé car vous êtres inactif depuis [inactiveDays] jours.<br>Votre compte va être supprimé dans [deleteDelay] jours si vous ne vous connectez pas.<br>Muonium Team"
+  },
 
   "Error": {
     "bannedSession": "Vous avez atteint le nombre maximum autorisé de requêtes",
