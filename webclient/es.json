@@ -81,6 +81,7 @@
   },
 
   "Login": {
+    "backupCodes": "Backup codes:",
     "badPass": "¡Contraseña erronea!",
     "badPassphrase": "Error: contraseña secreta incorrecta",
     "code": "Codigo recibido",

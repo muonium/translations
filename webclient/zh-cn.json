@@ -81,6 +81,7 @@
   },
 
   "Login": {
+    "backupCodes": "Backup codes:",
     "badPass": "密码错误！",
     "badPassphrase": "错误: 无效的私密密码",
     "code": "受了验证码",

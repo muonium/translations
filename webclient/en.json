@@ -81,6 +81,7 @@
   },
 
   "Login": {
+    "backupCodes": "Backup codes:",
     "badPass": "Bad password!",
     "badPassphrase": "Error: bad secret password",
     "code": "Code received",

@@ -81,6 +81,7 @@
   },
 
   "Login": {
+    "backupCodes": "Codes de secours :",
     "badPass": "Mauvais mot de passe !",
     "badPassphrase": "Erreur : phrase secrète incorrecte",
     "code": "Code reçu",
