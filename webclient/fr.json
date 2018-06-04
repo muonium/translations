@@ -86,6 +86,7 @@
     "badPassphrase": "Erreur : phrase secrète incorrecte",
     "code": "Code reçu",
     "doubleAuthMessage": "Bonjour, votre code d'authentification est [key]<br>Cordialement,<br>L'équipe Muonium<br><br>Ce mail a été généré automatiquement, merci de ne pas y répondre.",
+    "enterCode": "Une fois scanné, et afin d'activer Google Authenticator sur Muonium, vous devez entrer le code de vérification à 6 caractères :",
     "forgot": "Mot de passe oublié ?",
     "insecureHttp": "Vous ne pouvez pas utiliser l'API Server depuis HTTP lorsque le client a été chargé avec HTTPS",
     "invalidCode": "Le code entré est invalide",

@@ -86,6 +86,7 @@
     "badPassphrase": "Błąd: tajne hasło jest niepoprawne",
     "code": "Kod otrzymany",
     "doubleAuthMessage": "Witaj, Twój kod weryfikacyjny to [key]<br>Z poważaniem,<br>Muonium Team<br><br>Ta wiadomość została wygenerowana automatycznie, prosimy na nią nie odpowiadać.",
+    "enterCode": "Once scanned, in order to enable Google Authenticator on Muonium, you need to enter the 6-digit verification code:",
     "forgot": "Nie pamiętasz hasła ?",
     "insecureHttp": "You cannot use a server API from HTTP when the client has been loaded with HTTPS",
     "invalidCode": "Podany kod jest nieprawidłowy",

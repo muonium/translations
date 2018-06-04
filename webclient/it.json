@@ -86,6 +86,7 @@
     "badPassphrase": "Error: bad passphrase",
     "code": "Codice ricevuto",
     "doubleAuthMessage": "Ciao, il tuo codice di autenticazione è [key]<br>Cordiali saluti,<br>il Team Muonium<br><br>Questa mail è stata generata automaticamente, si prega di non rispondere.",
+    "enterCode": "Once scanned, in order to enable Google Authenticator on Muonium, you need to enter the 6-digit verification code:",
     "forgot": "Dimenticato la password?",
     "insecureHttp": "You cannot use a server API from HTTP when the client has been loaded with HTTPS",
     "invalidCode": "Il codice inserito non è valido",
