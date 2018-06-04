@@ -91,6 +91,7 @@
     "insecureHttp": "Vous ne pouvez pas utiliser l'API Server depuis HTTP lorsque le client a été chargé avec HTTPS",
     "invalidCode": "Le code entré est invalide",
     "manually": "Ou entrez le code manuellement :",
+    "regenerate": "Regénérer",
     "register": "Créer un compte Muonium.",
     "scan": "Installez <strong>Google Authentificator</strong> sur votre téléphone, et veuillez scanner ce QR Code afin d'obtenir votre code d'authentification :",
     "signIn": "Se connecter",

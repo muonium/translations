@@ -91,6 +91,7 @@
     "insecureHttp": "You cannot use a server API from HTTP when the client has been loaded with HTTPS",
     "invalidCode": "El código introducido es inválido",
     "manually": "Or input code manually:",
+    "regenerate": "Regenerate",
     "register": "Registrarse",
     "signIn": "Sign In",
     "scan": "Install <strong>Google Authentificator</strong> on your phone and scan this QR Code to get the auth code:",
