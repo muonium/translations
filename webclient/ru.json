@@ -20,6 +20,11 @@
     "subject": "Muonium - Your subscription ends in less than [days] days",
     "message": "Hi [login],<br>This email is sent because your subscription ends in less than [days] days.<br>Muonium Team"
   },
+    
+  "InactiveUserMail": {
+    "subject": "Muonium - You are inactive",
+    "message": "Hi [login],<br>This email is sent because you are inactive for [inactiveDays] days.<br>Your account will be deleted in [deleteDelay] days if you don't log in<br>Muonium Team"
+  },
 
   "Error": {
     "bannedSession": "Достигнуто максимально допустимое число запросов",
