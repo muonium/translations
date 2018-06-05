@@ -100,6 +100,7 @@
     "regenerate": "Regenerate",
     "register": "注册",
     "scan": "Install <strong>Google Authentificator</strong> on your phone and scan this QR Code to get the auth code:",
+    "showBackupCodes": "Show backup codes",
     "signIn": "登录",
     "success": "成功登录",
     "username": "邮箱或登录",

@@ -100,6 +100,7 @@
     "regenerate": "Regénérer",
     "register": "Créer un compte Muonium.",
     "scan": "Installez <strong>Google Authentificator</strong> sur votre téléphone, et veuillez scanner ce QR Code afin d'obtenir votre code d'authentification\u00a0:",
+    "showBackupCodes": "Afficher les codes de secours",
     "signIn": "Se connecter",
     "success": "Connexion réussie",
     "username": "Email ou nom d'utilisateur",

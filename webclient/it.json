@@ -100,6 +100,7 @@
     "regenerate": "Regenerate",
     "register": "Non sei ancora registrato?",
     "scan": "Install <strong>Google Authentificator</strong> on your phone and scan this QR Code to get the auth code:",
+    "showBackupCodes": "Show backup codes",
     "signIn": "Login",
     "success": "Successfully logged in",
     "username": "Email o login",

@@ -101,6 +101,7 @@
     "register": "Registrarse",
     "signIn": "Sign In",
     "scan": "Install <strong>Google Authentificator</strong> on your phone and scan this QR Code to get the auth code:",
+    "showBackupCodes": "Show backup codes",
     "success": "Successfully logged in",
     "username": "Correo electrónico o inicio de sesión",
     "wait": "Please wait a minute before requesting again a 2-factor authentication mail.",
