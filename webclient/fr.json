@@ -20,7 +20,7 @@
     "subject": "Muonium - Votre abonnement se termine dans [days] jours",
     "message": "Bonjour [login],<br>Cet email vous est envoyé car votre abonnement se termine dans moins de [days] jours.<br>Muonium Team"
   },
-    
+
   "InactiveUserMail": {
     "subject": "Muonium - Vous êtes inactif",
     "message": "Bonjour [login],<br>Cet email vous est envoyé car vous êtres inactif depuis [inactiveDays] jours.<br>Votre compte va être supprimé dans [deleteDelay] jours si vous ne vous connectez pas.<br>Muonium Team"
@@ -91,7 +91,8 @@
     "badPassphrase": "Erreur : phrase secrète incorrecte",
     "code": "Code reçu",
     "doubleAuthMessage": "Bonjour, votre code d'authentification est [key]<br>Cordialement,<br>L'équipe Muonium<br><br>Ce mail a été généré automatiquement, merci de ne pas y répondre.",
-    "enterCode": "Une fois scanné, et afin d'activer Google Authenticator sur Muonium, vous devez entrer le code de vérification à 6 caractères :",
+    "enterCodeEnable": "Une fois scanné, et afin d'activer Google Authenticator sur Muonium, vous devez entrer le code de vérification à 6 caractères :",
+    "enterCodePerform": "Pour effectuer cette action vous devez entrer le code de vérification à 6 caractères :",
     "forgot": "Mot de passe oublié ?",
     "insecureHttp": "Vous ne pouvez pas utiliser l'API Server depuis HTTP lorsque le client a été chargé avec HTTPS",
     "invalidCode": "Le code entré est invalide",
