@@ -109,7 +109,7 @@
 
   "LostPass": {
     "keyErr": "Erreur\u00a0: La clé est incorrecte ou expirée, veuillez refaire une demande de mot de passe perdu.",
-    "message": "Bonjour,<br>Afin de modifier votre mot de passe ou votre phrase secrète, veuillez suivre ce lien\u00a0: <a href='[url_app]/#/lostPass/[id_user]/[key]'>[url_app]/#/lostPass/[id_user]/[key]</a><br>Cordialement,<br>L'équipe Muonium.<br><br>Ce mail a été généré automatiquement, merci de ne pas y répondre.",
+    "message": "Bonjour,<br>Afin de modifier votre mot de passe ou votre phrase secrète, veuillez suivre ce lien&nbsp;: <a href='[url_app]/#/lostPass/[id_user]/[key]'>[url_app]/#/lostPass/[id_user]/[key]</a><br>Cordialement,<br>L'équipe Muonium.<br><br>Ce mail a été généré automatiquement, merci de ne pas y répondre.",
     "notFound": "Erreur\u00a0: Utilisateur non trouvé\u00a0!",
     "reset": "Attention\u00a0! Si vous changez votre phrase secrète, votre compte sera réinitialisé et vous perdrez vos données\u00a0!",
     "subject": "Muonium - Mot de passe oublié",
@@ -301,7 +301,7 @@
   "Validate": {
     "done": "Votre compte est validé. Vous pouvez vous connecter et démarrer avec Muonium!",
     "keyErr": "Erreur\u00a0: La clé de validation est incorrecte, connectez-vous pour envoyer un nouveau mail de validation",
-    "message": "Bienvenue sur Muonium\u00a0!<br>Afin de valider votre compte, suivez ce lien\u00a0: <a href='[url_app]/#/validate/[id_user]/[key]'>[url_app]/#/validate/[id_user]/[key]</a><br>Cordialement,<br>L'équipe Muonium<br><br>Ce mail a été généré automatiquement, merci de ne pas y répondre.",
+    "message": "Bienvenue sur Muonium&nbsp;!<br>Afin de valider votre compte, suivez ce lien&nbsp;: <a href='[url_app]/#/validate/[id_user]/[key]'>[url_app]/#/validate/[id_user]/[key]</a><br>Cordialement,<br>L'équipe Muonium<br><br>Ce mail a été généré automatiquement, merci de ne pas y répondre.",
     "sendmail": "Envoyer un nouvel email",
     "sendmess": "Suivez le lien donné dans l'email pour activer votre compte",
     "subject": "Muonium - Validez votre compte",
