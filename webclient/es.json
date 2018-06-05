@@ -20,7 +20,7 @@
     "subject": "Muonium - Your subscription ends in less than [days] days",
     "message": "Hi [login],<br>This email is sent because your subscription ends in less than [days] days.<br>Muonium Team"
   },
-    
+
   "InactiveUserMail": {
     "subject": "Muonium - You are inactive",
     "message": "Hi [login],<br>This email is sent because you are inactive for [inactiveDays] days.<br>Your account will be deleted in [deleteDelay] days if you don't log in<br>Muonium Team"
@@ -30,7 +30,7 @@
     "bannedSession": "Ha alcanzado el número máximo de peticiones disponibles",
     "default": "Ha ocurrido un error",
     "dl": "La característica de descarga de archivo no está disponible en su navegador.",
-    "e404": "Error : Página no encontrada",
+    "e404": "Error: Página no encontrada",
     "form": "Error en el formulario",
     "pp": "La edición de la contraseña secreta no está actualmente disponible"
   },
@@ -44,7 +44,7 @@
     "loading": "Cargando...",
     "login": "Iniciar sesión",
     "logout": "Cerrar sesión",
-    "mailSent": "Se le ha enviado un correo electrónico, por favor compruebe su bandeja de entrada y la bandeja de \"spam\". Si no ha recibido nada después de 5 minutos, por favor inténtelo de nuevo :",
+    "mailSent": "Se le ha enviado un correo electrónico, por favor compruebe su bandeja de entrada y la bandeja de \"spam\". Si no ha recibido nada después de 5 minutos, por favor inténtelo de nuevo:",
     "profile": "Perfil",
     "recents": "Mui :: Recientes",
     "refresh": "Refrescar",
@@ -86,14 +86,18 @@
   },
 
   "Login": {
+    "backupCodes": "Backup codes:",
     "badPass": "¡Contraseña erronea!",
     "badPassphrase": "Error: contraseña secreta incorrecta",
     "code": "Codigo recibido",
     "doubleAuthMessage": "Hola, su código de autentificación es [key]<br>Atentamente,<br>el equipo de Muonium<br><br>Este correo electrónico ha sido generado automáticamente, por favor no responder.",
+    "enterCodeEnable": "Once scanned, in order to enable Google Authenticator on Muonium, you need to enter the 6-digit verification code:",
+    "enterCodePerform": "In order to perform this action, you need to enter the 6-digit verification code:",
     "forgot": "¿Olvidó su contraseña?",
     "insecureHttp": "You cannot use a server API from HTTP when the client has been loaded with HTTPS",
     "invalidCode": "El código introducido es inválido",
     "manually": "Or input code manually:",
+    "regenerate": "Regenerate",
     "register": "Registrarse",
     "signIn": "Sign In",
     "scan": "Install <strong>Google Authentificator</strong> on your phone and scan this QR Code to get the auth code:",
@@ -104,7 +108,7 @@
   },
 
   "LostPass": {
-    "keyErr": "Error : La llave es errónea o ha expirado, por favor haga una nueva petición.",
+    "keyErr": "Error: La llave es errónea o ha expirado, por favor haga una nueva petición.",
     "message": "Hola,<br> para actualizar su contraseña o contraseña secreta, por favor siga este enlace: <a href='[url_app]/#/lostPass/[id_user]/[key]'>[url_app]/#/lostPass/[id_user]/[key]</a><br>Atentamente,<br> el equipo de Muonium.<br><br>Este correo electrónico ha sido generado automáticamente, por favor no contestar.",
     "notFound": "Error: User not found!",
     "reset": "¡Atención! Ai cambia su contraseña secreta ¡su cuenta será reinicializada y todos sus datos se perderán!",
@@ -296,8 +300,8 @@
 
   "Validate": {
     "done": "Your account is validated. You can now log in and start using Muonium!",
-    "keyErr": "Error : La llave de validación es errónea, por favor inicie sesión para enviar una nueva validación por correo electrónico",
-    "message": "¡Bienvenido a Muonium !<br>Para validar su cuenta, siga este enlace: <a href='[url_app]/#/validate/[id_user]/[key]'>[url_app]/#/validate/[id_user]/[key]</a><br>Atentamente,<br>el equipo de Muonium<br><br>Este correo electrónico ha sido generado automáticamente, por favor no responder.",
+    "keyErr": "Error: La llave de validación es errónea, por favor inicie sesión para enviar una nueva validación por correo electrónico",
+    "message": "¡Bienvenido a Muonium!<br>Para validar su cuenta, siga este enlace: <a href='[url_app]/#/validate/[id_user]/[key]'>[url_app]/#/validate/[id_user]/[key]</a><br>Atentamente,<br>el equipo de Muonium<br><br>Este correo electrónico ha sido generado automáticamente, por favor no responder.",
     "sendmail": "Enviar un nuevo correo",
     "sendmess": "Por favor siga el enlace en el correo electrónico para activar su cuenta",
     "subject": "Muonium - Validación de cuenta",

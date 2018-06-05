@@ -20,7 +20,7 @@
     "subject": "Muonium - Your subscription ends in less than [days] days",
     "message": "Hi [login],<br>This email is sent because your subscription ends in less than [days] days.<br>Muonium Team"
   },
-    
+
   "InactiveUserMail": {
     "subject": "Muonium - You are inactive",
     "message": "Hi [login],<br>This email is sent because you are inactive for [inactiveDays] days.<br>Your account will be deleted in [deleteDelay] days if you don't log in<br>Muonium Team"
@@ -30,7 +30,7 @@
     "bannedSession": "Достигнуто максимально допустимое число запросов",
     "default": "По умолчанию",
     "dl": "Функция загрузки файлов недоступна в вашем браузере.",
-    "e404": "Ошибка 404 : Страница не найдена",
+    "e404": "Ошибка 404: Страница не найдена",
     "form": "Ошибка в форме",
     "pp": "Изменить секретный пароль сейчас невозможно"
   },
@@ -44,7 +44,7 @@
     "loading": "Загрузка...",
     "login": "Вход",
     "logout": "Выйти",
-    "mailSent": "Вам было отправлено сообщение электронной почты, пожалуйста, проверьте свои входящие письма и спам. Если после 5 минут письмо не пришло - повторите запрос. :",
+    "mailSent": "Вам было отправлено сообщение электронной почты, пожалуйста, проверьте свои входящие письма и спам. Если после 5 минут письмо не пришло - повторите запрос.:",
     "profile": "Аккаунт",
     "recents": "Mui :: Принятые",
     "refresh": "Обновление",
@@ -60,40 +60,44 @@
   "Help": {
     "shortcuts": [
       "<strong>Настольная версия</strong><ul>",
-      "<li>Левый клик на файле/папке : Выбор файла/папки - Просмотр деталей</li>",
-      "<li>Левый клик в другом месте : Снять выбор</li>",
-      "<li>Ctrl + левый клик : Выбор нескольких файлов</li>",
-      "<li>Правый клик : Показать действия</li>",
-      "<li>Курсор вверх : Выбор предыдущего файла</li>",
-      "<li>Курсор вниз : Выбор следующего файла</li>",
-      "<li>Ctrl + курсор вверх : Добавить предыдущий файл к выбору</li>",
-      "<li>Ctrl + стрелка вниз : Добавить следующий файл к выбору</li>",
-      "<li>Ctrl + A : Выбрать все</li>",
-      "<li>Ctrl + C : Копировать</li>",
-      "<li>Ctrl + D : Выйти</li>",
-      "<li>Ctrl + I : Инвертировать выделение</li>",
-      "<li>Ctrl + R : Переместить в корзину</li>",
-      "<li>Ctrl + S : Сохранить выделение</li>",
-      "<li>Ctrl + V : Вставить</li>",
-      "<li>Ctrl + X : Вырезать</li>",
-      "<li>Backspace : Перейти к родительской папке</li>",
-      "<li>Delete : Удалить выбранное</li>",
-      "<li>Esc : Скрыть окно действий</li>",
-      "<li>Enter (на файле) : Загрузить</li>",
-      "<li>Enter (на папке) : Открыть папку</li>",
-      "<li>F1 : Помощь</li></ul>"
+      "<li>Левый клик на файле/папке: Выбор файла/папки - Просмотр деталей</li>",
+      "<li>Левый клик в другом месте: Снять выбор</li>",
+      "<li>Ctrl + левый клик: Выбор нескольких файлов</li>",
+      "<li>Правый клик: Показать действия</li>",
+      "<li>Курсор вверх: Выбор предыдущего файла</li>",
+      "<li>Курсор вниз: Выбор следующего файла</li>",
+      "<li>Ctrl + курсор вверх: Добавить предыдущий файл к выбору</li>",
+      "<li>Ctrl + стрелка вниз: Добавить следующий файл к выбору</li>",
+      "<li>Ctrl + A: Выбрать все</li>",
+      "<li>Ctrl + C: Копировать</li>",
+      "<li>Ctrl + D: Выйти</li>",
+      "<li>Ctrl + I: Инвертировать выделение</li>",
+      "<li>Ctrl + R: Переместить в корзину</li>",
+      "<li>Ctrl + S: Сохранить выделение</li>",
+      "<li>Ctrl + V: Вставить</li>",
+      "<li>Ctrl + X: Вырезать</li>",
+      "<li>Backspace: Перейти к родительской папке</li>",
+      "<li>Delete: Удалить выбранное</li>",
+      "<li>Esc: Скрыть окно действий</li>",
+      "<li>Enter (на файле): Загрузить</li>",
+      "<li>Enter (на папке): Открыть папку</li>",
+      "<li>F1: Помощь</li></ul>"
     ]
   },
 
   "Login": {
+    "backupCodes": "Backup codes:",
     "badPass": "Bad password!",
     "badPassphrase": "Ошибка: неправильный секретный пароль",
     "code": "Код полученный",
     "doubleAuthMessage": "Здравствуйте, ваш код аутентификации [key]<br>С наилучшими пожеланиями,<br>Команда Muonium<br><br>Это сообщение было сгенерировано автоматически, пожалуйста, не отвечайте.",
+    "enterCodeEnable": "Once scanned, in order to enable Google Authenticator on Muonium, you need to enter the 6-digit verification code:",
+    "enterCodePerform": "In order to perform this action, you need to enter the 6-digit verification code:",
     "forgot": "Забыли пароль?",
     "insecureHttp": "You cannot use a server API from HTTP when the client has been loaded with HTTPS",
     "invalidCode": "Введенный код недействителен",
     "manually": "Or input code manually:",
+    "regenerate": "Regenerate",
     "register": "Зарегистрироваться",
     "scan": "Install <strong>Google Authentificator</strong> on your phone and scan this QR Code to get the auth code:",
     "signIn": "Вход",
@@ -105,7 +109,7 @@
 
   "LostPass": {
     "keyErr": "Ошибка: ключ проверки неверен или он истек, пожалуйста, сделайте новый запрос.",
-    "message": "Привет,<br>Чтобы обновить пароль или секретный пароль, перейдите по ссылке : <a href='[url_app]/#/lostPass/[id_user]/[key]'>[url_app]/#/lostPass/[id_user]/[key]</a><br>С наилучшими пожеланиями,<br>Команда Muonium.<br><br>Это письмо было сгенерировано автоматически, пожалуйста, не отвечайте.",
+    "message": "Привет,<br>Чтобы обновить пароль или секретный пароль, перейдите по ссылке: <a href='[url_app]/#/lostPass/[id_user]/[key]'>[url_app]/#/lostPass/[id_user]/[key]</a><br>С наилучшими пожеланиями,<br>Команда Muonium.<br><br>Это письмо было сгенерировано автоматически, пожалуйста, не отвечайте.",
     "notFound": "Error: User not found!",
     "reset": "Внимание! Если вы измените секретный пароль, ваша учетная запись будет сброшена, и вы потеряете все свои данные!",
     "subject": "Muonium - Забыли пароль",
@@ -297,7 +301,7 @@
   "Validate": {
     "done": "Your account is validated. You can now log in and start using Muonium!",
     "keyErr": "Ошибка: ключ неправильный, пожалуйста, войдите, чтобы отправить новое письмо с подтверждением",
-    "message": "Добро пожаловать в Muonium и благодарим вас за регистрацию.<br> Чтобы подтвердить свою учетную запись, перейдите по этой ссылке : <a href='[url_app]/#/validate/[id_user]/[key]'>[url_app]/#/validate/[id_user]/[key]</a><br>Best regards,<br>Muonium Team<br><br>This email was automatically generated, please do not answer.",
+    "message": "Добро пожаловать в Muonium и благодарим вас за регистрацию.<br> Чтобы подтвердить свою учетную запись, перейдите по этой ссылке: <a href='[url_app]/#/validate/[id_user]/[key]'>[url_app]/#/validate/[id_user]/[key]</a><br>Best regards,<br>Muonium Team<br><br>This email was automatically generated, please do not answer.",
     "sendmail": "Отправить новое письмо",
     "sendmess": "Перейдите по ссылке, указанной по электронной почте, чтобы активировать свою учетную запись.",
     "subject": "Muonium - проверка учетной записи",

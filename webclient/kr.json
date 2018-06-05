@@ -20,7 +20,7 @@
     "subject": "Muonium - 귀하의 구독이 [days] 이내에 종료됩니다",
     "message": "안녕하세요 [login],<br>이 이메일은 귀하의 구독이 [days] 이내에 종료되기 때문에 발송되었습니다.<br>Muonium Team"
   },
-    
+
   "InactiveUserMail": {
     "subject": "Muonium - You are inactive",
     "message": "Hi [login],<br>This email is sent because you are inactive for [inactiveDays] days.<br>Your account will be deleted in [deleteDelay] days if you don't log in<br>Muonium Team"
@@ -86,14 +86,20 @@
   },
 
   "Login": {
+    "backupCodes": "Backup codes:",
     "badPass": "잘못된 패스워드 입니다!",
     "badPassphrase": "에러: 잘못된 패스프레이즈 입니다",
-    "codeMail": "이메일로 수신된 코드",
+    "code": "이메일로 수신된 코드",
     "doubleAuthMessage": "안녕하세요, 당신의 인증 코드는 [key]입니다<br>감사합니다,<br>Muonium Team<br><br>이 이메일은 자동으로 생성되었으므로, 회신하지 마시기 바랍니다.",
+    "enterCodeEnable": "Once scanned, in order to enable Google Authenticator on Muonium, you need to enter the 6-digit verification code:",
+    "enterCodePerform": "In order to perform this action, you need to enter the 6-digit verification code:",
     "forgot": "패스워드를 잊어버리셨나요?",
     "insecureHttp": "클라이언트가 HTTPS로 로드된 경우 HTTP에서 서버 API를 사용하실 수 없습니다",
     "invalidCode": "입력하신 코드가 잘못되었습니다",
+    "manually": "Or input code manually:",
+    "regenerate": "Regenerate",
     "register": "Muonium 계정 생성하기.",
+    "scan": "Install <strong>Google Authentificator</strong> on your phone and scan this QR Code to get the auth code:",
     "signIn": "로그인",
     "success": "로그인 성공",
     "username": "이메일 또는 로그인",
@@ -114,6 +120,9 @@
   },
 
   "Profile": {
+    "2fa_0": "Disabled",
+    "2fa_1": "By e-mail",
+    "2fa_2": "Google Authentificator",
     "accountDeletionConfirm": "정말 계정을 삭제하시겠습니까?",
     "badOldPass": "이전 패스워드가 일치하지 않습니다",
     "badOldPassphrase": "이전 패스프레이즈가 일치하지 않습니다",

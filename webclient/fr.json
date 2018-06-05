@@ -20,7 +20,7 @@
     "subject": "Muonium - Votre abonnement se termine dans [days] jours",
     "message": "Bonjour [login],<br>Cet email vous est envoyé car votre abonnement se termine dans moins de [days] jours.<br>Muonium Team"
   },
-    
+
   "InactiveUserMail": {
     "subject": "Muonium - Vous êtes inactif",
     "message": "Bonjour [login],<br>Cet email vous est envoyé car vous êtres inactif depuis [inactiveDays] jours.<br>Votre compte va être supprimé dans [deleteDelay] jours si vous ne vous connectez pas.<br>Muonium Team"
@@ -30,7 +30,7 @@
     "bannedSession": "Vous avez atteint le nombre maximum autorisé de requêtes",
     "default": "Une erreur est survenue",
     "dl": "Le téléchargement de fichiers n'est pas disponible dans votre navigateur.",
-    "e404": "Erreur : Page non trouvée",
+    "e404": "Erreur\u00a0: Page non trouvée",
     "form": "Erreur dans le formulaire",
     "pp": "Impossible de modifier votre phrase secrète pour le moment"
   },
@@ -44,7 +44,7 @@
     "loading": "Chargement...",
     "login": "Connexion",
     "logout": "Déconnexion",
-    "mailSent": "Un email vous a été envoyé, veuillez vérifier votre boîte de réception et vos spams. Si vous n'avez rien reçu au bout de 5mn, tentez à nouveau :",
+    "mailSent": "Un email vous a été envoyé, veuillez vérifier votre boîte de réception et vos spams. Si vous n'avez rien reçu au bout de 5mn, tentez à nouveau\u00a0:",
     "recents": "Mui :: Récents",
     "refresh": "Actualiser",
     "register": "Inscription",
@@ -60,42 +60,46 @@
   "Help": {
     "shortcuts": [
       "<strong>Version pour ordinateur de bureau</strong><ul>",
-      "<li>Clic gauche sur un fichier/dossier : Sélectionner un fichier/dossier - Voir les détails</li>",
-      "<li>Clic gauche autre part : Désélectionner</li>",
-      "<li>Ctrl + Clic gauche : Sélectionner plusieurs fichiers</li>",
-      "<li>Clic droit : Voir les actions</li>",
-      "<li>Flèche haut : Sélectionner fichier précédent</li>",
-      "<li>Flèche bas : Sélectionner fichier suivant</li>",
-      "<li>Ctrl + Flèche haut : Ajouter fichier précédent à la sélection</li>",
-      "<li>Ctrl + Arrow down : Ajouter fichier suivant à la sélection</li>",
-      "<li>Ctrl + A : Sélectionner tout</li>",
-      "<li>Ctrl + C : Copier</li>",
-      "<li>Ctrl + D : Déconnexion</li>",
-      "<li>Ctrl + I : Inverser sélection</li>",
-      "<li>Ctrl + R : Mettre à la corbeille</li>",
-      "<li>Ctrl + S : Sauvegarder sélection</li>",
-      "<li>Ctrl + V : Coller</li>",
-      "<li>Ctrl + X : Couper</li>",
-      "<li>Retour Arrière : Aller au dossier parent</li>",
-      "<li>Suppr : Supprimer sélection</li>",
-      "<li>Echap : Masquer les actions</li>",
-      "<li>Entrée (sur un fichier) : Télécharger</li>",
-      "<li>Entrée (sur un dossier) : Ouvrir dossier</li>",
-      "<li>F1 : Aide</li></ul>"
+      "<li>Clic gauche sur un fichier/dossier\u00a0: Sélectionner un fichier/dossier - Voir les détails</li>",
+      "<li>Clic gauche autre part\u00a0: Désélectionner</li>",
+      "<li>Ctrl + Clic gauche\u00a0: Sélectionner plusieurs fichiers</li>",
+      "<li>Clic droit\u00a0: Voir les actions</li>",
+      "<li>Flèche haut\u00a0: Sélectionner fichier précédent</li>",
+      "<li>Flèche bas\u00a0: Sélectionner fichier suivant</li>",
+      "<li>Ctrl + Flèche haut\u00a0: Ajouter fichier précédent à la sélection</li>",
+      "<li>Ctrl + Arrow down\u00a0: Ajouter fichier suivant à la sélection</li>",
+      "<li>Ctrl + A\u00a0: Sélectionner tout</li>",
+      "<li>Ctrl + C\u00a0: Copier</li>",
+      "<li>Ctrl + D\u00a0: Déconnexion</li>",
+      "<li>Ctrl + I\u00a0: Inverser sélection</li>",
+      "<li>Ctrl + R\u00a0: Mettre à la corbeille</li>",
+      "<li>Ctrl + S\u00a0: Sauvegarder sélection</li>",
+      "<li>Ctrl + V\u00a0: Coller</li>",
+      "<li>Ctrl + X\u00a0: Couper</li>",
+      "<li>Retour Arrière\u00a0: Aller au dossier parent</li>",
+      "<li>Suppr\u00a0: Supprimer sélection</li>",
+      "<li>Echap\u00a0: Masquer les actions</li>",
+      "<li>Entrée (sur un fichier)\u00a0: Télécharger</li>",
+      "<li>Entrée (sur un dossier)\u00a0: Ouvrir dossier</li>",
+      "<li>F1\u00a0: Aide</li></ul>"
     ]
   },
 
   "Login": {
-    "badPass": "Mauvais mot de passe !",
-    "badPassphrase": "Erreur : phrase secrète incorrecte",
+    "backupCodes": "Codes de secours\u00a0:",
+    "badPass": "Mauvais mot de passe\u00a0!",
+    "badPassphrase": "Erreur\u00a0: phrase secrète incorrecte",
     "code": "Code reçu",
     "doubleAuthMessage": "Bonjour, votre code d'authentification est [key]<br>Cordialement,<br>L'équipe Muonium<br><br>Ce mail a été généré automatiquement, merci de ne pas y répondre.",
-    "forgot": "Mot de passe oublié ?",
+    "enterCodeEnable": "Une fois scanné, et afin d'activer Google Authenticator sur Muonium, vous devez entrer le code de vérification à 6 caractères\u00a0:",
+    "enterCodePerform": "Pour effectuer cette action vous devez entrer le code de vérification à 6 caractères\u00a0:",
+    "forgot": "Mot de passe oublié\u00a0?",
     "insecureHttp": "Vous ne pouvez pas utiliser l'API Server depuis HTTP lorsque le client a été chargé avec HTTPS",
     "invalidCode": "Le code entré est invalide",
-    "manually": "Ou entrez le code manuellement :",
+    "manually": "Ou entrez le code manuellement\u00a0:",
+    "regenerate": "Regénérer",
     "register": "Créer un compte Muonium.",
-    "scan": "Installez <strong>Google Authentificator</strong> sur votre téléphone, et veuillez scanner ce QR Code afin d'obtenir votre code d'authentification :",
+    "scan": "Installez <strong>Google Authentificator</strong> sur votre téléphone, et veuillez scanner ce QR Code afin d'obtenir votre code d'authentification\u00a0:",
     "signIn": "Se connecter",
     "success": "Connexion réussie",
     "username": "Email ou nom d'utilisateur",
@@ -104,10 +108,10 @@
   },
 
   "LostPass": {
-    "keyErr": "Erreur : La clé est incorrecte ou expirée, veuillez refaire une demande de mot de passe perdu.",
-    "message": "Bonjour,<br>Afin de modifier votre mot de passe ou votre phrase secrète, veuillez suivre ce lien : <a href='[url_app]/#/lostPass/[id_user]/[key]'>[url_app]/#/lostPass/[id_user]/[key]</a><br>Cordialement,<br>L'équipe Muonium.<br><br>Ce mail a été généré automatiquement, merci de ne pas y répondre.",
-    "notFound": "Erreur : Utilisateur non trouvé !",
-    "reset": "Attention ! Si vous changez votre phrase secrète, votre compte sera réinitialisé et vous perdrez vos données !",
+    "keyErr": "Erreur\u00a0: La clé est incorrecte ou expirée, veuillez refaire une demande de mot de passe perdu.",
+    "message": "Bonjour,<br>Afin de modifier votre mot de passe ou votre phrase secrète, veuillez suivre ce lien&nbsp;: <a href='[url_app]/#/lostPass/[id_user]/[key]'>[url_app]/#/lostPass/[id_user]/[key]</a><br>Cordialement,<br>L'équipe Muonium.<br><br>Ce mail a été généré automatiquement, merci de ne pas y répondre.",
+    "notFound": "Erreur\u00a0: Utilisateur non trouvé\u00a0!",
+    "reset": "Attention\u00a0! Si vous changez votre phrase secrète, votre compte sera réinitialisé et vous perdrez vos données\u00a0!",
     "subject": "Muonium - Mot de passe oublié",
     "updateErr": "Impossible de mettre à jour vos informations.",
     "updateOk": "Vos informations ont bien été mises à jour.",
@@ -119,7 +123,7 @@
     "2fa_0": "Désactivé",
     "2fa_1": "Par email",
     "2fa_2": "Google Authentificator",
-    "accountDeletionConfirm": "Voulez-vous vraiment supprimer votre compte ?",
+    "accountDeletionConfirm": "Voulez-vous vraiment supprimer votre compte\u00a0?",
     "badOldPass": "Votre ancien mot de passe ne correspond pas",
     "badOldPassphrase": "Votre ancienne phrase secrète ne correspond pas",
     "changeLogin": "Modifier votre nom d'utilisateur",
@@ -153,12 +157,12 @@
   },
 
   "Register": {
-    "alreadyRegistered": "Déjà inscrit ?",
+    "alreadyRegistered": "Déjà inscrit\u00a0?",
     "badPassConfirm": "Les deux mots de passe sont différents.",
     "badPassphraseConfirm": "Les deux phrase secrètes sont différentes.",
     "confirm": "Confirmez",
     "create": "Créer maintenant.",
-    "dontHaveAccount": "Pas de compte Muonium ?",
+    "dontHaveAccount": "Pas de compte Muonium\u00a0?",
     "doubleAuth": "Activer",
     "email": "Adresse email",
     "error": "Une erreur est survenue lors de la création du compte.",
@@ -169,7 +173,7 @@
     "loginFormat": "Le format du pseudo est incorrect (entre 2 et 20 caractères alphanumérique, -_. autorisés).",
     "mailExists": "Votre adresse email est déjà enregistrée dans la base de données. Impossible de recréer un compte à partir de celle-ci.",
     "mailFormat": "Le format de l'adresse email est incorrect.",
-    "ok": "Inscription effectuée avec succès !",
+    "ok": "Inscription effectuée avec succès\u00a0!",
     "passEqualPassphrase": "Le mot de passe et la phrase secrète doivent être différents.",
     "passLength": "Le mot de passe ou la phrase secrète doit faire au minimum 6 caractères.",
     "passphrase": "Phrase secrète",
@@ -178,9 +182,9 @@
   },
 
   "Rm": {
-    "questiond": "Voulez vous supprimer ce dossier ?",
-    "questionf": "Voulez vous supprimer ce fichier ?",
-    "questionrm": "Voulez vous supprimer ce(s) fichier(s)/dossier(s) ?"
+    "questiond": "Voulez vous supprimer ce dossier\u00a0?",
+    "questionf": "Voulez vous supprimer ce fichier\u00a0?",
+    "questionrm": "Voulez vous supprimer ce(s) fichier(s)/dossier(s)\u00a0?"
   },
 
   "Selection": {
@@ -224,9 +228,9 @@
   },
 
   "Transfers": {
-    "replaceFile": "Le fichier [filename] existe, voulez-vous le remplacer ?",
-    "replaceCompleteFile": "Le fichier [filename] existe et il n'est pas complet, que voulez-vous faire ?",
-    "quotaExceeded": "Quota dépassé !",
+    "replaceFile": "Le fichier [filename] existe, voulez-vous le remplacer\u00a0?",
+    "replaceCompleteFile": "Le fichier [filename] existe et il n'est pas complet, que voulez-vous faire\u00a0?",
+    "quotaExceeded": "Quota dépassé\u00a0!",
     "fileAPI": "Les APIs File ne sont pas totalement supportées par votre navigateur.",
     "yes": "Oui",
     "no": "Non",
@@ -296,8 +300,8 @@
 
   "Validate": {
     "done": "Votre compte est validé. Vous pouvez vous connecter et démarrer avec Muonium!",
-    "keyErr": "Erreur : La clé de validation est incorrecte, connectez-vous pour envoyer un nouveau mail de validation",
-    "message": "Bienvenue sur Muonium !<br>Afin de valider votre compte, suivez ce lien : <a href='[url_app]/#/validate/[id_user]/[key]'>[url_app]/#/validate/[id_user]/[key]</a><br>Cordialement,<br>L'équipe Muonium<br><br>Ce mail a été généré automatiquement, merci de ne pas y répondre.",
+    "keyErr": "Erreur\u00a0: La clé de validation est incorrecte, connectez-vous pour envoyer un nouveau mail de validation",
+    "message": "Bienvenue sur Muonium&nbsp;!<br>Afin de valider votre compte, suivez ce lien&nbsp;: <a href='[url_app]/#/validate/[id_user]/[key]'>[url_app]/#/validate/[id_user]/[key]</a><br>Cordialement,<br>L'équipe Muonium<br><br>Ce mail a été généré automatiquement, merci de ne pas y répondre.",
     "sendmail": "Envoyer un nouvel email",
     "sendmess": "Suivez le lien donné dans l'email pour activer votre compte",
     "subject": "Muonium - Validez votre compte",

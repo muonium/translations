@@ -20,7 +20,7 @@
     "subject": "Muonium - Your subscription ends in less than [days] days",
     "message": "Hi [login],<br>This email is sent because your subscription ends in less than [days] days.<br>Muonium Team"
   },
-    
+
   "InactiveUserMail": {
     "subject": "Muonium - You are inactive",
     "message": "Hi [login],<br>This email is sent because you are inactive for [inactiveDays] days.<br>Your account will be deleted in [deleteDelay] days if you don't log in<br>Muonium Team"
@@ -86,14 +86,18 @@
   },
 
   "Login": {
+    "backupCodes": "Backup codes:",
     "badPass": "密码错误！",
     "badPassphrase": "错误: 无效的私密密码",
     "code": "受了验证码",
     "doubleAuthMessage": "你好，你的验证码是 [key]<br>敬上，<br>Muonium 团队<br><br>这个邮件是自动生成的，请不要回复。",
+    "enterCodeEnable": "Once scanned, in order to enable Google Authenticator on Muonium, you need to enter the 6-digit verification code:",
+    "enterCodePerform": "In order to perform this action, you need to enter the 6-digit verification code:",
     "forgot": "密码忘了？",
     "insecureHttp": "You cannot use a server API from HTTP when the client has been loaded with HTTPS",
     "invalidCode": "无效的验证码",
     "manually": "Or input code manually:",
+    "regenerate": "Regenerate",
     "register": "注册",
     "scan": "Install <strong>Google Authentificator</strong> on your phone and scan this QR Code to get the auth code:",
     "signIn": "登录",
