@@ -99,7 +99,7 @@
     "manually": "Or input code manually:",
     "regenerate": "Regenerate",
     "register": "Registrieren",
-    "scan": "Install <strong>Google Authentificator</strong> on your phone and scan this QR Code to get the auth code:",
+    "scan": "Install <strong>Google Authenticator</strong> on your phone and scan this QR Code to get the auth code:",
     "showBackupCodes": "Show backup codes",
     "signIn": "Login",
     "success": "Erfolgreich eingeloggt",
@@ -123,7 +123,7 @@
   "Profile": {
     "2fa_0": "Disabled",
     "2fa_1": "By e-mail",
-    "2fa_2": "Google Authentificator",
+    "2fa_2": "Google Authenticator",
     "accountDeletionConfirm": "Willst Du Deinen Account wirklich löschen?",
     "badOldPass": "Dein altes Passwort passt nicht",
     "badOldPassphrase": "Dein altes geheimes Passwort passt nicht",

@@ -99,7 +99,7 @@
     "manually": "Or input code manually:",
     "regenerate": "Regenerate",
     "register": "注册",
-    "scan": "Install <strong>Google Authentificator</strong> on your phone and scan this QR Code to get the auth code:",
+    "scan": "Install <strong>Google Authenticator</strong> on your phone and scan this QR Code to get the auth code:",
     "showBackupCodes": "Show backup codes",
     "signIn": "登录",
     "success": "成功登录",
@@ -123,7 +123,7 @@
   "Profile": {
     "2fa_0": "Disabled",
     "2fa_1": "By e-mail",
-    "2fa_2": "Google Authentificator",
+    "2fa_2": "Google Authenticator",
     "accountDeletionConfirm": "你想删除你的账户吗？",
     "badOldPass": "你的旧密码不配对",
     "badOldPassphrase": "你的旧私密密码不配对",

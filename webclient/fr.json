@@ -99,7 +99,7 @@
     "manually": "Ou entrez le code manuellement\u00a0:",
     "regenerate": "Regénérer",
     "register": "Créer un compte Muonium.",
-    "scan": "Installez <strong>Google Authentificator</strong> sur votre téléphone, et veuillez scanner ce QR Code afin d'obtenir votre code d'authentification\u00a0:",
+    "scan": "Installez <strong>Google Authenticator</strong> sur votre téléphone, et veuillez scanner ce QR Code afin d'obtenir votre code d'authentification\u00a0:",
     "showBackupCodes": "Afficher les codes de secours",
     "signIn": "Se connecter",
     "success": "Connexion réussie",
@@ -123,7 +123,7 @@
   "Profile": {
     "2fa_0": "Désactivé",
     "2fa_1": "Par email",
-    "2fa_2": "Google Authentificator",
+    "2fa_2": "Google Authenticator",
     "accountDeletionConfirm": "Voulez-vous vraiment supprimer votre compte\u00a0?",
     "badOldPass": "Votre ancien mot de passe ne correspond pas",
     "badOldPassphrase": "Votre ancienne phrase secrète ne correspond pas",
