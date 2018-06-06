@@ -60,3 +60,7 @@ If you see a translation mistake, then you can open an issue or make a pull requ
 ### Pull Request
 
 You can write your name or pseudo on AUTHORS in your PR.
+
+/!\ **before merging, you need your PR to be reviewed and approved by at least three people speaking your language.**
+
+Then, we suggest you to ask your friends or any other people you know that could review your PR on GitHub.
